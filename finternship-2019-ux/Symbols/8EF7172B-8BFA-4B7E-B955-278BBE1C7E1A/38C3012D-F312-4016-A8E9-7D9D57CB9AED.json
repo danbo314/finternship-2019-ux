@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-Ultra",
               "size": 28
             }
           },
@@ -27,8 +27,35 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 7,
+        "length": 5,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AvenirNext-Bold",
+              "size": 28
+            }
+          },
+          "kerning": 2.308333416666665,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 2,
+        "location": 5
       }
     ],
     "string": "About\n\n"
@@ -57,7 +84,7 @@
     "x": 1488,
     "y": 42
   },
-  "glyphBounds": "{{59, -21}, {96, 22}}",
+  "glyphBounds": "{{56, 1}, {101, 65}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +119,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-Ultra",
             "size": 28
           }
         },
