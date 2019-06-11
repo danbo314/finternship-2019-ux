@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "47A99800-9EA4-4216-B71D-F4F5AE696239",
+  "do_objectID": "020FE026-11D3-4204-B923-49E6A830BA58",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,39 +15,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 66,
-    "x": 1799,
-    "y": 42
+    "height": 53,
+    "width": 101,
+    "x": 137,
+    "y": 18
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "8CF44164-BB76-4E7D-BA91-A686B1D2FB43"
-    }
-  ],
-  "name": "md/contact",
+  "layerListExpandedType": 0,
+  "name": "lumitylogo largeblue",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0.5,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1D468060-DAFF-404E-A31E-BFCE4DAB08DD",
+  "verticalSpacing": 0
 }

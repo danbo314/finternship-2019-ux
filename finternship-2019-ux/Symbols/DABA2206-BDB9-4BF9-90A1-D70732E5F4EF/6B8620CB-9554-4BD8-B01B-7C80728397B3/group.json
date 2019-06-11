@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "47A99800-9EA4-4216-B71D-F4F5AE696239",
+  "do_objectID": "6B8620CB-9554-4BD8-B01B-7C80728397B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 66,
-    "x": 1799,
-    "y": 42
+    "height": 23,
+    "width": 23,
+    "x": 336,
+    "y": 33
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,11 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8CF44164-BB76-4E7D-BA91-A686B1D2FB43"
+      "id": "A3E2FA51-FC9E-4AA1-80D0-E4F76EC65049"
     }
   ],
   "name": "md/contact",

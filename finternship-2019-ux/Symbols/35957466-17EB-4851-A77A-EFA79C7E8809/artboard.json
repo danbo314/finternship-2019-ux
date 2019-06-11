@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "DFB696A6-98CE-4078-A8AA-79798C6DD938",
+  "do_objectID": "35957466-17EB-4851-A77A-EFA79C7E8809",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311,
-    "width": 593,
-    "x": 523,
-    "y": 317
+    "height": 50,
+    "width": 375,
+    "x": 1498,
+    "y": 651
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,17 +47,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "A94166BF-AD27-42A3-B68E-06C9DB97CA7F"
+    },
+    {
+      "class": "text",
+      "id": "FB5F0B27-F71E-4C39-89A7-A7EF3787EBB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3633A14C-BC0C-4E3F-BC07-76C76E700013"
+    },
+    {
       "class": "group",
-      "id": "0871F295-F775-4C02-8A4B-A036F1632764"
+      "id": "A422A5CD-484B-447B-BB5B-F2B823387877"
+    },
+    {
+      "class": "text",
+      "id": "22DBBBE7-2068-4D23-B46A-2D0C0B3947C6"
+    },
+    {
+      "class": "group",
+      "id": "44EFB225-CA0B-4295-8FED-45850E208964"
+    },
+    {
+      "class": "group",
+      "id": "63C0F1D9-15E3-4D3C-8CC0-84434E1ADE1E"
     }
   ],
-  "name": "Lumity Logo Blue",
-  "nameIsFixed": false,
-  "overrideProperties": [
-  ],
+  "name": "Tab Bar - Mobile (Surveys Selected)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,7 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CEF9EF8C-C360-49F1-9A8E-7198C972E6ED",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

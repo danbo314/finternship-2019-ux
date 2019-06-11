@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "47A99800-9EA4-4216-B71D-F4F5AE696239",
+  "do_objectID": "74DE85EE-FF26-4488-974F-B620024A815B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 66,
-    "x": 1799,
-    "y": 42
+    "height": 21,
+    "width": 23,
+    "x": 185,
+    "y": 101
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,14 +30,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "8CF44164-BB76-4E7D-BA91-A686B1D2FB43"
-    }
   ],
-  "name": "md/contact",
+  "name": "_ionicons_svg_ios-calendar",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

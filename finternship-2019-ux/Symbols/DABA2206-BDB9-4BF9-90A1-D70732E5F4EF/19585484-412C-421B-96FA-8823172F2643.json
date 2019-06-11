@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "47A99800-9EA4-4216-B71D-F4F5AE696239",
+  "do_objectID": "19585484-412C-421B-96FA-8823172F2643",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 66,
-    "x": 1799,
-    "y": 42
+    "height": 44,
+    "width": 180,
+    "x": 13,
+    "y": 22
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Bars / Navigation Bar / x / Left / Label 1 Item",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "shapeGroup",
-      "id": "8CF44164-BB76-4E7D-BA91-A686B1D2FB43"
+      "_class": "overrideValue",
+      "do_objectID": "1A8980CC-6054-4C51-9AEA-5A33AAA7965B",
+      "overrideName": "E1309802-4A7A-4BC3-BCBC-554C77A5A76A/A0DCB727-B361-426C-AA3B-645979832755_stringValue",
+      "value": "Back"
     }
   ],
-  "name": "md/contact",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,5 +49,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "673D8A16-87B4-4FFC-99B9-84683F51D561",
+  "verticalSpacing": 0
 }

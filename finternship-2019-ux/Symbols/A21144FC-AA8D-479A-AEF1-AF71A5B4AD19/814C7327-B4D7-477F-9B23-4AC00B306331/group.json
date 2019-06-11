@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "47A99800-9EA4-4216-B71D-F4F5AE696239",
+  "do_objectID": "814C7327-B4D7-477F-9B23-4AC00B306331",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 66,
-    "x": 1799,
-    "y": 42
+    "height": 21,
+    "width": 22,
+    "x": 177,
+    "y": 7
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,14 +30,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8CF44164-BB76-4E7D-BA91-A686B1D2FB43"
+      "id": "6B3E31A3-321C-4CC3-9016-681B00713788"
     }
   ],
-  "name": "md/contact",
+  "name": "_ionicons_svg_ios-star-outline",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,6 +45,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

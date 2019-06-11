@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "DFB696A6-98CE-4078-A8AA-79798C6DD938",
+  "do_objectID": "DABA2206-BDB9-4BF9-90A1-D70732E5F4EF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311,
-    "width": 593,
-    "x": 523,
-    "y": 317
+    "height": 88,
+    "width": 375,
+    "x": 1973,
+    "y": 497
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,17 +47,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "020FE026-11D3-4204-B923-49E6A830BA58"
+    },
+    {
       "class": "group",
-      "id": "0871F295-F775-4C02-8A4B-A036F1632764"
+      "id": "6B8620CB-9554-4BD8-B01B-7C80728397B3"
+    },
+    {
+      "class": "text",
+      "id": "97B68B26-A173-4298-8E7A-EB9207E1F56D"
+    },
+    {
+      "class": "group",
+      "id": "40078791-853B-431D-9A3A-A78A109E363D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19585484-412C-421B-96FA-8823172F2643"
     }
   ],
-  "name": "Lumity Logo Blue",
-  "nameIsFixed": false,
-  "overrideProperties": [
-  ],
+  "name": "Top Bar - Mobile (With Back Button)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,7 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CEF9EF8C-C360-49F1-9A8E-7198C972E6ED",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

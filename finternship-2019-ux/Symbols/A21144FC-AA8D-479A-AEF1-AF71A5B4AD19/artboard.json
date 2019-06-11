@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "DFB696A6-98CE-4078-A8AA-79798C6DD938",
+  "do_objectID": "A21144FC-AA8D-479A-AEF1-AF71A5B4AD19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311,
-    "width": 593,
-    "x": 523,
-    "y": 317
+    "height": 50,
+    "width": 375,
+    "x": 1973,
+    "y": 651
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,17 +47,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "C544766F-E4EF-4638-871F-1C6CE7360CB1"
+    },
+    {
+      "class": "text",
+      "id": "F2CDDE3C-C631-4276-ADA1-41DB671052DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D0F9A6C-D8F4-46BD-AEB4-D5329857F2CE"
+    },
+    {
       "class": "group",
-      "id": "0871F295-F775-4C02-8A4B-A036F1632764"
+      "id": "23B12AD9-D21D-4A16-8639-B87C9DB5A48D"
+    },
+    {
+      "class": "text",
+      "id": "5CCE16D3-9299-4537-9580-F312360F2F89"
+    },
+    {
+      "class": "group",
+      "id": "814C7327-B4D7-477F-9B23-4AC00B306331"
+    },
+    {
+      "class": "group",
+      "id": "35FA566F-7C1E-4B4A-A002-2F98B2DEFDC9"
     }
   ],
-  "name": "Lumity Logo Blue",
-  "nameIsFixed": false,
-  "overrideProperties": [
-  ],
+  "name": "Tab Bar - Mobile (Events Selected)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,7 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CEF9EF8C-C360-49F1-9A8E-7198C972E6ED",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

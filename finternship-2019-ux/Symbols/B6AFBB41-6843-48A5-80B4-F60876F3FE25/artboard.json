@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "DFB696A6-98CE-4078-A8AA-79798C6DD938",
+  "do_objectID": "B6AFBB41-6843-48A5-80B4-F60876F3FE25",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 311,
-    "width": 593,
-    "x": 523,
-    "y": 317
+    "height": 50,
+    "width": 375,
+    "x": 2448,
+    "y": 651
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -42,7 +40,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,17 +47,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "57B2556A-7BCA-42CA-8A3D-249000F7C649"
+    },
+    {
+      "class": "text",
+      "id": "D967A146-D3B0-4CDE-997F-8A17C8AF70E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B1DB043-5032-459C-8993-7C183873958C"
+    },
+    {
       "class": "group",
-      "id": "0871F295-F775-4C02-8A4B-A036F1632764"
+      "id": "74DE85EE-FF26-4488-974F-B620024A815B"
+    },
+    {
+      "class": "text",
+      "id": "7E329D9B-9FD2-4669-8EF8-EFC121B1EDF8"
+    },
+    {
+      "class": "group",
+      "id": "6EC26FB3-24D9-4F7F-AC1F-D5B61B9E8BA2"
+    },
+    {
+      "class": "group",
+      "id": "56C7A58A-0AFE-428E-B31D-1F52BBDE510A"
     }
   ],
-  "name": "Lumity Logo Blue",
-  "nameIsFixed": false,
-  "overrideProperties": [
-  ],
+  "name": "Tab Bar - Mobile (About Selected)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,7 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CEF9EF8C-C360-49F1-9A8E-7198C972E6ED",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
