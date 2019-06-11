@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0EF5557-9148-4F16-A4EB-AEE94DD56CB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9779F42E-4582-4299-A58A-BCD5FC3F339E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0135FC0E-C095-4EAB-96CF-355B6C412210",
+    "height": 292,
+    "width": 303,
+    "x": 36,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "675E0F74-BF0E-4101-AF2A-061765999720"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9CBAEA13-2C41-45F7-8481-EF2190694D36"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFA7FC76-04D0-4EE7-9053-867A306B2AB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "87D8973A-C488-4973-A7D0-A33F7F7D9F03"
+    },
+    {
+      "class": "shapePath",
+      "id": "17B59C92-28BA-4402-B52A-A8C43F49FF11"
+    },
+    {
+      "class": "shapePath",
+      "id": "240449E8-01E0-4002-B9C2-DE4B6F61F83C"
+    },
+    {
+      "class": "text",
+      "id": "E92C9B0C-81A5-44E5-ACF3-3D9B6EF92A3F"
+    },
+    {
+      "class": "text",
+      "id": "837BCEFE-18C7-41CE-B9B9-2A8F9B9EC66B"
+    },
+    {
+      "class": "text",
+      "id": "D33C30E9-052B-4445-843A-173BF0C4353A"
+    },
+    {
+      "class": "text",
+      "id": "4B28B614-65FF-4086-AA78-49D80170D4B7"
+    }
+  ],
+  "name": "Data Entry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A41CBB5-C738-4416-9CCC-23F115489B4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

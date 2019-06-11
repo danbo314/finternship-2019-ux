@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76DCECE2-1357-4376-921D-0B88F5BA2E45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEF78838-D269-4DB7-BA7D-C8DC26B9FC90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01CBC73A-1492-4505-8FAB-45975B470A06",
+    "height": 292,
+    "width": 303,
+    "x": 29,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D7C38382-AE1D-4CFE-AEBC-BA0E446D753C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA09D195-7102-4C77-B090-AC7C054BC967"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBBAD84B-E1CD-4F25-8594-FCEBACFC9F12"
+    },
+    {
+      "class": "shapePath",
+      "id": "937F7CAA-DB62-408E-BD16-5D41712038AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3CA24A2-810E-435C-B697-365C95DABEE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "451FA144-7E78-41EA-A942-D4F4A53E9E20"
+    },
+    {
+      "class": "text",
+      "id": "6A5C4460-70C4-4780-9AF5-9C433FB4C8F5"
+    },
+    {
+      "class": "text",
+      "id": "AF12DB6A-52EE-43B9-A047-28E2136CBED1"
+    },
+    {
+      "class": "text",
+      "id": "94A3814E-7289-48EF-B171-260EC5DFC88B"
+    },
+    {
+      "class": "text",
+      "id": "8B05DFB4-5A29-4706-BB08-BB884629C8B2"
+    }
+  ],
+  "name": "Data Entry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90C836DD-57D3-4A8E-BE8C-DBFA77B7B682",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

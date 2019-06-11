@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Book",
+              "name": "Gotham-Medium",
               "size": 28
             }
           },
@@ -29,36 +29,9 @@
         },
         "length": 6,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Helvetica",
-              "size": 28
-            }
-          },
-          "kerning": 2.308333416666665,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 1
-        },
-        "length": 1,
-        "location": 6
       }
     ],
-    "string": "Events\n"
+    "string": "Events"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
+    "height": 52,
     "width": 216,
     "x": 958,
-    "y": 23
+    "y": 45
   },
-  "glyphBounds": "{{57, 2}, {101, 21}}",
+  "glyphBounds": "{{56, 2}, {103, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -115,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Book",
+            "name": "Gotham-Medium",
             "size": 28
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Bold",
+              "name": "Gotham-Medium",
               "size": 28
             }
           },
@@ -55,9 +55,9 @@
     "height": 66,
     "width": 216,
     "x": 1223,
-    "y": 42
+    "y": 38
   },
-  "glyphBounds": "{{47, 7}, {120, 28}}",
+  "glyphBounds": "{{46, 2}, {121, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Bold",
+            "name": "Gotham-Medium",
             "size": 28
           }
         },

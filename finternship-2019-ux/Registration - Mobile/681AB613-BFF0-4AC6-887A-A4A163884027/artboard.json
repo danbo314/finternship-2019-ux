@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2AD19CE7-D73F-4749-A577-D156430691C1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "681AB613-BFF0-4AC6-887A-A4A163884027",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3BB51B3-E57A-4160-BB1E-EFA3A770E19E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC86A86B-DB02-419D-9186-87DF0BF69B8F",
+    "height": 760,
+    "width": 360,
+    "x": 416,
+    "y": 1176
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "57E41699-F485-4157-9E1E-9BCDFC42076E"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C22F9CEC-B355-4BEE-AD08-029B29457FD3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6B33EBEF-3FCF-42DE-A082-B4DE77BACF0B"
+    },
+    {
+      "class": "group",
+      "id": "85391C8B-52D0-40BD-8AE5-CA3E0CD9A9DF"
+    },
+    {
+      "class": "group",
+      "id": "EDC26137-E85C-43BE-B422-24A3F8DDFFBE"
+    }
+  ],
+  "name": "Galaxy S10",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 760,
+    "name": "Galaxy S10",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F9C702F-334E-4FC4-815A-3638C2743E83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8EBD465-2D77-4194-A1C4-67C0CEC900FA",
+    "guides": [
+    ]
+  }
+}
