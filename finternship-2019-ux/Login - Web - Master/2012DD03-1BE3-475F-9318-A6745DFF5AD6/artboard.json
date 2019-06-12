@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4A4DEEF2-83E6-47E0-9CA3-7BC727A35256",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2012DD03-1BE3-475F-9318-A6745DFF5AD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B14D6D8-DE90-4CDC-AD22-C59A5E50079A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "682E5AED-4AE8-4435-9387-98C23EF6AA46",
+    "height": 1080,
+    "width": 1920,
+    "x": 15243,
+    "y": 181
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "062795C5-E96A-4D37-B313-C4FBDFE1D3FE"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4547437B-C77C-4BEB-BA14-30813867EDE9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8CF74A76-0BFB-4C76-9EA8-A5B9D4D1D3AC"
+    },
+    {
+      "class": "group",
+      "id": "18C53D77-A2BE-4FA7-9ABF-FE31FF29A376"
+    },
+    {
+      "class": "text",
+      "id": "A9219DBF-60EE-42C6-9817-7AC031B10996"
+    },
+    {
+      "class": "text",
+      "id": "73D215D9-A0BE-415E-98AE-CAAB12DC2C6D"
+    },
+    {
+      "class": "group",
+      "id": "D99319B9-1C5F-4CEC-974E-B60219417E54"
+    },
+    {
+      "class": "group",
+      "id": "CD510A71-CACF-4DD6-901D-6A5859457006"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BECF902F-8331-45AA-9EA6-E9BC7E746060"
+    },
+    {
+      "class": "group",
+      "id": "11F6B02F-08A8-4A6D-B2C6-31E2A396C2CE"
+    },
+    {
+      "class": "group",
+      "id": "0BCC0A90-CFA0-46F3-812B-137CE9CA0BAF"
+    }
+  ],
+  "name": "Reset Password Form Validation",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EFF4262-BA53-4F7A-BABE-C2FF24519977",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49231650-2863-459E-B02F-346CD4E4C346",
+    "guides": [
+    ]
+  }
+}

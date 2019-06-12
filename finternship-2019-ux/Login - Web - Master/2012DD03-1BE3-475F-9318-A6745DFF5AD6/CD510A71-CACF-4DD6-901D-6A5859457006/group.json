@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD510A71-CACF-4DD6-901D-6A5859457006",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F7206E3-A100-4A1C-A802-3011B62EBFBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2DBB207-4310-4C6B-9FAB-4DC214945CB1",
+    "height": 40,
+    "width": 47,
+    "x": 1154,
+    "y": 600
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0EDAFE24-1A6F-4965-95B7-6F21EE7BE662"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D3976D4-BEA0-47DD-8D53-B45654C22965"
+    }
+  ],
+  "name": "md/eye-off",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "3A2077A2-3741-48FD-8D0A-78F1C69FCA12",
+      "opacity": 0.5
+    },
+    "do_objectID": "F1FE8E02-219A-4FA3-A5E3-BAE1F0B39D72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
