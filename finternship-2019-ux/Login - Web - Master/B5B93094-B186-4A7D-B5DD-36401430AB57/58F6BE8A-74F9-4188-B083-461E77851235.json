@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.4,
+            "green": 0.4,
+            "red": 0.4
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,24 +23,24 @@
           "kerning": 1.648809583333332,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 4,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Text"
+    "string": "Password\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C",
+  "do_objectID": "58F6BE8A-74F9-4188-B083-461E77851235",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1E425937-4C0B-4151-AF11-193B90F82846",
+    "do_objectID": "7845AE26-7E4A-4CAD-8DD8-5D66F610F887",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3D23E443-EA77-4A12-9A68-A93C8AF614AC",
-    "height": 63,
-    "width": 210,
-    "x": 0,
-    "y": 0
+    "do_objectID": "87A8F248-BF94-4C8D-B047-648E1C7F7E65",
+    "height": 57,
+    "width": 326,
+    "x": 797,
+    "y": 583
   },
-  "glyphBounds": "{{81, -14}, {46, 15}}",
+  "glyphBounds": "{{1, -15}, {105, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Text",
+  "name": "Password",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,20 +74,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "06172DCC-3601-4708-8AC5-5B3998BBCC2F",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5D82B1CF-346D-4F73-964F-311EB8F3B2AF",
+      "opacity": 0.5
+    },
+    "do_objectID": "31FB1595-67BF-4A69-8D5E-88C6D4EC6CAD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "652D1E18-3052-429A-9254-BDD6E4DA1502",
+      "do_objectID": "DE35FEBA-B031-49F7-9C85-FACA1826FE68",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -99,7 +105,7 @@
         "kerning": 1.648809583333332,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
