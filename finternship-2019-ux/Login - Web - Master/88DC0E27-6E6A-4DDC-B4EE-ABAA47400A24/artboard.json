@@ -1,19 +1,19 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "C8BF07FC-E190-4C8F-A940-5932F5B228AF",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 17,
   "clippingMaskMode": 0,
-  "do_objectID": "02D852D7-B0F1-4151-B10E-F1ECD97A223E",
+  "do_objectID": "88DC0E27-6E6A-4DDC-B4EE-ABAA47400A24",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F5F7A67B-E153-4FB8-AFDC-F0B8C2B3C368",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,13 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "204DD8B0-9091-4E40-8C2C-AC4D12004E16",
     "height": 1080,
     "width": 1920,
-    "x": 4188,
-    "y": -94
+    "x": 7759,
+    "y": -1847
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "88E59A61-5760-4AF0-9FC5-B7F94142C4FD"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,11 +40,11 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "3C3EE8EA-F5BF-4DBC-86B6-AC8930ADA057",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -50,38 +52,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "5853BFEC-C297-4E87-8D3A-CB272114D069"
+      "id": "3CD5C115-CF87-48D1-875C-19661EE0C43A"
     },
     {
       "class": "rectangle",
-      "id": "A7970149-ACF8-4D5E-B404-F6DBF4BF694B"
+      "id": "E6BD14B3-32CB-400D-8E15-43F668F7D8E7"
     },
     {
       "class": "rectangle",
-      "id": "8686AA71-301D-4DF9-9968-D464FD606A82"
+      "id": "12654436-A878-4CFA-B9AE-409F7EBA6F4C"
     },
     {
       "class": "rectangle",
-      "id": "81831571-DEE7-4AAD-BDB0-64843D18D541"
+      "id": "64D13087-9AAA-497E-8015-7E38FA1FB676"
     },
     {
       "class": "symbolInstance",
-      "id": "75C85619-2334-49FC-8BC5-0BBE26DD8023"
-    }
-  ],
-  "name": "16:9 Web Stripes",
-  "nameIsFixed": false,
-  "overrideProperties": [
+      "id": "A0E51163-9EF4-468D-B75B-F98BEBE5306F"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "75C85619-2334-49FC-8BC5-0BBE26DD8023_symbolID"
+      "class": "symbolInstance",
+      "id": "1AF6B96B-2C8A-4CB0-8E69-84B77CA98415"
+    },
+    {
+      "class": "rectangle",
+      "id": "7010CC7D-8664-4BF5-A7B0-0A0F7D28B8C1"
+    },
+    {
+      "class": "text",
+      "id": "7D44325D-09D6-440E-BE2A-7536A0313EFB"
     }
   ],
+  "name": "16:9 Forgot Password Edited",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,15 +96,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5F85774B-F497-4FAC-8963-4130FD644EB9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "61854B94-2578-4770-BB91-DFEC4884AFE0",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "31E7733C-AA2D-49B7-A375-02BC08A83DDD",
     "guides": [
     ]
   }

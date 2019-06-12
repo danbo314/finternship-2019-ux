@@ -27,19 +27,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 9,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Username\n"
+    "string": "Username"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C73C3750-7E38-46D3-BD6C-522C5446C2E8",
+  "do_objectID": "AA180C5F-187D-4606-BBB6-C7AC7ED359BA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E1B095E7-AEEB-4B77-AD1D-98BFDB6ACC77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,6 +51,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "A63CA213-DF8A-484E-8343-92E465DB8093",
     "height": 57,
     "width": 326,
     "x": 797,
@@ -72,32 +74,19 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "21BD0AE9-8468-4585-AA92-FEAF4107BD50",
       "opacity": 0.5
     },
+    "do_objectID": "AD306480-733B-444C-A398-882066596FE3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "AA5CEFBD-BFD6-4D6C-AF7D-E0E04AFDD71B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

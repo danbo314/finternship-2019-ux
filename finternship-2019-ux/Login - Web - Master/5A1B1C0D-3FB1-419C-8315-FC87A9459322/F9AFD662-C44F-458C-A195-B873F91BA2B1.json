@@ -27,19 +27,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 9,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Username\n"
+    "string": "jane.doe@mail.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C73C3750-7E38-46D3-BD6C-522C5446C2E8",
+  "do_objectID": "F9AFD662-C44F-458C-A195-B873F91BA2B1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D6FF28CE-0D58-4646-ABA6-4DC899F729FC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "58369AF2-BBAB-4D8F-86DE-B8FB19CE7266",
     "height": 57,
-    "width": 326,
-    "x": 797,
-    "y": 439
+    "width": 343,
+    "x": 798,
+    "y": 438
   },
-  "glyphBounds": "{{1, -14}, {111, 15}}",
+  "glyphBounds": "{{-1, -15}, {222, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Username",
+  "name": "jane.doe@mail.com",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,32 +74,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5
-    },
+    "do_objectID": "7DCECECD-A201-4752-A2B1-99C5AA2FBD16",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B207210F-9375-450C-B4B8-3AFB606D861F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
