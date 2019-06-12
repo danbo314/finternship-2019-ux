@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "28A3C6B4-803A-49CA-9147-93A8450D514F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57557A2D-FF1D-41D7-B771-2CAFD9DBFA24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E77C5028-FE6E-49A6-B87F-6D0CB7655FAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28BC4ACD-99C0-4F07-9EB8-3E2EE8857CD7",
+    "height": 812,
+    "width": 375,
+    "x": 917,
+    "y": -334
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "262924CF-85EA-4B9D-B746-709F8F3CA549"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F062FB6A-D9A5-46D0-9788-73BB6DCBB2DF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "59CAFEBF-1C00-4089-8A87-5E5846FF5754"
+    },
+    {
+      "class": "group",
+      "id": "32357138-23A0-4319-9071-331455E3FBC5"
+    },
+    {
+      "class": "group",
+      "id": "6A00667F-FB91-4D25-A361-3AF696E098D7"
+    },
+    {
+      "class": "group",
+      "id": "54874C13-F157-4FEE-BE33-3AC73C85FB28"
+    },
+    {
+      "class": "text",
+      "id": "F12903A8-ECE9-4F1F-8254-5EA01FC52384"
+    },
+    {
+      "class": "group",
+      "id": "090D7145-49CC-4826-A6A1-06D50D12B6E2"
+    }
+  ],
+  "name": "iPhone XS - Edited",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A5A5C0F-13A7-4A3F-A27E-57A0BBB0CD7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F5E23A70-DAD1-41EA-A9F5-419FDAC77093",
+    "guides": [
+    ]
+  }
+}

@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,10 +69,18 @@
     {
       "class": "group",
       "id": "7E8560C9-377B-4471-A7FB-D5BA63D6457D"
+    },
+    {
+      "class": "group",
+      "id": "EB62F9EA-3D33-400F-BC6B-881245273280"
+    },
+    {
+      "class": "group",
+      "id": "5B976938-24D8-4081-920F-A8932DB69862"
     }
   ],
-  "name": "iPhone XS",
-  "nameIsFixed": false,
+  "name": "iPhone XS - Edited",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,
