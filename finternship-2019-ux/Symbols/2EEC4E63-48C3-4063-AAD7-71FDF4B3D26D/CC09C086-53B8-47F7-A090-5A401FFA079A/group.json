@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC09C086-53B8-47F7-A090-5A401FFA079A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 53,
+    "width": 101,
+    "x": 137,
+    "y": 18
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "01E6B1C5-A799-4884-A1CF-7342E1AA6C39"
+    },
+    {
+      "class": "shapePath",
+      "id": "959C3084-F16E-4327-AC31-02EEA82C4035"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC53CB5C-FD16-487B-99D9-4CDDFA0F20BE"
+    },
+    {
+      "class": "shapePath",
+      "id": "7BDED61E-AEC3-4042-99BA-351DF2D4F2E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1C4EB1D-E064-4467-A670-A40DBCE54901"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED18D574-469C-49B3-AC94-F25CE26DDD33"
+    },
+    {
+      "class": "shapePath",
+      "id": "8140349F-3F15-4728-A367-7556879CA1F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4240F40-C860-463B-A816-E5BDD754DCE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "17CDD792-ED2F-4AAA-A3C8-81ED93B3EEC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DCBE20D-9247-4B8A-B879-35A81836AF18"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FE6966A-4970-46B2-96C9-2C9A6DAB9953"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AB8E7C3-79E8-4A4E-9C20-F0E85B54B234"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F6D9630-8BEE-4F66-8411-6D933CED8356"
+    },
+    {
+      "class": "shapePath",
+      "id": "82E3F665-65F5-47E7-9736-168A9634A39D"
+    }
+  ],
+  "name": "lumitylogo largeblue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
