@@ -1,19 +1,21 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "022C7BBD-D00B-45D3-AA94-F6BF9300A179",
+    "do_objectID": "00D18346-6CC2-45B5-B85E-B9ABAD6379CD",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 104,
   "clippingMaskMode": 0,
-  "do_objectID": "1B1DF303-FC1D-4B33-92AA-663B5A26E5FA",
+  "do_objectID": "E89AE523-CC25-4239-8C2E-A8755233BF36",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FC550410-BCEA-42E7-9A89-F6AEA8403602",
+    "do_objectID": "D9024E5B-EF28-4273-B809-B93EF434FAAD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +26,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "48DFB8A1-ED76-4572-9D86-028B469A5CA3",
-    "height": 896,
-    "width": 414,
-    "x": -1953,
-    "y": -127
+    "do_objectID": "D012C40E-7F28-4D34-90D8-EBF0CF6314E7",
+    "height": 63,
+    "width": 210,
+    "x": 3798,
+    "y": 471
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9922CF26-ED04-4355-A960-1D206A501362"
+    "do_objectID": "AED4B3DE-21FC-4099-B037-15E1E4E5EDDC"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,11 +42,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3EB5A35E-6137-44FF-B589-E2B978B9D917",
+    "do_objectID": "712182DE-2B9F-4AAF-902A-38A09BB5CE79",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -56,26 +59,18 @@
   "layers": [
     {
       "class": "group",
-      "id": "66E4C3BD-0DAB-4E23-80F7-A01DF17203FF"
-    },
-    {
-      "class": "group",
-      "id": "23D0DF18-027B-4A59-9361-BA8FABFECEED"
-    },
-    {
-      "class": "group",
-      "id": "4702ED39-C76C-411C-8EB2-3E7EEAF5E06F"
+      "id": "F34B7AF6-0C49-42DB-B477-4E64524A4896"
     }
   ],
-  "name": "iPhone XR",
-  "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 896,
-    "name": "iPhone XR",
-    "offersLandscapeVariant": 1,
-    "width": 414
-  },
+  "name": "Mobile Blue Button",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,16 +78,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "57D50905-6DB5-4824-BD50-718D8AE65511",
+    "do_objectID": "971AD0D7-1F53-4D5D-8A24-55A93DA89AA9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "6E0EFFCA-784B-4F56-A63E-CD60F75C57AD",
+    "do_objectID": "12EADF31-894C-453F-9758-D89F3C86030F",
     "guides": [
     ]
   }
