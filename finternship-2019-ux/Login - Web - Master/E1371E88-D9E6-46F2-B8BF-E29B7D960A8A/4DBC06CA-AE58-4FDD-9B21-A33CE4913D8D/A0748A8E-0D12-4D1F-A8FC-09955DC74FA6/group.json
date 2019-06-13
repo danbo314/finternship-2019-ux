@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0748A8E-0D12-4D1F-A8FC-09955DC74FA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A9F25B6-B5CB-4E6B-9ED7-2DCA03759E1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F2661DCA-4205-4DE3-9978-7E7B4D004D1D",
+    "height": 30,
+    "width": 44.50331125827815,
+    "x": 434.9999999999964,
+    "y": 29
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "061BC558-8FD2-4562-A648-F1D121B020F0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "182E9CF3-4939-4164-9BB4-6EFFD57ECE60"
+    }
+  ],
+  "name": "md/eye",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D06B11A7-C201-4776-96B1-E871E724C05F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

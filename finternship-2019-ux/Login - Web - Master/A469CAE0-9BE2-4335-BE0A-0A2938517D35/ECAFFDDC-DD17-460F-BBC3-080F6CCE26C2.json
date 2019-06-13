@@ -47,6 +47,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "FD306072-C196-4E3B-B1C7-3915DC28A1EA",
     "endMarkerType": 0,
     "miterLimit": 10,

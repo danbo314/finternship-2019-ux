@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 92,
+        "length": 87,
         "location": 0
       }
     ],
-    "string": "An email sent to jane.doe@email.com will be sent shortly with a link to reset your password."
+    "string": "An email to jane.doe@email.com will be sent shortly with a link to reset your password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 642,
     "y": 384
   },
-  "glyphBounds": "{{5, 4}, {625, 104}}",
+  "glyphBounds": "{{18, 4}, {600, 104}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "An email sent to jan",
+  "name": "An email to jane.doe",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

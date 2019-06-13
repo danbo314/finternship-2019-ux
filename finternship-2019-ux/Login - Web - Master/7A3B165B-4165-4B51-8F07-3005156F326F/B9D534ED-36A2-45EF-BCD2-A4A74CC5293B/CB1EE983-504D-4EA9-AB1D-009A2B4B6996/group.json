@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB1EE983-504D-4EA9-AB1D-009A2B4B6996",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E30C8D8E-6636-4396-AFCC-2463B7077CB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF717411-9286-44AD-A643-838E45880558",
+    "height": 20,
+    "width": 27,
+    "x": 0,
+    "y": 118
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5B97F07E-B678-4F72-AE85-487F9D6B09F1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F2338FA0-C1A0-419C-8479-0DE5EBA3F1F8"
+    }
+  ],
+  "name": "md/checkmark",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B03B6326-B73B-4213-8497-968AC36D77DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

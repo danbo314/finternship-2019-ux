@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -54,6 +54,18 @@
     {
       "class": "shapePath",
       "id": "17D134A6-3F92-42DC-B414-D146D9E097D3"
+    },
+    {
+      "class": "group",
+      "id": "8EBBDFD8-5C84-4239-A021-6135EE10817F"
+    },
+    {
+      "class": "text",
+      "id": "0CCBA3D5-BC19-4FF8-B075-38D523567B12"
+    },
+    {
+      "class": "group",
+      "id": "E478EC6E-6BC1-48AB-BEAC-9BAB48A6BF2C"
     }
   ],
   "name": "Fields",
