@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B90C51F4-5B25-4194-97CC-02C92DF28E9D",
+  "do_objectID": "BC6C53A7-83A9-4344-97AC-B0EC5AE93C44",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3A4FE7BC-1194-46E1-9EDC-F8C49F83F3DC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
-    "width": 268,
-    "x": 54,
-    "y": 402
+    "do_objectID": "68522A34-DE5F-4565-B741-5D9D644A5A48",
+    "height": 63,
+    "width": 210,
+    "x": 83,
+    "y": 636
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,26 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Float Label Error Message Input - Mobile",
+  "name": "Mobile Blue Button - Disabled",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "509FF2B8-7843-44E3-AAEF-53BAC4BA734B",
-      "overrideName": "894BF2D5-FCDB-404A-B835-0DBCA20313CB_stringValue",
-      "value": "Passwords must match"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3CC1A48B-BD8A-47B6-9641-33EE42C11E2B",
-      "overrideName": "F03A341C-A1CE-4D13-BB5F-636294C4388D_stringValue",
-      "value": "****"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "123D2B59-B10F-4FD5-B5CB-9D7B46D4AC0B",
-      "overrideName": "E7A68DB9-08AC-45BA-8D64-5F63CDBDFF64_stringValue",
-      "value": "Password"
+      "do_objectID": "11022F22-599C-448C-B793-C2DE7086E309",
+      "overrideName": "C7F95A84-C553-47C0-8EE1-5047F6BF593F_stringValue",
+      "value": "Register"
     }
   ],
   "resizingConstraint": 63,
@@ -57,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1FB2C581-1204-4192-8FED-E1C2555F3432",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "383C04AE-EDC7-4A6E-9E9D-4786AC1AA1CB",
+  "symbolID": "617C71C8-6A53-4E43-9679-E45D3A9BA1C5",
   "verticalSpacing": 0
 }

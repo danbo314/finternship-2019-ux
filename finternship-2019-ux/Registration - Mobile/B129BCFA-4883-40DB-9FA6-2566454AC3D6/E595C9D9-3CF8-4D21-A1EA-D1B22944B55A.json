@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44AD1CA9-2536-4C41-8709-17EB150A9899",
+  "do_objectID": "E595C9D9-3CF8-4D21-A1EA-D1B22944B55A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6EB55738-3920-4397-BB23-5C76790DEC34",
+    "do_objectID": "47A02AE4-0678-461C-9372-A8FF57A6339A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "690EF256-BACA-4030-8F35-F4AB8A1DFC4B",
-    "height": 70,
+    "do_objectID": "BD4FCFAC-75CC-47E8-B040-35D72DB3D693",
+    "height": 55,
     "width": 268,
-    "x": 54,
-    "y": 481
+    "x": 50,
+    "y": 489
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,25 +30,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Float Label Error Message Input - Mobile",
+  "name": "Float Label Sensitive Input No Icon - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "684D5D3C-DBFD-4CAC-8320-33B567E344D5",
-      "overrideName": "894BF2D5-FCDB-404A-B835-0DBCA20313CB_stringValue",
-      "value": "Passwords must match"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E82B0DA4-36D3-45F2-96F0-A3A6B16E4F02",
-      "overrideName": "F03A341C-A1CE-4D13-BB5F-636294C4388D_stringValue",
-      "value": "*********"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "36243A8C-879B-4609-961E-783C8DDDE953",
-      "overrideName": "E7A68DB9-08AC-45BA-8D64-5F63CDBDFF64_stringValue",
+      "do_objectID": "22082DA6-30E9-4B6A-AE7B-0541802A00D3",
+      "overrideName": "BCE98BB5-7747-4844-AF2C-646E45086088_stringValue",
       "value": "Confirm Password"
     }
   ],
@@ -59,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DCD612F-89EE-4CB2-8A31-673132A21DC6",
+    "do_objectID": "F4D3ED65-B8E6-4DFE-826D-5A543ED5B59D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "383C04AE-EDC7-4A6E-9E9D-4786AC1AA1CB",
+  "symbolID": "FFB6164B-5FFB-4270-BDCC-5208830E18B8",
   "verticalSpacing": 0
 }

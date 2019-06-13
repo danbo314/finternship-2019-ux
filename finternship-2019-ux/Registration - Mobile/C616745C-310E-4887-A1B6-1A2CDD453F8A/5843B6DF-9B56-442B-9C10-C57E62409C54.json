@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4BF0CC92-CCEC-4F31-8059-A6E62C6DD64A",
+  "do_objectID": "5843B6DF-9B56-442B-9C10-C57E62409C54",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "124AF935-ADEE-4C5C-8883-5531EAE99CE8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "87A2435D-161C-4330-8112-33D71D6CCA42",
-    "height": 55,
+    "height": 70,
     "width": 268,
-    "x": 50,
-    "y": 482
+    "x": 54,
+    "y": 400
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,20 +28,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Float Label Edited - Mobile",
+  "name": "Float Label Error Message Sensitive Input - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EDA321D0-48B7-454F-89FA-03F90DA720D5",
-      "overrideName": "277B0688-6C8C-4B12-ABDE-567CFCB9092F_stringValue",
-      "value": "Confirm Password"
+      "do_objectID": "ECC3E300-75E9-47AA-AE46-BF8AF490FD84",
+      "overrideName": "8762F98E-B741-4430-9058-164C9069593E_stringValue",
+      "value": "Password"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "57F65980-BA40-4545-897D-C1B93C940B2F",
-      "overrideName": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4_stringValue",
-      "value": "*********"
+      "do_objectID": "39B554E6-045A-47CA-9FDB-4F4D6501CC6C",
+      "overrideName": "59E718C1-F772-462F-9C66-07B179593655_stringValue",
+      "value": "Passwords must match"
     }
   ],
   "resizingConstraint": 63,
@@ -53,12 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7747056E-F3B2-4ACE-990B-D5D65F2396C4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "62DB01B7-4BD2-425B-ADAB-967D7004ED2E",
+  "symbolID": "81FF514F-583C-4DAF-95DA-0316BF6ADBA6",
   "verticalSpacing": 0
 }

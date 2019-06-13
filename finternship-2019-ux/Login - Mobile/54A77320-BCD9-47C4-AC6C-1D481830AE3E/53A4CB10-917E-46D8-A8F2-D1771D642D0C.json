@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18B40621-BFE5-44D0-A2A0-F40940005F35",
+  "do_objectID": "53A4CB10-917E-46D8-A8F2-D1771D642D0C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "83F42193-BA5C-4634-AB50-A5FEB35AAC16",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 268,
-    "x": 54,
-    "y": 309
+    "do_objectID": "B6B2DBBD-ABB6-48C8-8F51-29250AD086D4",
+    "height": 812,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,21 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Float Label Edited - Mobile",
+  "name": "Device Bezels / iPhoneXS - Display Shape",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "143BBAB8-1F8A-42FD-9B25-36EC219D13B4",
-      "overrideName": "277B0688-6C8C-4B12-ABDE-567CFCB9092F_stringValue",
-      "value": "Email"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2ED35167-32B1-4EC4-96BF-EF8944DFBBED",
-      "overrideName": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4_stringValue",
-      "value": "liz.vista@pariveda.com"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "00512ACB-E4EB-4079-B63C-F33213BE0D21",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "62DB01B7-4BD2-425B-ADAB-967D7004ED2E",
+  "symbolID": "B408DFA7-2FC5-4CF0-9BD0-1BC4AD254970",
   "verticalSpacing": 0
 }

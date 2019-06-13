@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18B40621-BFE5-44D0-A2A0-F40940005F35",
+  "do_objectID": "295E12CC-B584-48E3-BBA5-BD4E8838C693",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 55,
     "width": 268,
-    "x": 54,
-    "y": 309
+    "x": 50.49560719946214,
+    "y": 417
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,20 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Float Label Edited - Mobile",
+  "name": "Float Label Sensitive Input No Icon - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "143BBAB8-1F8A-42FD-9B25-36EC219D13B4",
-      "overrideName": "277B0688-6C8C-4B12-ABDE-567CFCB9092F_stringValue",
-      "value": "Email"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2ED35167-32B1-4EC4-96BF-EF8944DFBBED",
-      "overrideName": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4_stringValue",
-      "value": "liz.vista@pariveda.com"
+      "do_objectID": "510C612A-D839-42BF-80B3-C5A3667BA636",
+      "overrideName": "BCE98BB5-7747-4844-AF2C-646E45086088_stringValue",
+      "value": "Password"
     }
   ],
   "resizingConstraint": 63,
@@ -56,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "62DB01B7-4BD2-425B-ADAB-967D7004ED2E",
+  "symbolID": "FFB6164B-5FFB-4270-BDCC-5208830E18B8",
   "verticalSpacing": 0
 }

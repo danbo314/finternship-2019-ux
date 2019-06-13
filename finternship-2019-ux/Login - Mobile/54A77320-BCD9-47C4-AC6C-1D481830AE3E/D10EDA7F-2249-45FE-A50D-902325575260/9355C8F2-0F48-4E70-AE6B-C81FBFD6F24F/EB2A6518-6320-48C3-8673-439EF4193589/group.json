@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F52B3E3D-4C09-438A-8955-17C980675221",
+  "do_objectID": "EB2A6518-6320-48C3-8673-439EF4193589",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C2915C0E-59B6-4597-8B02-670D16C9CC13",
+    "do_objectID": "7EE776CD-2C67-4ECE-9563-89197FDCE935",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D1475B76-48A1-4770-86DE-A478B7AAF4B3",
-    "height": 63,
-    "width": 210,
-    "x": 83,
-    "y": 636
+    "do_objectID": "089A9D74-4F0A-449C-9F54-A6DF13625CE5",
+    "height": 150,
+    "width": 317,
+    "x": 225,
+    "y": 197
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8F5D747F-6300-44E5-BFCD-16CCDE353B8B"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile Blue Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "6DD5B555-DD4E-46C7-9B1B-BE7F3045ADEE",
-      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
-      "value": "Register"
+      "class": "rectangle",
+      "id": "4BC2874C-4E15-4B30-985D-72405FD8DBB5"
     }
   ],
+  "name": "Rectangle 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "16409032-2FFB-4EFD-92E5-4F99401F3011",
+    "do_objectID": "B4C57CF8-2A06-44CA-A23F-5296AC4DA49D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
-  "verticalSpacing": 0
+  }
 }

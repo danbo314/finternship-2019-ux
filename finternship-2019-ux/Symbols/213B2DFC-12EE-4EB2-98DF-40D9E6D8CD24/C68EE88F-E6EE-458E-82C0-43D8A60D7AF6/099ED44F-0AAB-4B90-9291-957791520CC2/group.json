@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F8DA9A0F-87BF-41EE-B31C-39DB6B4E546A",
+  "do_objectID": "099ED44F-0AAB-4B90-9291-957791520CC2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E0AE2D09-F779-4158-A21A-B4B578C6696C",
+    "do_objectID": "899848B6-B421-450F-A970-ACA920467DA1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F6B4ED67-5970-4D34-A074-8DF05ACAC98D",
+    "do_objectID": "24E60569-50C9-447D-B8D0-04F74691DAE1",
     "height": 63,
     "width": 210,
-    "x": 83,
-    "y": 636
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EFF97DFA-9395-4043-BD7D-C6F19E9B92D6"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Mobile Blue Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "6DD5B555-DD4E-46C7-9B1B-BE7F3045ADEE",
-      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
-      "value": "Register"
+      "class": "rectangle",
+      "id": "00EC2CE8-8D97-44E2-8603-A4F9FEF81D48"
     }
   ],
+  "name": "Rectangle 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D88386C7-E254-4EE2-9350-DE0CEFF76059",
+    "do_objectID": "8418D702-09B3-4462-AF88-E6C54DBFED36",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
-  "verticalSpacing": 0
+  }
 }
