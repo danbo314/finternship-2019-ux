@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2562E7C-28BF-4475-9E26-046B5B91E11A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E96E6EF-3E54-4F40-BFF9-FDA5723AF0E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51FFDD08-74F3-48F4-9CA6-DFE5F3692A3A",
+    "height": 63,
+    "width": 210,
+    "x": 83,
+    "y": 636
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Blue Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DD5B555-DD4E-46C7-9B1B-BE7F3045ADEE",
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
+      "value": "Register"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FB8B96B-F6D9-4061-BC03-2194EB622960",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
+  "verticalSpacing": 0
+}

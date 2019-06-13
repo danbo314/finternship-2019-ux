@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3D9678E-B2E4-4719-B556-7C20F9ED5418",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB5BB045-F1AC-431C-9E00-A7E2A267B179",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3B393C9-5B80-44B6-9191-83F949B2B75F",
+    "height": 292,
+    "width": 303,
+    "x": 232,
+    "y": 157
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A555F828-6E94-4FCA-A1AA-9C8E0F58AB58"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C60D3593-F001-47A9-9513-0985F9E22A5C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B2A58E5-AACC-4060-8745-C7BF2EF1132F"
+    },
+    {
+      "class": "shapePath",
+      "id": "81F38360-1921-474D-B433-31049E0998C0"
+    },
+    {
+      "class": "shapePath",
+      "id": "C34108AD-719B-4CE7-A674-D349BCA9BD95"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB93873A-DB63-4653-A135-FB5932D5E531"
+    },
+    {
+      "class": "text",
+      "id": "49E6BF44-CA8E-4238-8570-160BB31C654E"
+    },
+    {
+      "class": "text",
+      "id": "EF1D03D1-7073-4077-AE75-62511D2B2BC0"
+    },
+    {
+      "class": "text",
+      "id": "8A44C829-C480-4A80-AD4E-BBAF0D923CE8"
+    },
+    {
+      "class": "text",
+      "id": "D21C0458-70C5-441E-B10F-FF063F88927B"
+    }
+  ],
+  "name": "Data Entry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BA34C3A-6107-466B-B326-F3B4312C6389",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

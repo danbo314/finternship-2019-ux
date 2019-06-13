@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8DA897D-467F-4305-A2F4-400F959D6B4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C80A1DA0-275E-40C8-AAE6-F52D01343339",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F74DB3E8-B789-4ED1-B430-BC6772AAF8E7",
+    "height": 292,
+    "width": 303,
+    "x": 232,
+    "y": 157
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "06220539-3A6A-4B4F-A51F-0B9782D9CD1A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "383A196C-D296-45D1-8323-5A6FBC5FB25C"
+    },
+    {
+      "class": "text",
+      "id": "15E81608-EFE7-4B63-88B4-27C0A869A5B1"
+    },
+    {
+      "class": "text",
+      "id": "B43A3A18-8D46-424B-8AE6-2C518C2C1113"
+    },
+    {
+      "class": "text",
+      "id": "713EAFD0-7C65-4A87-A7D9-D8CDA9E288E2"
+    },
+    {
+      "class": "text",
+      "id": "57E998B5-7D51-4772-A993-97B055AD33A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "C375EE09-4FBA-40E9-A768-1108C803884C"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A989A60-D34D-4D0F-8A49-F5C52EF80B89"
+    },
+    {
+      "class": "shapePath",
+      "id": "502D18FE-9874-4E1C-8E78-0F65347D09D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA1040C2-7A38-419B-8AC2-FE064F84923A"
+    },
+    {
+      "class": "text",
+      "id": "C9372113-F95E-4A7A-85BE-CEE2E67720AD"
+    },
+    {
+      "class": "text",
+      "id": "0F3BFDEF-C346-4455-B17A-69CAFABA7262"
+    },
+    {
+      "class": "text",
+      "id": "CF9339F5-C90D-492A-99AD-7EF553ACA533"
+    },
+    {
+      "class": "text",
+      "id": "B69AFDD1-39A0-4D7E-947D-5EB2165C67EB"
+    },
+    {
+      "class": "text",
+      "id": "ECA1437D-EBF5-498A-BC20-5093671BAB10"
+    }
+  ],
+  "name": "Data Entry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1C2204C-8F11-4C4F-913F-C377D4D4B78F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
