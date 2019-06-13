@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2513A81F-4A6F-4170-B9AE-441996D4BC7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBC4F75A-5A54-43F9-A2EC-F0D010501AC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54DFD58E-1DAD-4460-98D0-841E189A1428",
+    "height": 55,
+    "width": 268,
+    "x": 53,
+    "y": 338
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Edited - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A8764E9-B74E-4BD5-8229-478EE2E26616",
+      "overrideName": "277B0688-6C8C-4B12-ABDE-567CFCB9092F_stringValue",
+      "value": "Student ID"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7397D5DC-0E94-4E5B-9C82-5963DBBEA160",
+      "overrideName": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4_stringValue",
+      "value": "012345"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9DA29AC-1ADF-4530-9F01-ADFCC56B334E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62DB01B7-4BD2-425B-ADAB-967D7004ED2E",
+  "verticalSpacing": 0
+}

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 78,
+  "changeIdentifier": 567,
   "clippingMaskMode": 0,
   "do_objectID": "B2B0200C-DC07-4A21-9492-E4F6B5918814",
   "exportOptions": {
@@ -27,8 +27,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "36B221DC-E732-4FD6-B0D4-F29135EACB53",
-    "height": 82,
-    "width": 480,
+    "height": 55,
+    "width": 268,
     "x": 5509,
     "y": -94
   },
@@ -59,15 +59,15 @@
   "layers": [
     {
       "class": "text",
+      "id": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4"
+    },
+    {
+      "class": "text",
       "id": "277B0688-6C8C-4B12-ABDE-567CFCB9092F"
     },
     {
       "class": "shapePath",
       "id": "71B4E18D-0B00-407E-B927-CDBFC7C1B817"
-    },
-    {
-      "class": "text",
-      "id": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4"
     }
   ],
   "name": "Float Label Edited - Mobile",
