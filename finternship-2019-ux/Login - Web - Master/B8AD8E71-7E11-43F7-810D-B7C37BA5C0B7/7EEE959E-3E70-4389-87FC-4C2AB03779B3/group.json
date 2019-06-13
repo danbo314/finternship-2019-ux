@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 186,
-    "width": 481,
+    "width": 482,
     "x": 722.5,
     "y": 387
   },
@@ -55,6 +55,10 @@
     {
       "class": "shapePath",
       "id": "FBC9FEF5-12E4-4B5D-9A0C-5045A29B17C1"
+    },
+    {
+      "class": "group",
+      "id": "D24BAB07-47EA-4B87-9EFE-6304331D045B"
     }
   ],
   "name": "Fields",

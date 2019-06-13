@@ -35,7 +35,7 @@
     "do_objectID": "4602E64B-6E98-406C-AA85-32C1567AEF07"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,15 +52,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "050A79E8-12EA-4492-80FB-4F94EC555CF9"
-    },
-    {
-      "class": "shapePath",
-      "id": "CE48E8F2-F2FF-4FD7-8B33-69E283F00E05"
     },
     {
       "class": "symbolInstance",
@@ -71,8 +67,8 @@
       "id": "D6A3C43D-DCC5-4D96-9B5A-7117BAEBDB7F"
     },
     {
-      "class": "text",
-      "id": "FCEAC490-49A0-49F5-90BC-A0B7DF8F4CDB"
+      "class": "group",
+      "id": "A4D0B5B5-2D24-465D-942B-B65B0041D363"
     }
   ],
   "name": "Forgot Password Unedited",

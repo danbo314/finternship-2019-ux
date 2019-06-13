@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,18 +69,6 @@
     {
       "class": "symbolInstance",
       "id": "E89C0635-DE15-413D-A08E-B9BD38812D66"
-    },
-    {
-      "class": "text",
-      "id": "814F470E-EB12-4637-980C-DCDFAA3ECAB6"
-    },
-    {
-      "class": "group",
-      "id": "35ADCB49-0616-4AE2-989E-5C0B3B1CAD10"
-    },
-    {
-      "class": "group",
-      "id": "975338C2-9CA0-4B62-BEC6-0747FAFADC6E"
     }
   ],
   "name": "Reset Password View Hidden",

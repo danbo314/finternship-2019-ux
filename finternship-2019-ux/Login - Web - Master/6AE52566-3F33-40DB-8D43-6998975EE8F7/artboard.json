@@ -28,7 +28,7 @@
     "height": 1080,
     "width": 1920,
     "x": 15243,
-    "y": 1659
+    "y": 1388
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -52,11 +52,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "52CAA6CF-820D-431F-84A1-BA5ACA40D0DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "695D9879-97BC-4CCF-8FEF-B9D3A7724672"
     },
     {
       "class": "text",
@@ -69,22 +73,6 @@
     {
       "class": "group",
       "id": "F72A461B-7498-458A-B94E-4C09E0A37975"
-    },
-    {
-      "class": "group",
-      "id": "8EBBDFD8-5C84-4239-A021-6135EE10817F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "695D9879-97BC-4CCF-8FEF-B9D3A7724672"
-    },
-    {
-      "class": "text",
-      "id": "0CCBA3D5-BC19-4FF8-B075-38D523567B12"
-    },
-    {
-      "class": "group",
-      "id": "E478EC6E-6BC1-48AB-BEAC-9BAB48A6BF2C"
     }
   ],
   "name": "Reset Password Form Validation 2",
