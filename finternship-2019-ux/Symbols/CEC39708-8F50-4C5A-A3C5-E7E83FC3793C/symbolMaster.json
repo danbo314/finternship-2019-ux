@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 200,
   "clippingMaskMode": 0,
-  "do_objectID": "A7D443B1-1F87-4558-B9D2-DDB673322661",
+  "do_objectID": "CEC39708-8F50-4C5A-A3C5-E7E83FC3793C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
-    "width": 1920,
-    "x": 2731,
-    "y": -727
+    "height": 122,
+    "width": 489,
+    "x": 6776,
+    "y": 230
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,39 +50,44 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "88CB903F-0731-4B6A-A1AF-0B82A37EC182"
+      "class": "text",
+      "id": "B6924E4C-E389-42C9-8D39-B63545464655"
     },
     {
-      "class": "symbolInstance",
-      "id": "7B40AB6E-8985-4EA4-89CD-CC2692CC523D"
+      "class": "shapePath",
+      "id": "CACFE28A-9A86-46D3-98D3-88834154CF82"
     },
     {
-      "class": "symbolInstance",
-      "id": "87234385-3DC7-441D-B372-AF66337BA59D"
+      "class": "text",
+      "id": "897287A2-D2DA-47FD-895D-762F060ED983"
     },
     {
-      "class": "symbolInstance",
-      "id": "16732C72-FCA9-49D4-9103-902BB7131467"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "74D9B75F-99FD-4AA1-B935-4757B4AF868D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2881BCE1-1318-48F9-A1EA-E07368AEC716"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D0045CEB-2421-4976-B177-4E5299F77B34"
+      "class": "text",
+      "id": "21FE0EC1-1EEA-4AAB-97FE-E7EAF443EFA8"
     }
   ],
-  "name": "Registration Edited with Errors",
+  "name": "Float Label Error Message Input Web Registration",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21FE0EC1-1EEA-4AAB-97FE-E7EAF443EFA8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "897287A2-D2DA-47FD-895D-762F060ED983_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B6924E4C-E389-42C9-8D39-B63545464655_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,6 +100,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "9645F336-B012-4CF9-9A46-CA760821C3F9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

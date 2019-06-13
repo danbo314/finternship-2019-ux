@@ -9,38 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
+            "blue": 0.1882352941176471,
+            "green": 0.2313725490196079,
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 36
+              "name": "Gotham-Medium",
+              "size": 20
             }
           },
-          "kerning": 2.967857249999997,
+          "kerning": 1.648809583333332,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0,
+            "maximumLineHeight": 25,
+            "minimumLineHeight": 25
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Register\n"
+    "string": "Error\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "04C092DF-5BFE-4101-80AE-3D174BDBFC14",
+  "do_objectID": "B5A20BEA-C1FA-4C9B-BA6A-1FA256C8DF40",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "39EAC935-1B8F-4EBF-B637-C878D1610309",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,55 +52,54 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5353EA39-A9AB-4502-9CA6-C315EAE1E80E",
-    "height": 77,
-    "width": 407,
+    "height": 50,
+    "width": 480,
     "x": 0,
-    "y": 21
+    "y": 97
   },
-  "glyphBounds": "{{124, 9}, {159, 34}}",
+  "glyphBounds": "{{1, 2}, {56, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Register",
+  "name": "Error",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F254998D-D978-4EF4-A7E3-AF3A2DC3CB40",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "82DDF4E4-75E2-47A2-BB59-0F19EFFCA3F3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.2313725490196079,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 36
+            "name": "Gotham-Medium",
+            "size": 20
           }
         },
-        "kerning": 2.967857249999997,
+        "kerning": 1.648809583333332,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0,
+          "maximumLineHeight": 25,
+          "minimumLineHeight": 25
         },
         "textStyleVerticalAlignmentKey": 1
       },
@@ -107,5 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

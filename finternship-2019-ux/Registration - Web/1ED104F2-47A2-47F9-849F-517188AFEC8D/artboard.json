@@ -47,19 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "C0259567-0704-4341-96B0-C19336E3F5D0"
     },
     {
-      "class": "group",
-      "id": "641AF430-99E3-423C-99C6-9AD83B63D14C"
-    },
-    {
       "class": "symbolInstance",
-      "id": "CBF86AD4-914E-40AB-9BF6-FCD25C20D656"
+      "id": "749FC206-27A0-4D9C-AF4E-09F181C8EAB8"
     },
     {
       "class": "group",
@@ -68,10 +64,6 @@
     {
       "class": "group",
       "id": "2E7690C2-4CBA-428E-BBA2-2319633524D3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93966240-A2BF-41D8-87F3-DFD9ED1B7202"
     },
     {
       "class": "group",
@@ -92,6 +84,14 @@
     {
       "class": "symbolInstance",
       "id": "E5CF9D69-023F-4A42-998C-66A26FC3D09F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96BDCBB0-B461-4E6D-A348-C75987992BFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D451B85C-E7FF-4810-AE06-7CCBA1E0FFE8"
     }
   ],
   "name": "Registration Edited with Errors 2",

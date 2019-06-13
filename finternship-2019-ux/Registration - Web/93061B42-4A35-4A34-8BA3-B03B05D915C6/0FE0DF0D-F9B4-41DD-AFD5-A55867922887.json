@@ -1,11 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4470DAD8-8C89-4392-9832-AAD47AE79E51",
+  "do_objectID": "0FE0DF0D-F9B4-41DD-AFD5-A55867922887",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C9C730DC-5114-4178-9C44-B268AFAF86DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "784D6F01-9FC5-4D8F-B833-023B55048238",
     "height": 77,
     "width": 407,
-    "x": 0,
-    "y": 0
+    "x": 756,
+    "y": 843
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "168A8E2B-F840-4EDE-9D7B-35C3843376CC"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Web Blue Button",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "2A471124-7A3C-4F94-863B-2BF8CB251F23"
+      "_class": "overrideValue",
+      "do_objectID": "7C97E44E-F5EE-430B-8641-3F4CD393390A",
+      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
+      "value": "Register"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A2415DA3-CB5D-421F-8E75-87B2FB65F6A2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "verticalSpacing": 0
 }

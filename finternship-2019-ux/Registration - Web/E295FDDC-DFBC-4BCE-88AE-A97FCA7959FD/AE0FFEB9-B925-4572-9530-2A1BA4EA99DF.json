@@ -1,11 +1,10 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD76E2E5-F464-4A26-A351-E34A3180BCB6",
+  "do_objectID": "AE0FFEB9-B925-4572-9530-2A1BA4EA99DF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E0316623-3406-4C55-93C2-21994B64955D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "50813787-1034-435A-A664-914BCEF0BAB3",
     "height": 77,
     "width": 407,
-    "x": 0,
-    "y": 0
+    "x": 756.5,
+    "y": 843
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "05818CA5-CF01-4784-9CCE-939113B751D4"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Web Blue Button",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "13B4F3E7-9C5F-4A31-B01B-5FF96DFFEA5F"
+      "_class": "overrideValue",
+      "do_objectID": "666217E9-A4F2-4519-A746-8A6641E10A1B",
+      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
+      "value": "Register"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D03A715C-E77D-4874-A39D-15EE94102FFD",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "verticalSpacing": 0
 }
