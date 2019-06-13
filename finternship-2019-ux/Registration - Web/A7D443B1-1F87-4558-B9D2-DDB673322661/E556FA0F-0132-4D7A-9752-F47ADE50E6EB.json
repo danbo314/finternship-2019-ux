@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "E556FA0F-0132-4D7A-9752-F47ADE50E6EB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
-    "height": 77,
-    "width": 407,
-    "x": 757,
-    "y": 658
+    "height": 147,
+    "width": 489,
+    "x": 720,
+    "y": 509
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,15 +27,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Web Blue Button",
+  "layerListExpandedType": 0,
+  "name": "Float Label Error Message Input",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "943A5FB4-2D51-4266-9688-DEE20B32F773",
+      "overrideName": "2936A51C-282C-4BA4-9E69-C43F2086E613_stringValue",
+      "value": "Invalid Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ED1355A-04AC-4B0B-B418-97AA2A08D765",
+      "overrideName": "D08C0A24-26A0-4536-A778-491108E33648_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08C3B035-4EED-40EC-8CC8-7CD273625054",
+      "overrideName": "C99B90DC-6AD3-454A-8C20-4366485FD7B5_stringValue",
+      "value": "Email"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +57,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "E5ADB578-4F0E-4DAC-94F2-CDB0F63612CC",
   "verticalSpacing": 0
 }

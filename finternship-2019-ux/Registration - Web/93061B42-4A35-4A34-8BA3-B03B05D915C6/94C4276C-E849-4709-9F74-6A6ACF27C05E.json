@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "94C4276C-E849-4709-9F74-6A6ACF27C05E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
-    "height": 77,
-    "width": 407,
-    "x": 757,
-    "y": 658
+    "height": 82,
+    "width": 480,
+    "x": 720,
+    "y": 518
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,15 +27,21 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Web Blue Button",
+  "layerListExpandedType": 0,
+  "name": "Float Label Edited",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "22850622-465F-461B-8006-884727AB26D1",
+      "overrideName": "93A09301-F9C0-46EF-ADD5-E3E05985FDF3_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF241687-CEBA-4A9A-A7CA-3C9669D8F532",
+      "overrideName": "34C2671B-7CD7-49B0-8567-E7C4B2BEC676_stringValue",
+      "value": "jane.doe@email.com"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "8104EBD2-0643-41CE-A75A-68AA5BBDD95E",
   "verticalSpacing": 0
 }

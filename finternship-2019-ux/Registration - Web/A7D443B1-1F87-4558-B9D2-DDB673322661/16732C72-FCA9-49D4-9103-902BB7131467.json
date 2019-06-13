@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "16732C72-FCA9-49D4-9103-902BB7131467",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
+    "do_objectID": "9F0B735F-0085-4E0F-A186-15CDD0D9E03B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
-    "height": 77,
-    "width": 407,
-    "x": 757,
-    "y": 658
+    "do_objectID": "64C031C3-E8C3-4E72-B533-124AD2137E7F",
+    "height": 82,
+    "width": 480,
+    "x": 720,
+    "y": 615
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,15 +29,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Web Blue Button",
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "76FFA456-83A0-46BB-9910-B65178122DCF",
+      "overrideName": "771E7F10-1F62-4AD6-978C-FA6A762764C8_stringValue",
+      "value": "Password"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
+    "do_objectID": "133F5478-EFA5-49C6-AA85-4F4CE85AFC26",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "C841BD34-92B3-4B51-A5EC-08A213152A8F",
   "verticalSpacing": 0
 }

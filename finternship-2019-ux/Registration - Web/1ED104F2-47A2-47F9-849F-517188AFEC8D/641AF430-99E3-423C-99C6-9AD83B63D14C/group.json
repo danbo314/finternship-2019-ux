@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "641AF430-99E3-423C-99C6-9AD83B63D14C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
+    "do_objectID": "DD805121-9B99-4DEE-B4BC-3DE32CC32874",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +16,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
-    "height": 77,
+    "do_objectID": "419040C0-0BE7-4CCF-A64B-928BBDD85A4C",
+    "height": 98,
     "width": 407,
     "x": 757,
-    "y": 658
+    "y": 856
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A2D843A8-D501-4B31-925D-3208E4B1BC0B"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "Web Blue Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "class": "group",
+      "id": "4664650B-D0A1-42E5-B3AA-4D62A0B18E78"
+    },
+    {
+      "class": "text",
+      "id": "C6204B6B-0CCC-469B-995A-F7A3E3762411"
     }
   ],
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
+    "do_objectID": "C8ABB892-FC07-4AB5-8517-1C6A576C1181",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
-  "verticalSpacing": 0
+  }
 }

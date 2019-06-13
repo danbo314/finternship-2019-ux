@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,11 +47,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "BC19F635-8522-4EB3-A383-369089380634"
+    },
+    {
+      "class": "group",
+      "id": "3759471D-46ED-40EF-B1F9-96534D1CCFB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "890F16B9-E35B-4461-B907-64C04C764BBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3235948-37E7-47CA-BF93-62F4CCA0FB97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FE3AD52-AA15-40C0-B373-14B88E5B9DB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "170F28A3-DAF7-4AA8-A925-BE912BABACBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63C674A2-540B-4B92-B071-9021B9B215A9"
     }
   ],
   "name": "Registration Unedited",

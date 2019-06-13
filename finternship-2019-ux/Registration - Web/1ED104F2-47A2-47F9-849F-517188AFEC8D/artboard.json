@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,11 +47,51 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "C0259567-0704-4341-96B0-C19336E3F5D0"
+    },
+    {
+      "class": "group",
+      "id": "641AF430-99E3-423C-99C6-9AD83B63D14C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBF86AD4-914E-40AB-9BF6-FCD25C20D656"
+    },
+    {
+      "class": "group",
+      "id": "645B8D97-2B9B-4A28-AF3D-5BD818AF0CCF"
+    },
+    {
+      "class": "group",
+      "id": "2E7690C2-4CBA-428E-BBA2-2319633524D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93966240-A2BF-41D8-87F3-DFD9ED1B7202"
+    },
+    {
+      "class": "group",
+      "id": "801CAA9D-6408-45DC-BCF6-30219600B9AD"
+    },
+    {
+      "class": "group",
+      "id": "D8D5116A-44BA-421D-8B45-680DB08853F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58D01EDA-7EFB-4E8B-AB49-FDEBA8DBB1A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08D614F5-9DE6-4D9D-B93B-5DB123E7E71E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5CF9D69-023F-4A42-998C-66A26FC3D09F"
     }
   ],
   "name": "Registration Edited with Errors 2",

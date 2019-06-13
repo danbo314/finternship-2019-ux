@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "5D9A7B96-6B17-478E-9DF6-B34672DA6491",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
+    "do_objectID": "87A1AA14-1375-441A-A6B3-B39031016C38",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
+    "do_objectID": "7146BF9E-D3E5-4A12-8496-34620A29DD36",
     "height": 77,
     "width": 407,
-    "x": 757,
-    "y": 658
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5BC22912-5081-4F20-97EC-DF6A4855338C"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "Web Blue Button",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "class": "rectangle",
+      "id": "B7C6B72E-EE5B-4168-A843-002C78FF8352"
     }
   ],
+  "name": "Rectangle 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
+    "do_objectID": "60ABCE71-70B8-479E-8AE3-B30373DD6F6D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
-  "verticalSpacing": 0
+  }
 }

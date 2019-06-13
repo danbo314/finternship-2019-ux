@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05C96BD0-F153-42BB-9E33-2065EAC88320",
+  "do_objectID": "58EBB230-A77D-430D-BBA2-4FE7E69B08C3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "70B5D161-699C-4F6E-B624-9D424E99D7FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCC3487-246E-42F2-BF84-ECFF15B807F8",
-    "height": 77,
-    "width": 407,
-    "x": 757,
-    "y": 658
+    "height": 82,
+    "width": 481,
+    "x": 720,
+    "y": 706
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,15 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Web Blue Button",
+  "layerListExpandedType": 0,
+  "name": "Float Label Hide Sensitive Input",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DD47220C-D98B-473D-95FE-4C87370DA616",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "625A634A-69FE-485E-93BA-3878F1562939",
+      "overrideName": "8A4CA497-3297-4C0E-A322-07A19658FC77_stringValue",
+      "value": "Confirm Password"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F23C4BF2-A485-419E-B4BE-4D45C82B78D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "FE185E82-00FA-46DF-B058-13385FF81B53",
   "verticalSpacing": 0
 }

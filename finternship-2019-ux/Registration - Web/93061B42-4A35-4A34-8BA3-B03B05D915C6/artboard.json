@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,6 +52,30 @@
     {
       "class": "symbolInstance",
       "id": "4DB6512F-6014-4AAB-BA61-277AAFF3C560"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B30829A0-0CE3-4DFC-BBA3-1275D19B5983"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94C4276C-E849-4709-9F74-6A6ACF27C05E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "573789EB-CEC2-42BA-9B16-B86CAA1B5F61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58EBB230-A77D-430D-BBA2-4FE7E69B08C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA3231A0-BBD2-4666-B513-8DE4EF24B38F"
+    },
+    {
+      "class": "group",
+      "id": "5B8DDECA-EB65-4874-95FD-C243B6866FB3"
     }
   ],
   "name": "Registration Edited",
