@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gibson-SemiBold",
+              "name": "Gotham-Medium",
               "size": 28
             }
           },
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "76F72B2C-1A98-4BD7-AAA0-9C542E82837F",
-    "height": 68,
-    "width": 82,
+    "height": 1,
+    "width": 90,
     "x": 3.5,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {78, 22}}",
+  "glyphBounds": "{{2, -21}, {83, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gibson-SemiBold",
+            "name": "Gotham-Medium",
             "size": 28
           }
         },
