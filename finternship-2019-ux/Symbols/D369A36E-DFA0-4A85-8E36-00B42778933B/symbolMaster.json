@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 190,
+  "changeIdentifier": 474,
   "clippingMaskMode": 0,
   "do_objectID": "D369A36E-DFA0-4A85-8E36-00B42778933B",
   "exportOptions": {
@@ -27,8 +27,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4BBE0852-6B42-4C5B-A7E0-EEDA2862C01F",
-    "height": 147,
-    "width": 489,
+    "height": 70,
+    "width": 268,
     "x": 6098,
     "y": 230
   },
@@ -37,7 +37,7 @@
     "do_objectID": "2DE95209-BDBA-44B6-AA0A-BA1848CD6520"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,12 +58,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "74E16112-A9AA-4923-ABCE-FC553B0873FA"
-    },
-    {
       "class": "text",
       "id": "03994A8B-A565-44E7-B21A-1C6A30546720"
+    },
+    {
+      "class": "shapePath",
+      "id": "74E16112-A9AA-4923-ABCE-FC553B0873FA"
     },
     {
       "class": "text",

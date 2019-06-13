@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -83,12 +83,12 @@
       "id": "64D5E198-852B-498D-B130-378582F9D927"
     },
     {
-      "class": "group",
-      "id": "F7562CB9-A6F2-41F6-87A8-9ABEAC96177C"
+      "class": "symbolInstance",
+      "id": "54339D43-DAD4-4EA8-848D-A59CA6F9526D"
     },
     {
-      "class": "group",
-      "id": "A0265776-6115-4F9C-A48F-95CCA61311C6"
+      "class": "symbolInstance",
+      "id": "59FB4A9E-090D-42BD-AA61-5147D449AC5C"
     }
   ],
   "name": "Login Edited with Errors",

@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F612882E-AF40-44F2-A579-41F7BFD26E3B",
-    "height": 292,
+    "height": 320,
     "width": 303,
     "x": 232,
-    "y": 157
+    "y": 143
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,43 +33,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "19C66DC4-6E15-48BB-A0B9-532A73F0588F"
-    },
-    {
-      "class": "shapePath",
-      "id": "9391CAF7-D9DB-48A4-B602-3B7B07035CAD"
-    },
-    {
-      "class": "shapePath",
-      "id": "2EF99764-BE8F-46CC-8A13-2F8C4A04D786"
-    },
-    {
-      "class": "shapePath",
-      "id": "A7A0382C-9AB3-4B65-9303-9C41CE190D13"
-    },
-    {
-      "class": "shapePath",
-      "id": "C924DA4C-1C89-451A-BA9A-96EA6B5D7308"
-    },
-    {
-      "class": "text",
-      "id": "35B6702E-8D97-42E8-85E0-7652B4C479F2"
-    },
-    {
-      "class": "text",
-      "id": "98742605-FAB6-4B84-AEEA-EB1CB2B7216A"
-    },
-    {
-      "class": "text",
-      "id": "68D7D8E2-F42F-4980-A9DD-DF38E24B8F5A"
-    },
-    {
-      "class": "text",
-      "id": "27206088-9FAD-4866-A3A1-1FE7CFA9AB3F"
     }
   ],
   "name": "Data Entry",

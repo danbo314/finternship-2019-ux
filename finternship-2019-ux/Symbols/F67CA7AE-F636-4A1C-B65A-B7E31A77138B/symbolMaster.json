@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 172,
+  "changeIdentifier": 805,
   "clippingMaskMode": 0,
   "do_objectID": "F67CA7AE-F636-4A1C-B65A-B7E31A77138B",
   "exportOptions": {
@@ -27,8 +27,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8CAFB801-3E85-4ECB-8DF8-BC25C986FD3E",
-    "height": 147,
-    "width": 489,
+    "height": 70,
+    "width": 268,
     "x": 5509,
     "y": 230
   },
@@ -37,7 +37,7 @@
     "do_objectID": "725A4C36-0568-445A-BD01-3BF8A3811E64"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,19 +62,19 @@
       "id": "E7A68DB9-08AC-45BA-8D64-5F63CDBDFF64"
     },
     {
-      "class": "shapePath",
-      "id": "AE619641-69A6-4DD0-BE76-872761CB2C88"
-    },
-    {
       "class": "text",
       "id": "F03A341C-A1CE-4D13-BB5F-636294C4388D"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE619641-69A6-4DD0-BE76-872761CB2C88"
     },
     {
       "class": "text",
       "id": "894BF2D5-FCDB-404A-B835-0DBCA20313CB"
     }
   ],
-  "name": "Float Label Error Message Input - Mobiel",
+  "name": "Float Label Error Message Input - Mobile",
   "nameIsFixed": true,
   "overrideProperties": [
     {

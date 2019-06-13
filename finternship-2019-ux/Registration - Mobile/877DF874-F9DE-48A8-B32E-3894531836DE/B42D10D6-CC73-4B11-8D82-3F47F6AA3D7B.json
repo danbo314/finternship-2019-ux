@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B42D10D6-CC73-4B11-8D82-3F47F6AA3D7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 268,
+    "x": 54,
+    "y": 330.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Error Message Blank - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7562BC73-B34A-4197-8F34-E2760A4FAD65",
+      "overrideName": "81BF50EE-1845-4795-BB78-91029883A365_stringValue",
+      "value": "Invalid Student ID"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A87A840-6485-47B7-A836-5E205D525315",
+      "overrideName": "03994A8B-A565-44E7-B21A-1C6A30546720_stringValue",
+      "value": "Student ID"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D14576E2-7F13-424A-B283-43565FEB90E9",
+  "verticalSpacing": 0
+}
