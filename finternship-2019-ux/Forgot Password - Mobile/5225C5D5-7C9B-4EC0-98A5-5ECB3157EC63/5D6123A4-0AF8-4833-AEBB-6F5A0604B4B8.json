@@ -1,11 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E56C52A1-1BA4-44BC-BE5A-23DA35978352",
+  "do_objectID": "5D6123A4-0AF8-4833-AEBB-6F5A0604B4B8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1BE24306-E98A-4CD1-BAFD-5ECC1508586F",
+    "do_objectID": "C6C87117-6E29-4D5D-957D-85C6E8A7DF1E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2C51E90F-BA19-4024-AB1A-C8577B29EC84",
-    "height": 20,
-    "width": 203,
-    "x": 86,
-    "y": 672
+    "do_objectID": "6EE72DC9-3F08-4049-B871-59733889A9AD",
+    "height": 55,
+    "width": 268,
+    "x": 53,
+    "y": 318
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9753A18C-0192-4D6B-8361-81A8D6B7BDC1"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Float Label Undited - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "C2F01DCC-91AF-40F4-BD41-92823D1C232B"
+      "_class": "overrideValue",
+      "do_objectID": "79E0FD6D-1EEC-4AB8-BB6C-7D48296F0C07",
+      "overrideName": "64BD4826-FF43-4D29-B214-8F0D10776769_stringValue",
+      "value": "Email"
     }
   ],
-  "name": "Cancel 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DA7BA8F7-BE8F-4742-A1B8-60072D798139",
+    "do_objectID": "03DDA1D3-2C7A-4466-958C-A212D7FAED57",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "5AC11B80-40CF-40C2-A5C6-FE43FC7BD626",
+  "verticalSpacing": 0
 }

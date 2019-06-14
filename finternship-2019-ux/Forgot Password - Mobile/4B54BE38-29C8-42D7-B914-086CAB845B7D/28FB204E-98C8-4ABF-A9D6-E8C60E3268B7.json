@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC29B7D6-77DE-4AE2-A377-13C1DA777F71",
+  "do_objectID": "28FB204E-98C8-4ABF-A9D6-E8C60E3268B7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5CA18F5D-E13E-417F-B57A-8BF812E2F6B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CB2872A4-1E8B-40EE-817C-5B03B08E8AB8",
-    "height": 63,
-    "width": 210,
-    "x": 83,
-    "y": 597
+    "height": 70,
+    "width": 268,
+    "x": 53,
+    "y": 378
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +28,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile Blue Button",
+  "name": "Float Label Error Message Sensitive Input - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7A8A5D2-3AFA-4CD9-A7CE-3EED95677EFD",
-      "overrideName": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C_stringValue",
-      "value": "Submit"
+      "do_objectID": "46B98A5F-7521-4047-9814-0BE13166568B",
+      "overrideName": "59E718C1-F772-462F-9C66-07B179593655_stringValue",
+      "value": "Password must match"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4832772-1963-406A-9987-B8B986F516F8",
+      "overrideName": "8762F98E-B741-4430-9058-164C9069593E_stringValue",
+      "value": "Password"
     }
   ],
   "resizingConstraint": 63,
@@ -47,17 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5
-    },
-    "do_objectID": "D2772225-11EA-49E5-9249-68F2748A9DE2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0F65D8F3-632E-448A-9220-1A8A363D3DF8",
+  "symbolID": "81FF514F-583C-4DAF-95DA-0316BF6ADBA6",
   "verticalSpacing": 0
 }

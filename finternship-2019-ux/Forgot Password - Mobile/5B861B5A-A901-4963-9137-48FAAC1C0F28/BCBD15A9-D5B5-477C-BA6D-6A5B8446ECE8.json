@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC29B7D6-77DE-4AE2-A377-13C1DA777F71",
+  "do_objectID": "BCBD15A9-D5B5-477C-BA6D-6A5B8446ECE8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5CA18F5D-E13E-417F-B57A-8BF812E2F6B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CB2872A4-1E8B-40EE-817C-5B03B08E8AB8",
-    "height": 63,
-    "width": 210,
-    "x": 83,
-    "y": 597
+    "height": 55,
+    "width": 268,
+    "x": 54,
+    "y": 435
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +28,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile Blue Button",
+  "name": "Float Label Edited - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7A8A5D2-3AFA-4CD9-A7CE-3EED95677EFD",
-      "overrideName": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C_stringValue",
-      "value": "Submit"
+      "do_objectID": "6E1634C9-5CD2-4DC4-8CDA-59F4E0D181F3",
+      "overrideName": "277B0688-6C8C-4B12-ABDE-567CFCB9092F_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "534289CD-E731-414F-88F7-BBD38B6B1694",
+      "overrideName": "AAD5B718-9D60-4E06-B790-5A8CE586F6A4_stringValue",
+      "value": "sarah.drumm@pariveda.com"
     }
   ],
   "resizingConstraint": 63,
@@ -47,17 +51,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5
-    },
-    "do_objectID": "D2772225-11EA-49E5-9249-68F2748A9DE2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0F65D8F3-632E-448A-9220-1A8A363D3DF8",
+  "symbolID": "62DB01B7-4BD2-425B-ADAB-967D7004ED2E",
   "verticalSpacing": 0
 }

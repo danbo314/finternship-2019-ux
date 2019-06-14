@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC29B7D6-77DE-4AE2-A377-13C1DA777F71",
+  "do_objectID": "39E141E1-0DE3-4918-B164-680D4FDF1AE0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5CA18F5D-E13E-417F-B57A-8BF812E2F6B8",
+    "do_objectID": "630003C4-0403-4ED7-AA6A-97D3AE541206",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CB2872A4-1E8B-40EE-817C-5B03B08E8AB8",
-    "height": 63,
-    "width": 210,
-    "x": 83,
-    "y": 597
+    "do_objectID": "424C5E95-C7CC-4BB3-B277-425EE6AE8324",
+    "height": 55,
+    "width": 268,
+    "x": 54,
+    "y": 464
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile Blue Button",
+  "name": "Float Label Hide Sensitive Input - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A7A8A5D2-3AFA-4CD9-A7CE-3EED95677EFD",
-      "overrideName": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C_stringValue",
-      "value": "Submit"
+      "do_objectID": "2DBB4955-0C5C-4EAC-9B88-0A30FB090440",
+      "overrideName": "995DDA87-B630-4851-8AB7-DCA8B7D495F1_stringValue",
+      "value": "Confirm Password"
     }
   ],
   "resizingConstraint": 63,
@@ -47,17 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5
-    },
-    "do_objectID": "D2772225-11EA-49E5-9249-68F2748A9DE2",
+    "do_objectID": "E623C431-525A-4AE7-B2E0-76D2E0F3B8BD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0F65D8F3-632E-448A-9220-1A8A363D3DF8",
+  "symbolID": "AEABA30B-7827-4D1F-93E5-5DB83D7CF92D",
   "verticalSpacing": 0
 }
