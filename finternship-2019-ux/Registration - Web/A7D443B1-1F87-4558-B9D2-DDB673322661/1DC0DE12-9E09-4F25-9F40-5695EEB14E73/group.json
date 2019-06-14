@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1DC0DE12-9E09-4F25-9F40-5695EEB14E73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 480,
+    "x": 720,
+    "y": 521
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "17212D67-0F59-4CDE-A9ED-EF8B141F1761"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DE01591-4AAA-42B6-B62E-15FBAC2972D8"
+    },
+    {
+      "class": "text",
+      "id": "FAC6AC2D-608E-4FC4-9651-C495BFA14698"
+    },
+    {
+      "class": "text",
+      "id": "382AE3A2-69B9-4455-A05F-3B6CBE297497"
+    }
+  ],
+  "name": "Float Label Error Message Input Web Registration",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

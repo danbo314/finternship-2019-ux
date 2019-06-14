@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B1A02C5C-FA53-4D20-8A42-B9DACB9A8E94",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 377,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DD92A8B-54F0-4CB6-9213-7C95BF7DFC71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54FA7EC9-AAA1-4ABE-8BFD-615D95067E4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61B3E7F8-5721-43C5-B9C7-07DDE3F93A05",
+    "height": 120,
+    "width": 489,
+    "x": 4782,
+    "y": 970
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0FAB7E48-0DBA-4918-BE83-8E3AFDFAFFDE"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C6291D67-4DD0-4E5C-B4CC-F79A509DACBD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DC4D0024-8A46-4689-BEE6-D025E85B01E6"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EA55B20-563C-4A0C-BF3F-2E2109377279"
+    },
+    {
+      "class": "text",
+      "id": "8B873091-A434-46EF-8C39-14C946F5AE61"
+    },
+    {
+      "class": "group",
+      "id": "299D73A4-8374-46F7-923B-4E27A6967EDD"
+    },
+    {
+      "class": "group",
+      "id": "F6EABC71-1C99-4E98-A8AB-8D98A94972DB"
+    }
+  ],
+  "name": "Float Label Error Message Sensitive Input hide icon",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DC4D0024-8A46-4689-BEE6-D025E85B01E6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B873091-A434-46EF-8C39-14C946F5AE61_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EC579D8-6490-497C-BF8E-1409F7431828",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1AC2F79-213B-40DB-AE77-7191F5662E69",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3019AA5B-596A-4F1C-B10E-E8BA068D9AEF",
+    "guides": [
+    ]
+  }
+}

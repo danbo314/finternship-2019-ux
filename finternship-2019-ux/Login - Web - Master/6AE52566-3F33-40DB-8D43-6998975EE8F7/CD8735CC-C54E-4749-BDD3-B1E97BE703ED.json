@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD8735CC-C54E-4749-BDD3-B1E97BE703ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 489,
+    "x": 715.5,
+    "y": 456
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Error Message Input show icon - no error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80E80CE1-150C-46C2-968B-F866C71BBD6D",
+      "overrideName": "A3A7CF42-5DA7-4CB0-8431-5EAE9520A88F_stringValue",
+      "value": "MyPass123"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16FB6904-F09A-467D-B8CD-AC0FE5515236",
+      "overrideName": "5EAAAD33-DB78-42B5-B725-8DEB6D5C2774_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FBEA1D6D-4954-42F0-8A10-42E6F99A6ECE",
+  "verticalSpacing": 0
+}

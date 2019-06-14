@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 7,
   "clippingMaskMode": 0,
   "do_objectID": "98B082CA-692C-421E-944D-42CBAAEA1F5E",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
+    "height": 120,
     "width": 481,
     "x": 4768,
     "y": -94
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,6 +72,11 @@
   "name": "Float Label Hide Sensitive Input",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A4CA497-3297-4C0E-A322-07A19658FC77_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

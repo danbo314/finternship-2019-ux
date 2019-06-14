@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -64,15 +64,19 @@
     },
     {
       "class": "text",
-      "id": "A44C9B18-0308-45A0-B72E-47709B61196D"
-    },
-    {
-      "class": "text",
       "id": "C0430D17-F5C7-421D-97A5-D67D8D8B3701"
     },
     {
-      "class": "group",
-      "id": "F72A461B-7498-458A-B94E-4C09E0A37975"
+      "class": "symbolInstance",
+      "id": "CD8735CC-C54E-4749-BDD3-B1E97BE703ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B12627F-31DC-44B6-A6A0-E7931BA5F1F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1D95E58-A232-492F-BEDF-20D23B4330B6"
     }
   ],
   "name": "Reset Password Form Validation 2",
