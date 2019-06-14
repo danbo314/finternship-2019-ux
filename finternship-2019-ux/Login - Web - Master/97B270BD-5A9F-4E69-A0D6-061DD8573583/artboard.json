@@ -52,15 +52,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "A7324DD7-5CA9-4A90-8EB0-07BB0E06D5F3"
-    },
-    {
-      "class": "group",
-      "id": "C76DC828-62C0-4D6A-962E-8F62EE1DF24D"
     },
     {
       "class": "text",
@@ -73,6 +69,14 @@
     {
       "class": "symbolInstance",
       "id": "747760AE-F7A4-4687-97E1-EE9A68FFA77C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F489A46-2A41-4284-9ECA-C6E285B12952"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F5106F4-8851-4DCD-B722-9D9EFB078958"
     }
   ],
   "name": "Login Unedited",

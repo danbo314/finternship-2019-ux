@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 184,
+  "changeIdentifier": 194,
   "clippingMaskMode": 0,
   "do_objectID": "4C025FA1-771B-43A7-8528-2BEACBCD25F5",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "579E2F79-D999-495F-81F7-316C4AFB951C"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +68,10 @@
     {
       "class": "text",
       "id": "895635E8-B482-4954-AE30-4E9C6DE80614"
+    },
+    {
+      "class": "text",
+      "id": "34343FFB-E86F-419D-B6B3-1E70947561B4"
     }
   ],
   "name": "Float Label Error Message Blank",

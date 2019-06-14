@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -73,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "05C96BD0-F153-42BB-9E33-2065EAC88320"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0CB3DC1-F6D0-4C54-BEA6-B9BEA9C3A4E4"
     }
   ],
   "name": "Login Edited",

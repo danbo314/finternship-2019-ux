@@ -52,11 +52,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "DB8299BC-3E01-4924-A0B4-E5E542AA6D1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FB7F432-B5D9-4E73-A522-4BFCDF5F9B91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6F63D79-A84E-4786-912A-FFC20FE4D3B8"
     },
     {
       "class": "symbolInstance",
@@ -65,10 +73,6 @@
     {
       "class": "text",
       "id": "BBD7E637-23AF-4783-89EC-4C7E83725078"
-    },
-    {
-      "class": "group",
-      "id": "7921A6E7-51B5-4105-8360-B58DCA4AE891"
     }
   ],
   "name": "Reset Password Unedited",

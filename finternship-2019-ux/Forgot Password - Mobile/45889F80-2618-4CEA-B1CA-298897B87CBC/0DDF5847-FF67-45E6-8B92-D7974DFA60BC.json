@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DDF5847-FF67-45E6-8B92-D7974DFA60BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2F20CBB-13C7-40BC-9BDA-90DB417AB5E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7AC8F6B-233E-40C9-A530-F8FEE9FCDBE1",
+    "height": 55,
+    "width": 268,
+    "x": 53,
+    "y": 379
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Hide Sensitive Input - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9231001-12EA-4E18-B6E8-15A8E32751F0",
+      "overrideName": "995DDA87-B630-4851-8AB7-DCA8B7D495F1_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B2CB3E2-87AF-4301-9A53-7F12BB84BF51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEABA30B-7827-4D1F-93E5-5DB83D7CF92D",
+  "verticalSpacing": 0
+}

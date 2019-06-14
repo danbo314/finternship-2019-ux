@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -67,12 +67,16 @@
       "id": "B4BE38E0-4E88-41BC-AD70-B2B59337DCC9"
     },
     {
-      "class": "group",
-      "id": "54DB3325-44A9-4F0D-893C-E84E09C37B4C"
+      "class": "symbolInstance",
+      "id": "194F5BDB-9B89-4544-BD0F-7D0E7EA44E8A"
     },
     {
       "class": "symbolInstance",
-      "id": "194F5BDB-9B89-4544-BD0F-7D0E7EA44E8A"
+      "id": "6102E29B-F9BD-49EF-AE8D-74BDE200C822"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "741C49D5-44EE-43D5-AB9B-A86916311CB0"
     }
   ],
   "name": "Login Form Validation",
