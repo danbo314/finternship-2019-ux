@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "505FE476-CDEF-4096-8237-248226D69025",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5352ADA9-25D8-4B70-BA47-42BDF152664E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9257EE7D-792A-4673-8AF6-20CAAAE69C91",
+    "height": 63,
+    "width": 210,
+    "x": 83,
+    "y": 597
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Blue Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DD5B555-DD4E-46C7-9B1B-BE7F3045ADEE",
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
+      "value": "Return to Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A38ECBB9-8981-43B8-B543-7EC364FAE5CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
+  "verticalSpacing": 0
+}

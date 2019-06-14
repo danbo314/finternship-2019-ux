@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BC3D786-E593-4072-AB54-88035AB1B145",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0851169-2616-40B6-8E93-AC96F537FD74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECAAE757-E8B1-4118-8E51-AE00E6788BE5",
+    "height": 60,
+    "width": 60,
+    "x": 157,
+    "y": 427
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2BCF2725-772D-44EE-AC91-3DF841313079"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "091C3D2D-E235-435D-9DBC-50010DFCF902"
+    }
+  ],
+  "name": "md/checkmark-circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2E6C420-79CD-44F5-AE99-9CDBA501AF9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
