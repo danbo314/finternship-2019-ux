@@ -18,7 +18,7 @@
     "height": 70,
     "width": 268,
     "x": 53,
-    "y": 378
+    "y": 403
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,15 +33,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "46B98A5F-7521-4047-9814-0BE13166568B",
-      "overrideName": "59E718C1-F772-462F-9C66-07B179593655_stringValue",
-      "value": "Password must match"
+      "do_objectID": "5D39C543-EF9C-4C73-B495-5BB782F13A39",
+      "overrideName": "DCC6BB74-57B8-402F-B13A-603800F6CA3E_stringValue",
+      "value": "New Password"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B4832772-1963-406A-9987-B8B986F516F8",
-      "overrideName": "8762F98E-B741-4430-9058-164C9069593E_stringValue",
-      "value": "New Password"
+      "do_objectID": "3D821AC7-D0D7-4999-B5CD-7345C86E817F",
+      "overrideName": "5B27FD1B-2A8C-48AF-9962-CC15B43C235F_stringValue",
+      "value": "Password must match"
     }
   ],
   "resizingConstraint": 63,
@@ -56,6 +56,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "81FF514F-583C-4DAF-95DA-0316BF6ADBA6",
+  "symbolID": "A43FDFB7-CB40-43A0-B263-0DD72B2F3AE8",
   "verticalSpacing": 0
 }

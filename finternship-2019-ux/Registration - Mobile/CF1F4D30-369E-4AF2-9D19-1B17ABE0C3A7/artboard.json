@@ -27,8 +27,8 @@
     "do_objectID": "F388A268-EC32-49C0-B835-613BBE3D7D10",
     "height": 812,
     "width": 375,
-    "x": -387,
-    "y": 831
+    "x": -923,
+    "y": -113
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -60,7 +60,11 @@
     },
     {
       "class": "group",
-      "id": "5427C14B-E084-446D-A57D-4B27B70B7C72"
+      "id": "2EDE8048-68E0-4A6A-8F35-C85606FA3194"
+    },
+    {
+      "class": "group",
+      "id": "48650082-B5E9-45C7-BCAD-596BCA48D6BF"
     },
     {
       "class": "symbolInstance",
@@ -85,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "126CFBE4-0236-4F4A-A674-5D808EBEF67C"
+    },
+    {
+      "class": "text",
+      "id": "8060C227-46CA-4625-8B10-B39491637487"
     }
   ],
   "name": "Registration - Disabled Button 2",

@@ -20,7 +20,7 @@
     "height": 55,
     "width": 268,
     "x": 53,
-    "y": 379
+    "y": 415
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B9231001-12EA-4E18-B6E8-15A8E32751F0",
-      "overrideName": "995DDA87-B630-4851-8AB7-DCA8B7D495F1_stringValue",
+      "do_objectID": "6EE02654-D41B-4318-821C-E3D3F6E08844",
+      "overrideName": "B6C3A2B1-5DF7-41B9-AE48-985CC3F5C692_stringValue",
       "value": "New Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D922C052-306A-4064-9413-1E2C11D73E5D",
+      "overrideName": "E55BB828-4775-4713-8037-C3C60152F40A_stringValue",
+      "value": "MyPa$$word"
     }
   ],
   "resizingConstraint": 63,
@@ -53,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AEABA30B-7827-4D1F-93E5-5DB83D7CF92D",
+  "symbolID": "E47E424E-AA2E-4CC8-83F6-D1A34094E143",
   "verticalSpacing": 0
 }

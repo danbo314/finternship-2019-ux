@@ -27,7 +27,7 @@
     "do_objectID": "0E7A6632-FF5A-4534-BB1A-BDFB9DD7575B",
     "height": 812,
     "width": 375,
-    "x": 563,
+    "x": 27,
     "y": -127
   },
   "groupLayout": {
@@ -60,7 +60,11 @@
     },
     {
       "class": "group",
-      "id": "95D7DFE1-8BD3-41D5-9918-F42D970597DA"
+      "id": "6D16D444-CD95-4019-B953-0EC6A8238D29"
+    },
+    {
+      "class": "group",
+      "id": "630DF415-7708-4404-AE56-F63B42C21F98"
     },
     {
       "class": "group",
@@ -85,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "C66276C9-2B1E-45DF-82DE-B887552D98B9"
+    },
+    {
+      "class": "text",
+      "id": "49E0E140-0A80-4BDD-862C-79C45F5DC5C1"
     }
   ],
   "name": "Registration - Edited with Errors 2",

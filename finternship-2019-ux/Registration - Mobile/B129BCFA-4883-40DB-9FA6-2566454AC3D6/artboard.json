@@ -27,7 +27,7 @@
     "do_objectID": "5309F6C2-4104-4B4F-BD21-CF9B7A2FD628",
     "height": 812,
     "width": 375,
-    "x": -387,
+    "x": -448,
     "y": -127
   },
   "groupLayout": {
@@ -35,7 +35,7 @@
     "do_objectID": "61611241-9015-49D0-B00B-79C650FD6839"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -85,6 +85,10 @@
     {
       "class": "symbolInstance",
       "id": "E595C9D9-3CF8-4D21-A1EA-D1B22944B55A"
+    },
+    {
+      "class": "group",
+      "id": "54BB7773-5731-4792-A1D3-E9F95A25ED79"
     }
   ],
   "name": "Registration - Edited",

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EFCACC1-5E77-45E8-A647-35EA1CCAABD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5092FD2-A555-4B53-8C46-D25980CB73E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8079ED12-2D69-400D-B063-FC92C9D14688",
+    "height": 55,
+    "width": 268,
+    "x": 54,
+    "y": 379
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Sensitive Input No Icon - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDD7AAA6-7127-4148-8FF5-1D3B2229FFF9",
+      "overrideName": "B6C3A2B1-5DF7-41B9-AE48-985CC3F5C692_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D982D79-6382-43C8-940E-81B742F3D9CE",
+      "overrideName": "E55BB828-4775-4713-8037-C3C60152F40A_stringValue",
+      "value": "MyPa55word"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5E912E5-2E34-41B0-A3B8-F40C83A71A6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E47E424E-AA2E-4CC8-83F6-D1A34094E143",
+  "verticalSpacing": 0
+}

@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 31,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "Please enter your new password."
+    "string": "Please enter your code and a new password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,10 +56,10 @@
     "do_objectID": "AE57E9CF-C8F6-481F-98C4-75BBE83C0F8B",
     "height": 84,
     "width": 267,
-    "x": 54,
-    "y": 280
+    "x": 53,
+    "y": 256
   },
-  "glyphBounds": "{{17, 2}, {233, 38}}",
+  "glyphBounds": "{{13, 2}, {241, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Please enter your ne",
+  "name": "Please enter your co",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

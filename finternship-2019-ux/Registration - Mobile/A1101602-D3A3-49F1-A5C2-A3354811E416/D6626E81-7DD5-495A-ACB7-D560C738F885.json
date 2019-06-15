@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6626E81-7DD5-495A-ACB7-D560C738F885",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5D74B67-EE2D-4724-BDB1-43F0E3B0D2D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82924040-8CB6-43F8-8B7E-9E0CF65B56D5",
+    "height": 70,
+    "width": 268,
+    "x": 54,
+    "y": 375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Error Message Sensitive Input - Mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB74884A-EC9C-4134-9E2A-CD649CAF8AFF",
+      "overrideName": "5E858B4B-7370-4C30-9407-7DC4C72798C5_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2737F15D-7FC7-438C-A1AB-9349B4C6152A",
+      "overrideName": "6F2DF722-E7D7-455E-86C8-58FFA106AEC2_stringValue",
+      "value": "Passwords must match"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1BCC02E-2615-4C27-B8D1-0659ECB764CA",
+      "overrideName": "79A3805C-83F5-4798-88DF-A627014EBF35_stringValue",
+      "value": "MyPass"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D41C5D2-EF07-46D4-87EE-B308F01C711A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E0449FB0-AEE1-4131-B18D-6329C397A729",
+  "verticalSpacing": 0
+}

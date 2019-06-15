@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B0002821-BB0C-4508-ADFB-CC1D9B964286",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 940,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC301C72-61A9-497B-8354-DA921678CF08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "977A22E0-96DF-4ECA-98A7-05A94D83318A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4073E233-9E75-4A51-A493-8BA93589201C",
+    "height": 70,
+    "width": 268,
+    "x": 6545,
+    "y": 68
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "89BD68B9-D015-4067-B2CB-65C6D492092F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4862ADC9-F7E2-4176-BEBD-239EDD9881A7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DCC6BB74-57B8-402F-B13A-603800F6CA3E"
+    },
+    {
+      "class": "group",
+      "id": "FFADFD82-7944-49BE-B744-AE6681D06D06"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD7531B2-2FE9-447E-999C-8DB8018B629E"
+    },
+    {
+      "class": "text",
+      "id": "5B27FD1B-2A8C-48AF-9962-CC15B43C235F"
+    },
+    {
+      "class": "group",
+      "id": "63DF6450-911B-4822-8CF9-5715E9264D5F"
+    }
+  ],
+  "name": "Float Label Error Message Hide Sensitive Input - Mobile",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DCC6BB74-57B8-402F-B13A-603800F6CA3E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5B27FD1B-2A8C-48AF-9962-CC15B43C235F_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "798265E9-3145-4CA1-9071-AEB4E9987312",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A43FDFB7-CB40-43A0-B263-0DD72B2F3AE8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "28EE9411-9F08-4064-BACC-CA90592EC21E",
+    "guides": [
+    ]
+  }
+}

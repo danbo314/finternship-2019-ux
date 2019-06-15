@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "Enter your email and we’ll send you a link to reset your password."
+    "string": "Enter your email and we’ll send you a code to reset your password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 54,
     "y": 331
   },
-  "glyphBounds": "{{10, 1}, {245, 59}}",
+  "glyphBounds": "{{4, 1}, {257, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

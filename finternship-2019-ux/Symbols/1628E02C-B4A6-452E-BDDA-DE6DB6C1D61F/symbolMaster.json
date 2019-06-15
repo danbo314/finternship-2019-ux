@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 269,
+  "changeIdentifier": 292,
   "clippingMaskMode": 0,
   "do_objectID": "1628E02C-B4A6-452E-BDDA-DE6DB6C1D61F",
   "exportOptions": {
@@ -68,6 +68,10 @@
     {
       "class": "group",
       "id": "E85273C7-2DCA-43DE-AF2A-2F48C79C713D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C191C367-7560-44DE-BEC8-13AF5DB354CB"
     }
   ],
   "name": "Float Label Show Sensitive Input - Mobile",

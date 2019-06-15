@@ -27,8 +27,8 @@
     "do_objectID": "2B60198E-3DE6-4928-A3AF-658EA1773586",
     "height": 812,
     "width": 375,
-    "x": -862,
-    "y": -127
+    "x": -1398,
+    "y": -113
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -60,7 +60,11 @@
     },
     {
       "class": "group",
-      "id": "B715D5A9-C053-4C1E-8175-C7B45475A99A"
+      "id": "25414358-281C-4A76-89FF-FA109E0EB5EF"
+    },
+    {
+      "class": "group",
+      "id": "C60D3593-F001-47A9-9513-0985F9E22A5C"
     },
     {
       "class": "group",
@@ -85,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "BC6C53A7-83A9-4344-97AC-B0EC5AE93C44"
+    },
+    {
+      "class": "text",
+      "id": "B761D4B2-A38F-4A81-BA46-F1B5E2678481"
     }
   ],
   "name": "Registration ",

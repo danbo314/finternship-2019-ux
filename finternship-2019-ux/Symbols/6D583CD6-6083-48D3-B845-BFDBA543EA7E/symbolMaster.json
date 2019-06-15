@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "323E37EA-7D4F-4F83-8374-677D1C2ACC9F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 851,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D583CD6-6083-48D3-B845-BFDBA543EA7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1F3287D-800A-4081-BB2C-BF9F84BD5D90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B43F94E6-FA46-4100-ACAE-AADD69B5B169",
+    "height": 70,
+    "width": 268,
+    "x": 6913,
+    "y": 68
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6FF5B87D-B352-4212-A06F-D58604045696"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E204EB5-5223-4D5F-B0E8-B797F7D4F0CF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5E858B4B-7370-4C30-9407-7DC4C72798C5"
+    },
+    {
+      "class": "text",
+      "id": "79A3805C-83F5-4798-88DF-A627014EBF35"
+    },
+    {
+      "class": "shapePath",
+      "id": "61C8F2AB-63BF-4AF9-AA51-62E814A2CD47"
+    },
+    {
+      "class": "text",
+      "id": "6F2DF722-E7D7-455E-86C8-58FFA106AEC2"
+    },
+    {
+      "class": "group",
+      "id": "CA142F4D-1A85-4781-8689-2628E6E9EE91"
+    }
+  ],
+  "name": "Float Label Error Message Show Sensitive Input - Mobile",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E858B4B-7370-4C30-9407-7DC4C72798C5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "79A3805C-83F5-4798-88DF-A627014EBF35_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6F2DF722-E7D7-455E-86C8-58FFA106AEC2_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4122A33-2145-4B13-A50A-8B476A1CF3A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E0449FB0-AEE1-4131-B18D-6329C397A729",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D374AC4-7B1C-4799-86F6-FCDBD39F417B",
+    "guides": [
+    ]
+  }
+}
