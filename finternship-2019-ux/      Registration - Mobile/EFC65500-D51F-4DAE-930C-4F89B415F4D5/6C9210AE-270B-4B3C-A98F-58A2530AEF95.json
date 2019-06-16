@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "6DD5B555-DD4E-46C7-9B1B-BE7F3045ADEE",
       "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
-      "value": "Submit"
+      "value": "Verify"
     }
   ],
   "resizingConstraint": 63,
@@ -47,6 +47,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "do_objectID": "82B977C5-7091-49D8-96BB-DC83C78DD343",
     "endMarkerType": 0,
     "miterLimit": 10,

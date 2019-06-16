@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "513D46E9-DD22-49AA-AEDD-E6914DCE7AC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55D5EA3D-5A55-4D41-A8F4-1B3FE8448164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3F70C73-8F2C-4FC5-BC53-4F38F8F48201",
+    "height": 77,
+    "width": 407,
+    "x": 757,
+    "y": 716
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Web Orange Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEB0F766-282C-42F1-864F-A82B70FEADFA",
+      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
+      "value": "Verify"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D80EAEFD-C0F7-4FB2-93DD-6EEC4B47E326",
+      "opacity": 0.5
+    },
+    "do_objectID": "D46FB363-74C2-4128-B1F5-215BEB11328F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "verticalSpacing": 0
+}

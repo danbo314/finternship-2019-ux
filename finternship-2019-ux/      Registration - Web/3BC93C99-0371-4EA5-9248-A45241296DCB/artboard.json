@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8491F003-4679-4498-B925-9E3C3F23510F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3BC93C99-0371-4EA5-9248-A45241296DCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "914A035C-9DA9-4BAD-A6B1-2BD38CF8C790",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BAE0CA9-D26A-4AE6-91A5-E72F5E3064A0",
+    "height": 1080,
+    "width": 1920,
+    "x": 6771,
+    "y": -727
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CC510FAD-C1B1-4867-8389-E9A6D9139A1D"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2267C1F6-BC74-4ECC-ADC2-86B51B441AEE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A17EDBE4-D063-47B3-BF65-5E67AE243B20"
+    },
+    {
+      "class": "group",
+      "id": "8237DEC0-4272-4044-8262-84C3B4ED0485"
+    },
+    {
+      "class": "text",
+      "id": "B6D0DF0F-5CB6-49DE-91F0-94AAED93CF0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F6B135E-EF5D-407C-8883-C49C264019F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "776E5645-A5B2-4C78-8E78-31BC22CDCE6E"
+    },
+    {
+      "class": "text",
+      "id": "95A1830B-DA52-44D8-8428-4C97708482F8"
+    }
+  ],
+  "name": "Verification code unedited",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9244C833-E0E2-4021-A3A1-5895C878FFF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D059F1CA-053A-4E22-A13B-D4C928E3E898",
+    "guides": [
+    ]
+  }
+}

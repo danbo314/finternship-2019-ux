@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "15A62306-6F05-4A70-9A54-0A3D58CCC664",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AA892EB-B7E6-4BC6-B354-483A3A58F880",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63222989-6EC7-4598-98AD-7ABB1E641C7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C1615FE-07F2-4282-B65B-546ED6110D18",
+    "height": 1080,
+    "width": 1920,
+    "x": 6771,
+    "y": 456
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FA3F6972-72E9-461D-A932-1C3166B36B14"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6849CE4A-3D8F-4A02-8953-190F765A697E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "389F8C49-1E56-4323-877C-BEE75376E201"
+    },
+    {
+      "class": "group",
+      "id": "D777F0AF-E940-49EF-8866-36C4A836B3CB"
+    },
+    {
+      "class": "text",
+      "id": "20C5C7F4-7AC5-4501-B9BA-91AF705DA9BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "513D46E9-DD22-49AA-AEDD-E6914DCE7AC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5913D974-DDD6-4DC9-8231-4BACE2B3C495"
+    },
+    {
+      "class": "text",
+      "id": "5931B78C-10D2-4F2B-9EBA-6962F02620AE"
+    }
+  ],
+  "name": "Verification code error",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE4AD7B5-442E-4157-A468-23A84780895A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52043EE3-2C99-4CCC-932F-739DE70410CD",
+    "guides": [
+    ]
+  }
+}

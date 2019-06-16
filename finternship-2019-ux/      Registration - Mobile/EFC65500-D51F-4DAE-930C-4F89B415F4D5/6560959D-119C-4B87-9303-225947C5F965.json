@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gibson-SemiBold",
-              "size": 20
+              "size": 16
             }
           },
-          "kerning": 1.648809583333332,
+          "kerning": 1.319047666666666,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 62,
+        "length": 92,
         "location": 0
       }
     ],
-    "string": "Please enter the verification code sent to your email account."
+    "string": "Please enter the verification code sent to your email account to complete your registration."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "584B1EF9-2AE2-43FF-B8D9-88A8998F7419",
-    "height": 84,
-    "width": 267,
+    "height": 100,
+    "width": 268,
     "x": 54,
-    "y": 314
+    "y": 313
   },
-  "glyphBounds": "{{4, 2}, {257, 58}}",
+  "glyphBounds": "{{15, 3}, {237, 76}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,10 +95,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gibson-SemiBold",
-            "size": 20
+            "size": 16
           }
         },
-        "kerning": 1.648809583333332,
+        "kerning": 1.319047666666666,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5913D974-DDD6-4DC9-8231-4BACE2B3C495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97A91B3D-0CD6-4C56-8F43-62D1F79BB27F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE71C1EF-2122-4486-BDDB-296614D73D54",
+    "height": 120,
+    "width": 480,
+    "x": 721,
+    "y": 550
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B96C8435-7D2C-455A-9064-E88EF2D8C0C4",
+      "overrideName": "D83427F7-C07B-498A-B313-0F3FF48E69DD_stringValue",
+      "value": "Verification Code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C5FB607-5AFF-426B-AA26-B1E6AF26C368",
+      "overrideName": "895635E8-B482-4954-AE30-4E9C6DE80614_stringValue",
+      "value": "012345"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94847DFC-6569-466E-AFCF-7666F1307ED7",
+      "overrideName": "34343FFB-E86F-419D-B6B3-1E70947561B4_stringValue",
+      "value": "This code is expired. Resend code to verify your account."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CAC0CDE-BBD0-4B97-BD63-F22E0C9C4A86",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F85EDE0-9112-423A-9105-7FD9440A2495",
+  "verticalSpacing": 0
+}
