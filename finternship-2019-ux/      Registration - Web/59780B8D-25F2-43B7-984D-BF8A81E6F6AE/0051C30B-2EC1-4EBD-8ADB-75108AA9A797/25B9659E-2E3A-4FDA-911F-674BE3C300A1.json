@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25B9659E-2E3A-4FDA-911F-674BE3C300A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A1C045C-7746-41F0-B7EA-5EE5B299C0A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB8A1468-F96A-43E0-B2F0-2292576D1FB0",
+    "height": 120,
+    "width": 481,
+    "x": 0,
+    "y": 360
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A616D0D5-C112-4292-8080-B3E8E93DE351",
+      "overrideName": "93A09301-F9C0-46EF-ADD5-E3E05985FDF3_stringValue",
+      "value": "Confirm Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A3A3419-926C-4613-A4E1-F42CCB461962",
+      "overrideName": "34C2671B-7CD7-49B0-8567-E7C4B2BEC676_stringValue",
+      "value": "MyP@ss!@#"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19FFB550-3835-4A58-8CCA-B3426BEAC2BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8104EBD2-0643-41CE-A75A-68AA5BBDD95E",
+  "verticalSpacing": 0
+}

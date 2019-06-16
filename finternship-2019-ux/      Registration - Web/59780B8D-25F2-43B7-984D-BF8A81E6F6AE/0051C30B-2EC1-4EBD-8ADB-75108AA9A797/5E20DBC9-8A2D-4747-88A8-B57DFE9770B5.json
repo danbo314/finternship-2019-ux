@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E20DBC9-8A2D-4747-88A8-B57DFE9770B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43779C48-DA7F-4E53-8177-FB3EBECD612C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93DD33E6-A00A-403A-85D5-799B3CA5744C",
+    "height": 120,
+    "width": 220,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CA4721A-B90D-4E77-968B-C0A69632EBAF",
+      "overrideName": "93A09301-F9C0-46EF-ADD5-E3E05985FDF3_stringValue",
+      "value": "First Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D0EDEF3-528E-49D7-985B-63DBA0465D40",
+      "overrideName": "34C2671B-7CD7-49B0-8567-E7C4B2BEC676_stringValue",
+      "value": "Jane"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "349E0A74-33CC-44F0-B3D7-C2568C743499",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8104EBD2-0643-41CE-A75A-68AA5BBDD95E",
+  "verticalSpacing": 0
+}

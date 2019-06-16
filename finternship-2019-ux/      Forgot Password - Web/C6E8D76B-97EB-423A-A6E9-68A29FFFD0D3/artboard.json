@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AA28E5DE-5D5F-4367-9DA3-123B7873DDB5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6E8D76B-97EB-423A-A6E9-68A29FFFD0D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E2FDDCA-6EDC-43D8-8C30-3A63BA52D385",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "500EBFF6-6E98-4138-806F-13ADAF84F3DD",
+    "height": 1080,
+    "width": 1920,
+    "x": -961,
+    "y": -234
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1FBF25B9-9119-4686-964E-B25FC4223F3F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86EB567E-98E7-45AF-BBE8-F53AEB6E0FF2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A7B898A1-AFC3-4613-9CF6-B5115B179A4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE074C31-C183-4F7D-B565-2AF934D22027"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20051EE0-0145-4599-8CD7-5D8DF923FA80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "662BD33D-4591-4047-A607-CEE8CF31B520"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8520268-747B-4F2A-9C08-05540AF0B505"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98C2D520-CD93-4512-A546-320400A39BA8"
+    },
+    {
+      "class": "text",
+      "id": "6CC1DC15-9895-4390-865C-CBB1AF5B8F24"
+    }
+  ],
+  "name": "Reset Password View Hidden",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "247CD600-7D71-48BB-B9B6-B61A62DF804B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "24322D73-FA2F-45B3-AEA0-A9B237558055",
+    "guides": [
+      892
+    ]
+  }
+}

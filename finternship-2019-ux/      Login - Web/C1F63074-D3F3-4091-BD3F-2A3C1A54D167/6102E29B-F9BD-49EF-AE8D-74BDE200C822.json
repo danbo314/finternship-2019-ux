@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6102E29B-F9BD-49EF-AE8D-74BDE200C822",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 489,
+    "x": 718,
+    "y": 390
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Error Message Blank",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FF1E73D-0685-4283-95B0-480089090B27",
+      "overrideName": "AFDF6E3D-6F5D-4346-8EAE-1A7BC6DC66CB_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07015E9E-8B15-4C1A-8A5A-3C48D6467BAE",
+      "overrideName": "197A12C1-5AED-4E0F-9183-1B5F4911AF7C_stringValue",
+      "value": "Invalid Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77113E97-FF1B-490B-9A68-5CDCBD67E8C8",
+      "overrideName": "810C9446-6A71-4B1D-B125-F098FE48627A_stringValue",
+      "value": "Invalid Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "22D2C16F-AF7F-44B3-A003-CD4ED987DA6E",
+  "verticalSpacing": 0
+}

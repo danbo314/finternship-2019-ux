@@ -1,0 +1,104 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "21C68A99-18B4-46B7-8D0C-E08603FDF57D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73791308-8D13-4053-B4D0-2E7C34D5CA34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "175FBDDC-BB88-4890-A9B1-1A78AD642226",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3FF1ED2B-D6D9-4928-9A08-1D1741D9516D",
+    "height": 1080,
+    "width": 1920,
+    "x": 5631,
+    "y": -292
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E85A30A6-DC31-4129-A194-D2E419D4456B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "96FA969B-CA2E-4601-8D23-82BB312F2F97",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "37AA65E6-4A73-49EA-8F29-258710243403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4674ADB-3F3F-4284-B61A-AE7F6D0C7A0F"
+    },
+    {
+      "class": "text",
+      "id": "C73F0DE1-506F-486E-A418-ECCCC27EAD72"
+    },
+    {
+      "class": "text",
+      "id": "D3A60375-D841-4E74-B1BA-88CCD2E0A070"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65E87545-2C60-42D6-8AF3-721936C7E1A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "807D0E0C-FE6B-4B1A-A398-777BF39BFF86"
+    }
+  ],
+  "name": "Login Edited Show Password",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CC3E6A8-E355-489B-B7C7-BEDF4097614B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5675172C-4064-49EA-A821-C6E4311E8B06",
+    "guides": [
+    ]
+  }
+}

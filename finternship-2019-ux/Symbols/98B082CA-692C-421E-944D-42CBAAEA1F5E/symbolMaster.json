@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 11,
   "clippingMaskMode": 0,
   "do_objectID": "98B082CA-692C-421E-944D-42CBAAEA1F5E",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -66,7 +66,7 @@
     },
     {
       "class": "group",
-      "id": "45940405-D569-4489-8551-A09062C093C5"
+      "id": "D222BD7A-181A-47FF-967B-69107EC72771"
     }
   ],
   "name": "Float Label Hide Sensitive Input",

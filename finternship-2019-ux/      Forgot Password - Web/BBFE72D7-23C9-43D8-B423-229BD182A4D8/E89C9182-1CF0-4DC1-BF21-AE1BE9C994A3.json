@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E89C9182-1CF0-4DC1-BF21-AE1BE9C994A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AB8C891-30FB-432A-81A1-941725FC848A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5ED36EB6-0002-4FDE-A7D1-116E21DEAF78",
+    "height": 120,
+    "width": 480,
+    "x": 721,
+    "y": 428
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D65DDEAF-9E3D-4898-BD8F-A1196C8DC7F0",
+      "overrideName": "93A09301-F9C0-46EF-ADD5-E3E05985FDF3_stringValue",
+      "value": "Code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9990A07B-3DC1-4548-8009-6B172A0AC802",
+      "overrideName": "34C2671B-7CD7-49B0-8567-E7C4B2BEC676_stringValue",
+      "value": "012345"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FD4E167-FF85-4CE4-812F-B535B05FAD04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8104EBD2-0643-41CE-A75A-68AA5BBDD95E",
+  "verticalSpacing": 0
+}
