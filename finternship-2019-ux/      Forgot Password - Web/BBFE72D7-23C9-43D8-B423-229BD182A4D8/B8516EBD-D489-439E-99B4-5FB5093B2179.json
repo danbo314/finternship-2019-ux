@@ -24,25 +24,25 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 30,
+        "length": 50,
         "location": 0
       }
     ],
-    "string": "Please enter your new password"
+    "string": "Please enter your 6 digit code and a new password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E952EBEE-F2E2-4D1B-84B8-128166954861",
+  "do_objectID": "B8516EBD-D489-439E-99B4-5FB5093B2179",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B6427772-37C9-4E69-B575-9FDF21885301",
+    "do_objectID": "50E0F058-FA7C-431A-8982-051ED5D8B181",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B645A0C7-72F6-4600-B20C-C9488718FE42",
+    "do_objectID": "F84D709B-9083-4268-8523-43FDAC23A90C",
     "height": 213,
-    "width": 638,
-    "x": 642,
-    "y": 288
+    "width": 559,
+    "x": 680,
+    "y": 283
   },
-  "glyphBounds": "{{97, 10}, {442, 23}}",
+  "glyphBounds": "{{31, 4}, {495, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Please enter your ne",
+  "name": "Please enter your 6",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,13 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7940B65F-F792-44B8-B2AD-DE8D22A4BAB0",
+    "do_objectID": "CEB69F3C-A075-412D-901E-62ADB1B3BF82",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "424F0593-4BF5-47BB-9776-C390510AF4DF",
+      "do_objectID": "FCD9624C-5E9D-49C6-86EE-80172FD7FF25",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -102,8 +102,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         },
         "textStyleVerticalAlignmentKey": 1
       },

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0EE79F5B-BF0B-4A08-98C0-6B8B942C3078",
+  "do_objectID": "924522C5-8F94-41B9-8404-EB1091A0918B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FADDF4DB-F57A-4A47-9A32-76278517C74E",
+    "do_objectID": "049EA91A-D3EB-4081-9714-1528F6D4148E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C0F8322C-D71F-4F12-A74E-178319E18058",
-    "height": 77,
-    "width": 407,
-    "x": 757,
-    "y": 629
+    "do_objectID": "0110B4B8-03E4-43A1-9671-D98E74B99E62",
+    "height": 120,
+    "width": 480,
+    "x": 721,
+    "y": 674
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Web Orange Button",
+  "name": "Float Label Unedited",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9C580F0F-BC20-4E3F-B4CB-C5F62F036274",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "56F56405-7D3D-42E0-8E81-08E0DD4BC3ED",
+      "overrideName": "46CE6954-488A-49A7-A2B3-79C6C6AB4FF1_stringValue",
+      "value": "Confirm New Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56BE2F90-3D00-40B7-B730-6FD693D0FD2B",
+      "overrideName": "FB9342C6-D644-4856-8306-F3D224676BFA_stringValue",
+      "value": "Passwords must match"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F770D418-9DAA-4943-A2C3-E6B3A80374F5",
+    "do_objectID": "A5645135-B0A6-4607-87E3-3C2D4129E688",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "744BFB43-590A-4D33-AF5F-74235ECCFF8C",
   "verticalSpacing": 0
 }

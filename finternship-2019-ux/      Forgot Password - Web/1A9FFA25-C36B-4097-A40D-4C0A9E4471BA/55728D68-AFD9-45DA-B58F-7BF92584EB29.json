@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0EE79F5B-BF0B-4A08-98C0-6B8B942C3078",
+  "do_objectID": "55728D68-AFD9-45DA-B58F-7BF92584EB29",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FADDF4DB-F57A-4A47-9A32-76278517C74E",
+    "do_objectID": "613A35A4-1437-48C4-A91B-999E1A5180DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C0F8322C-D71F-4F12-A74E-178319E18058",
+    "do_objectID": "81A69D40-A899-4EB4-ADFC-CABCE3858653",
     "height": 77,
     "width": 407,
-    "x": 757,
-    "y": 629
+    "x": 756,
+    "y": 822
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +35,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9C580F0F-BC20-4E3F-B4CB-C5F62F036274",
-      "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue",
-      "value": "Login"
+      "do_objectID": "7E4ADBA0-6E91-4E95-BB79-9A3CD77A21C5",
+      "overrideName": "4F7BB0B6-5745-4131-96C7-1D5B44E9A44D_stringValue",
+      "value": "Reset"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,18 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F770D418-9DAA-4943-A2C3-E6B3A80374F5",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FEBA3B6B-0AD2-44AD-855A-25783BD1CC9E",
+      "opacity": 0.4994884672619048
+    },
+    "do_objectID": "F41369C3-D30C-46AE-A31E-B1F248A7EBEA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D55FD074-07BB-431A-B5F0-2D4179045A24",
+  "symbolID": "F56DBBE9-943F-4DC0-83F3-B23FC5D995B6",
   "verticalSpacing": 0
 }

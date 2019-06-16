@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "2CD1FF88-6E9C-43E9-825F-1D372B97E662",
+    "do_objectID": "318D1742-FC8F-4AE8-89A1-BE830C41A721",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6C3C319E-3F33-472D-BE03-6DBAD0C1227A",
+  "do_objectID": "1A9FFA25-C36B-4097-A40D-4C0A9E4471BA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0A35D9A3-3E16-4239-96F9-C714C38B83B7",
+    "do_objectID": "789B1873-E961-46F4-87C5-4F148FEB160B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DFF564D1-F974-4F25-9EC4-C184F20D6EFD",
+    "do_objectID": "FB7B779D-488A-47A3-ACA5-EB245657808F",
     "height": 1080,
     "width": 1920,
     "x": -2981,
-    "y": -2054
+    "y": 2180
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "D621B32E-7888-44FD-8F9F-E8CC335724C4"
+    "do_objectID": "BB91EDDE-E956-487A-B7AE-61D1873D0ECD"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "76169311-4AE0-42DD-9B67-BFEDA13E353C",
+    "do_objectID": "DF7D4DC6-84AD-4410-AF2A-5337D2003D69",
     "guides": [
     ]
   },
@@ -56,22 +56,34 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "9674A858-6360-4D66-9C7A-BB2B94F94DF4"
+      "id": "27D8F67C-77BF-47BA-B237-55D17F752662"
     },
     {
       "class": "symbolInstance",
-      "id": "22DDA9B4-6BB1-497C-9448-1C790F2018BF"
+      "id": "A5F4BE5A-DD8F-4DB9-A65B-84E32F6AD141"
     },
     {
       "class": "symbolInstance",
-      "id": "BCCCCCDB-AB95-4C85-A7F5-CB1853A89CE0"
+      "id": "55728D68-AFD9-45DA-B58F-7BF92584EB29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6DF86A2-B129-424E-994E-6E40A6BCE9EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6B2E1F8-9B95-4885-A71D-8F3F3B4337BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "924522C5-8F94-41B9-8404-EB1091A0918B"
     },
     {
       "class": "text",
-      "id": "4645454A-EBC5-46A3-AAB6-F73F81F60AD1"
+      "id": "A01A81D3-CDCF-41AF-8068-3E136346E40E"
     }
   ],
-  "name": "Forgot Password Edited",
+  "name": "Reset Password Error",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -80,7 +92,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "80C32C04-AD45-4137-8C33-AA750F1A283C",
+    "do_objectID": "D333B84F-D827-49D3-9A12-10C94B9F9BA4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -89,8 +101,9 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "56AFE22E-F06D-4393-B06D-C17F9E377DA6",
+    "do_objectID": "6FA225BE-39EB-4636-A144-22EA637771C3",
     "guides": [
+      892
     ]
   }
 }

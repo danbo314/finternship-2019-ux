@@ -1,11 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B6B481E1-94DD-4C2D-9F3F-74D1C4AE532D",
+  "do_objectID": "27D8F67C-77BF-47BA-B237-55D17F752662",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BDBFFF5C-F95C-441C-9960-AF116E884C93",
+    "do_objectID": "6D56FED2-39B9-4719-AC90-28B46EBC78BD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,42 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9E2979D7-C0B1-4A20-8038-AC22A01ED2C4",
-    "height": 60,
-    "width": 60,
-    "x": 930,
-    "y": 510
+    "do_objectID": "07817D67-B574-49BE-828C-86350A1BB1A0",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "8C13A14A-5B5F-4817-BFDA-8FF33294AA87"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "D434D58E-9267-422E-ADF5-91C6E6436069"
-    }
-  ],
-  "name": "md/checkmark-circle",
+  "name": "Web Artboard",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A8088F39-5077-4F79-B6E1-8ED81767EAD7",
+    "do_objectID": "FC6E3372-C8BC-42D2-A9A5-627EDBD3A6E5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "EAAB968C-BBA5-4961-B022-CC7F1A6E203F",
+  "verticalSpacing": 0
 }

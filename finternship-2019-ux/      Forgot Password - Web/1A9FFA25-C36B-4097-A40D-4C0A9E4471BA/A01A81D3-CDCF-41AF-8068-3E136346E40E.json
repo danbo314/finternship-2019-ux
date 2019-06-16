@@ -29,20 +29,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 66,
+        "length": 50,
         "location": 0
       }
     ],
-    "string": "Enter your email and we’ll send you a code to reset your password."
+    "string": "Please enter your 6 digit code and a new password."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0C5FDAFA-8572-4845-98EA-A45E97F14066",
+  "do_objectID": "A01A81D3-CDCF-41AF-8068-3E136346E40E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BA7AC555-A0E0-4D66-83A8-0DBB6657978E",
+    "do_objectID": "CE0D2E39-2687-4D94-B465-5B6B94B9D8A9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7B562B59-A8DA-46BC-9A78-9023E8F4AA40",
+    "do_objectID": "DE70B8E3-6921-4021-9D32-F0FBE30061E4",
     "height": 213,
-    "width": 638,
-    "x": 641,
-    "y": 306
+    "width": 559,
+    "x": 680,
+    "y": 283
   },
-  "glyphBounds": "{{5, 4}, {627, 54}}",
+  "glyphBounds": "{{31, 4}, {495, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Enter your email and",
+  "name": "Please enter your 6",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,13 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "095CD863-FB76-45F7-8E73-C6C79FA38A4B",
+    "do_objectID": "64A490EA-8FC7-4C81-BE69-3465AC66F6E4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CBCB3B9F-001B-4208-9A32-9C4C2A101007",
+      "do_objectID": "E438EA9A-79A4-4C85-AE2B-2C8C3ABC908A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
