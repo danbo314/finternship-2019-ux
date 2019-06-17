@@ -29,20 +29,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 24,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Resend Verification Code"
+    "string": "Enter Reset Code"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B596B7A2-7199-42DC-956C-0073454F99E7",
+  "do_objectID": "0FD16D98-FBD5-49D6-8B65-691EE3C1C4CB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "677B6782-D841-4C43-8338-4D5E956F24A8",
+    "do_objectID": "18F2D736-980C-492A-ABEF-6964BA041E98",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "627419FC-62DB-43CE-898A-50E959AB0332",
+    "do_objectID": "142E8DED-50E7-4794-A403-E8111F3D482E",
     "height": 26,
-    "width": 303,
-    "x": 36,
-    "y": 697
+    "width": 306,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{6, 5}, {290, 16}}",
+  "glyphBounds": "{{53, 5}, {199, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Resend Verification",
+  "name": "Enter Reset Code",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,13 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A21E7270-8541-4B58-BA86-A806AF867F59",
+    "do_objectID": "1BCA9A2C-9587-407F-B8AE-0FC093E7BCB6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1F07DA0E-C310-41A7-87D0-288B8660F200",
+      "do_objectID": "1D8B3F87-CF0C-4F59-A49E-DCFB21FF91C5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

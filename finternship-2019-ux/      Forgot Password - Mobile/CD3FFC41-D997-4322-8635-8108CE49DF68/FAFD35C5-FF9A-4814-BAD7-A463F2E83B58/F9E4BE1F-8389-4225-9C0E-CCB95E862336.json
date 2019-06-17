@@ -29,20 +29,20 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 23,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Enter Verification Code"
+    "string": "Enter Reset Code"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B767C5D-2D64-41C7-BB5D-48FB37DB14D1",
+  "do_objectID": "F9E4BE1F-8389-4225-9C0E-CCB95E862336",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8620556F-1368-436A-B5D8-9F923EC3C5BE",
+    "do_objectID": "D385B4F5-C194-4A2A-AA90-31BB3823C072",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E05A1CC1-2E54-4042-8D76-755D87349717",
+    "do_objectID": "C748DA8C-1D23-4677-9FF3-C3C4B3952E86",
     "height": 26,
     "width": 306,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{19, 5}, {267, 16}}",
+  "glyphBounds": "{{53, 5}, {199, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Enter Verification C",
+  "name": "Enter Reset Code",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -76,13 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FE207E53-223C-4BF2-A52F-CF486BBA8976",
+    "do_objectID": "AD9F4A56-7AD2-4848-9D3F-FADBC49CE6A3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "89547F06-67A5-414D-AAB0-2A2E9F449D52",
+      "do_objectID": "23D36842-A6CB-427C-9A1F-17724BB42962",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

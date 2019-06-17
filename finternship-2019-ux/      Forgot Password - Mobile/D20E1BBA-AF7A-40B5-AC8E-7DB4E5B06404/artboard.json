@@ -35,7 +35,7 @@
     "do_objectID": "B8FFB2D6-B61B-4C8A-8AED-53A9CDE508E3"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,10 +80,6 @@
     },
     {
       "class": "group",
-      "id": "F2B1DE50-6633-4AB7-86F1-286BED1C6750"
-    },
-    {
-      "class": "group",
       "id": "BD9B8EDF-E55F-47F5-9719-B0BAA1340BB4"
     },
     {
@@ -101,6 +97,10 @@
     {
       "class": "symbolInstance",
       "id": "699586DB-F2B2-44C8-87CF-59BBEEB891C7"
+    },
+    {
+      "class": "group",
+      "id": "30228FA7-CBCB-4252-83EB-D3F958EF9E15"
     }
   ],
   "name": "iPhone XS - Edited",
