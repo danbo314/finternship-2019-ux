@@ -16,31 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MyanmarSangamMN",
-              "size": 14
+              "name": "Gotham-Medium",
+              "size": 20
             }
           },
-          "kerning": 1.154166708333332,
+          "kerning": 1.648809583333332,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 2,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 33,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "sarah.drumm@parivedasolutions.com"
+    "string": "Resend Code"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "740631BB-E181-4C96-89C4-E9C102038EB5",
+  "do_objectID": "9E320A9B-5AA5-4F7D-8991-BBD437BC2EBE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF765EC5-93AD-41BC-B376-9A2D91A3171D",
+    "do_objectID": "2A5C741E-5DFC-4B08-AA9F-78D9D1D6FE82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A7287F35-62EC-40BD-94B2-8064BF85209B",
-    "height": 20,
-    "width": 261,
-    "x": 0,
-    "y": 0
+    "do_objectID": "F9B40929-8D5B-4005-8E10-7D6FD66D8E79",
+    "height": 26,
+    "width": 303,
+    "x": 36,
+    "y": 685
   },
-  "glyphBounds": "{{2, 3}, {256, 13}}",
+  "glyphBounds": "{{77, 5}, {148, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,21 +68,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "sarah.drumm@pariveda",
+  "name": "Resend Code",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FF5DB8C1-BDFA-4C5A-93EB-DF7569B83718",
+    "do_objectID": "1B615910-4D6E-4ACA-A703-2132D1BEDEEE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CAEC184A-B839-4E1D-A3A1-BDAD2AA0A443",
+      "do_objectID": "08150F02-F18D-403C-9561-EEA43A78BBE6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,14 +94,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MyanmarSangamMN",
-            "size": 14
+            "name": "Gotham-Medium",
+            "size": 20
           }
         },
-        "kerning": 1.154166708333332,
+        "kerning": 1.648809583333332,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 2,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 1
       },

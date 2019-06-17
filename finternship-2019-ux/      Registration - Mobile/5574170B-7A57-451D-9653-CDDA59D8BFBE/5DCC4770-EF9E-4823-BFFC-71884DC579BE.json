@@ -17,30 +17,32 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 10
+              "size": 20
             }
           },
-          "kerning": 0.8244047916666661,
+          "kerning": 1.648809583333332,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 2,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Email"
+    "string": "Resend Code"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0D82DA16-A7BB-42ED-81CF-169410F50708",
+  "do_objectID": "5DCC4770-EF9E-4823-BFFC-71884DC579BE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FFC5ABD2-622E-4F13-94D4-25B9017DA61D",
+    "do_objectID": "1E2AED41-874C-4966-95EF-EE8AC907B25B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C339722A-2753-40BF-BE56-FAFA6CC720F5",
-    "height": 20,
-    "width": 38,
-    "x": 49,
-    "y": 430
+    "do_objectID": "34B911EB-C8E8-4949-BAD1-2C1A4AECD61C",
+    "height": 26,
+    "width": 303,
+    "x": 36,
+    "y": 685
   },
-  "glyphBounds": "{{3, -8}, {31, 9}}",
+  "glyphBounds": "{{77, 5}, {148, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,21 +68,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Email",
+  "name": "Resend Code",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A221FED3-FD0D-487A-A6D9-C132E682CC36",
+    "do_objectID": "E6B25E80-55E4-4BBE-B2E1-5AEEE646DB40",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "26281C70-309D-4A44-BF47-CDF921029C5E",
+      "do_objectID": "141FB11F-8730-474B-B4A0-60F858FF41FF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,13 +95,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 10
+            "size": 20
           }
         },
-        "kerning": 0.8244047916666661,
+        "kerning": 1.648809583333332,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 2,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 1
       },
