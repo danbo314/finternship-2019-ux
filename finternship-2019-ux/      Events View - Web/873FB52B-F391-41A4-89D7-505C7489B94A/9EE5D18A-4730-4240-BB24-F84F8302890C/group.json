@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96BDE2D-72C3-4323-9031-03BBE25F947E",
+  "do_objectID": "9EE5D18A-4730-4240-BB24-F84F8302890C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 485,
+    "width": 149,
+    "x": 1015,
+    "y": 514
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -441,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,31 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "873FB52B-F391-41A4-89D7-505C7489B94A"
+      "class": "text",
+      "id": "D56911F6-8C10-4D78-80A2-8ECC303A8A30"
     },
     {
-      "class": "artboard",
-      "id": "C1E5B0C9-2FC6-4A29-80AE-B4076792B04C"
+      "class": "text",
+      "id": "0A6E9E9D-4946-42E9-882A-6A2751BA1D1D"
+    },
+    {
+      "class": "text",
+      "id": "98B6E47C-1F03-4E86-9011-1531A14F489E"
+    },
+    {
+      "class": "text",
+      "id": "4D21DA2E-4302-4A71-A594-5EC2736EF2E6"
+    },
+    {
+      "class": "text",
+      "id": "95EFEBCD-9914-4281-B07C-476FD780DAAD"
+    },
+    {
+      "class": "text",
+      "id": "3F771960-A15F-40D3-84AA-8AAFCAC70140"
     }
   ],
-  "name": "      Events View - Web",
+  "name": "Locations",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,11 +69,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -362,
-    "guides": [
-    ]
   }
 }

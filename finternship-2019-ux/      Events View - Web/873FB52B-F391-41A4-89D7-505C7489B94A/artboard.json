@@ -63,32 +63,8 @@
       "id": "7E732266-F55E-442B-9685-2DE7523D3698"
     },
     {
-      "class": "text",
-      "id": "4727DEDA-07DF-40E4-A5F2-A457553CB72A"
-    },
-    {
-      "class": "text",
-      "id": "D56911F6-8C10-4D78-80A2-8ECC303A8A30"
-    },
-    {
-      "class": "text",
-      "id": "0A6E9E9D-4946-42E9-882A-6A2751BA1D1D"
-    },
-    {
-      "class": "text",
-      "id": "98B6E47C-1F03-4E86-9011-1531A14F489E"
-    },
-    {
-      "class": "text",
-      "id": "4D21DA2E-4302-4A71-A594-5EC2736EF2E6"
-    },
-    {
-      "class": "text",
-      "id": "95EFEBCD-9914-4281-B07C-476FD780DAAD"
-    },
-    {
-      "class": "text",
-      "id": "3F771960-A15F-40D3-84AA-8AAFCAC70140"
+      "class": "group",
+      "id": "9EE5D18A-4730-4240-BB24-F84F8302890C"
     },
     {
       "class": "text",
@@ -105,6 +81,10 @@
     {
       "class": "rectangle",
       "id": "8F15AC68-EB8B-477C-9CC0-9027908FAD87"
+    },
+    {
+      "class": "text",
+      "id": "4727DEDA-07DF-40E4-A5F2-A457553CB72A"
     },
     {
       "class": "text",
@@ -335,8 +315,8 @@
       "id": "BA302EAA-A462-44AE-BF00-DE531888FED7"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "View Events",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
