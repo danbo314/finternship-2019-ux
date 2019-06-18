@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C96BDE2D-72C3-4323-9031-03BBE25F947E",
+  "do_objectID": "90CC40D3-C610-4411-9596-2877845F6DF6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "99AB278D-5367-4299-85FB-535721241BA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,56 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "C0987FC2-98BC-4229-943E-5C6BBBF34FEF",
+    "height": 63,
+    "width": 149,
+    "x": 955,
+    "y": 625
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -441,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Cancel Button",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "873FB52B-F391-41A4-89D7-505C7489B94A"
-    },
-    {
-      "class": "artboard",
-      "id": "C1E5B0C9-2FC6-4A29-80AE-B4076792B04C"
+      "_class": "overrideValue",
+      "do_objectID": "8873EB81-A4B4-48AF-BF43-46E3928E6254",
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
+      "value": "Cancel"
     }
   ],
-  "name": "      Events View - Web",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9FC578E6-E30D-4DEB-9BBE-03DDFC96F0AB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -362,
-    "guides": [
-    ]
-  }
+  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
+  "verticalSpacing": 0
 }
