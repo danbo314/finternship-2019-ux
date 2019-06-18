@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A74E4559-DF59-4E24-9616-4A748CFFCC05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE16FCF1-7870-45E5-95A6-370576DE7D09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5B0F3E3B-3C65-417F-81A6-8A968B2C314B",
+    "height": 54,
+    "width": 55,
+    "x": 71.00000000000003,
+    "y": 729
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6A957BA9-F686-41CE-AD09-1BF31990E6BF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2B391FCD-D4A2-4E00-9568-8F2DCDBD077A"
+    }
+  ],
+  "name": "md/calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41ABBF39-FF48-4737-B704-BA54F7464ED0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

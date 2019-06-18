@@ -1,0 +1,130 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1112,
+  "clippingMaskMode": 0,
+  "do_objectID": "9079AFDE-62A8-461D-8ADD-EB39E252329C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 142,
+    "width": 1920,
+    "x": 523,
+    "y": 2064
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "93E498C2-30DA-4024-AC11-75BD141ABA10"
+    },
+    {
+      "class": "group",
+      "id": "6DE7383F-99D1-400B-89C3-C85FEBA5802F"
+    },
+    {
+      "class": "rectangle",
+      "id": "04186C0D-6D1B-49A1-8EB3-71CD2BB96748"
+    },
+    {
+      "class": "rectangle",
+      "id": "E5189C1B-1518-4F9B-B769-EB98A3EE5118"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4F674DD-F61F-48AA-95E0-80D3A9261B12"
+    },
+    {
+      "class": "text",
+      "id": "80A68D79-4B6A-4861-B3B4-555CA976AE30"
+    },
+    {
+      "class": "text",
+      "id": "ADA9BBC0-A4DB-49FB-BE20-26303947E0B0"
+    },
+    {
+      "class": "group",
+      "id": "C6F71E2C-5589-4DEA-BB51-989C11CA7DED"
+    },
+    {
+      "class": "text",
+      "id": "7E68B990-D848-465A-B1ED-2C757F4D1E8F"
+    }
+  ],
+  "name": "Web Tool Bar",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80A68D79-4B6A-4861-B3B4-555CA976AE30_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7E68B990-D848-465A-B1ED-2C757F4D1E8F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ADA9BBC0-A4DB-49FB-BE20-26303947E0B0_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4412F369-5A62-478C-8E85-2421210FD04F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
