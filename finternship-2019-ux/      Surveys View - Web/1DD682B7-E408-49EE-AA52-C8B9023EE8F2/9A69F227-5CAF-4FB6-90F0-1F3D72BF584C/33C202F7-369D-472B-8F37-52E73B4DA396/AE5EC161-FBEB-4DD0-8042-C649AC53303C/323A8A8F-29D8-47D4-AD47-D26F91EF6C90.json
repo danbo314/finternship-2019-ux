@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "323A8A8F-29D8-47D4-AD47-D26F91EF6C90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "910AA7F5-404B-4090-9F8D-873921BFF6F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "965BFBC2-4B72-47A0-9687-D68708E413C7",
+    "height": 120,
+    "width": 832,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Unedited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "409C2FC7-9045-452F-A733-90CED591AEB5",
+      "overrideName": "93A09301-F9C0-46EF-ADD5-E3E05985FDF3_stringValue",
+      "value": "Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45E96EAB-C142-454C-96E0-4F0CA2A0F834",
+      "overrideName": "34C2671B-7CD7-49B0-8567-E7C4B2BEC676_stringValue",
+      "value": "STEM Talk - 1/1/2020"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C299AF60-C95B-4AFB-897E-6279F612F13D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8104EBD2-0643-41CE-A75A-68AA5BBDD95E",
+  "verticalSpacing": 0
+}

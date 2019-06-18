@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "551AC335-F8BE-4EFE-B9FF-BF831EAF47C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01BA9DF4-6C83-4EC6-8399-147FDFFB9301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B9EFB45-3C26-4B52-B062-061A4C5AD70C",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1BE013E1-4E94-41CE-9378-715A319A3FB9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5BFE0C2C-6CD3-4F40-9D06-62C94CF75A78"
+    },
+    {
+      "class": "group",
+      "id": "0000050F-7AED-4801-9EC1-7488BC58A645"
+    }
+  ],
+  "name": "Modal Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C717588B-DAC8-483B-8423-9FDF22C0172A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
