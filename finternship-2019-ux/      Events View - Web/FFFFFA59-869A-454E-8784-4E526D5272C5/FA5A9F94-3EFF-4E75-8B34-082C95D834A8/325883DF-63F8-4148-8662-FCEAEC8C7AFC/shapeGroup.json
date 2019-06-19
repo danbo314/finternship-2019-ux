@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "325883DF-63F8-4148-8662-FCEAEC8C7AFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "953AB441-6D4E-44CD-BA29-4EAB4BF2BB18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B12B495E-AD38-4D15-805C-50180FE119C8",
+    "height": 30,
+    "width": 30.00078125,
+    "x": 0.07773437499999923,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3EA4E17C-E1ED-401F-A963-75B17AA6DBAE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E87BF795-2415-428D-93D4-FD527A50E48E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9DB089D-9CC6-4EB5-AAFC-38F2D5317B6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF9AD143-A672-4661-A4E9-98661FE5A99F"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "357D0D21-DB58-4CF1-A4EA-D87DA6FEC8A2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
