@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DB23820-F6AA-4272-B6C0-4F7C6639863F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD6691E4-BEBD-4DF8-B0A6-F555D3FC6ACC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABC60D07-52AB-43DB-B5C0-03A258525BE5",
+    "height": 77,
+    "width": 407,
+    "x": 248.9999999999999,
+    "y": 222
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Our Vision Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF275DAD-38C5-4089-9BE5-00CDCB8F879F",
+      "overrideName": "6336C518-54EF-4955-9229-352799C8F9C2_stringValue",
+      "value": "Our Vision"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CDDF5E1-7E73-4FC7-9049-B233F54C77F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DB6B43-6DAF-445D-85D9-C8BED3526CBE",
+  "verticalSpacing": 0
+}
