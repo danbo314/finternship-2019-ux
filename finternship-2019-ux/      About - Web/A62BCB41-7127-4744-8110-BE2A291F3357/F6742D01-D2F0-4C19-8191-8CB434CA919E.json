@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6666666666666666,
+            "green": 0.3490196078431372,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gibson-SemiBold",
+              "size": 30
+            }
+          },
+          "kerning": 2.473214374999998,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 10,
+        "location": 0
+      }
+    ],
+    "string": "Who We Are"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6742D01-D2F0-4C19-8191-8CB434CA919E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB0E59AD-9827-4A27-9213-024F575A99E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E8422E0-8D0A-4CFA-B02F-5F15274F300A",
+    "height": 36,
+    "width": 311,
+    "x": 291,
+    "y": 462
+  },
+  "glyphBounds": "{{-1, 9}, {193, 22}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Who We Are",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C73FB21F-899C-4B60-A623-8E360961D3EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "1A25EE1B-5BE7-4930-9321-4CBE81154C28",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.3490196078431372,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Gibson-SemiBold",
+            "size": 30
+          }
+        },
+        "kerning": 2.473214374999998,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

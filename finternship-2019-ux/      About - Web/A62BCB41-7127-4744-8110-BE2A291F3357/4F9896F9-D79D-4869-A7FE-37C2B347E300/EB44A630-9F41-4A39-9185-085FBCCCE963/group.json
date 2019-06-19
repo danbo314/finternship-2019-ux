@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB44A630-9F41-4A39-9185-085FBCCCE963",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB91390B-1A76-4255-9D7C-0CC4F865BA97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE212D7F-39BE-436B-95A9-EC2D781082A2",
+    "height": 1,
+    "width": 924,
+    "x": 0,
+    "y": 492
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9E366F63-A483-4FDF-984E-D9DD2B5D8F7E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C51B76D9-F262-402E-9490-60E85C7AB954"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37E8E04E-2EE3-435C-B97B-66DD4F5B68F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
