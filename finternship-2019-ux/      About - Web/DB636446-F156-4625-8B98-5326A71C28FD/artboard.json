@@ -27,15 +27,15 @@
     "do_objectID": "38DDE393-D95C-4050-80F1-0BEE83EFD6A7",
     "height": 1080,
     "width": 1920,
-    "x": -960,
-    "y": 701
+    "x": 3080,
+    "y": -541
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "7063343A-DEE1-4326-9E61-B519C384E23B"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,9 +93,21 @@
     {
       "class": "shapePath",
       "id": "B610A7DB-A433-4D4E-9266-6784178DFF2F"
+    },
+    {
+      "class": "group",
+      "id": "458E1C52-4409-436D-BE5D-DECEEF660BCA"
+    },
+    {
+      "class": "group",
+      "id": "048A7409-63CC-4E29-A9C9-D0F35A2BABC8"
+    },
+    {
+      "class": "group",
+      "id": "C130DA6D-35A1-45D2-A9DA-9AE639B970A8"
     }
   ],
-  "name": "About - v3",
+  "name": "About",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

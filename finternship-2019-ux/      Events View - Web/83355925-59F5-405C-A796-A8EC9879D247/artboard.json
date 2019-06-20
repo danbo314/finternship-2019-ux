@@ -27,7 +27,7 @@
     "do_objectID": "B05FDE35-36AC-43A1-BDE7-1651583D405C",
     "height": 1080,
     "width": 1920,
-    "x": 3080,
+    "x": 4917,
     "y": -541
   },
   "groupLayout": {
@@ -35,7 +35,7 @@
     "do_objectID": "67CDFDCE-7AF3-4EC6-9B45-E60B4A9FE259"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -112,6 +112,10 @@
     },
     {
       "class": "text",
+      "id": "AD532A4D-FAD2-4914-88EA-2D85F10005F6"
+    },
+    {
+      "class": "text",
       "id": "4A634B35-39B6-4805-8F6C-B16E51C71D04"
     },
     {
@@ -139,8 +143,24 @@
       "id": "1A2201F4-A2E9-41C9-8347-62285021E7F3"
     },
     {
-      "class": "text",
-      "id": "87DDFB48-25BD-4AEF-9AD3-9BBCB6F93E43"
+      "class": "group",
+      "id": "04C4E776-D7B0-4FDB-A1E8-38A04CB97F6E"
+    },
+    {
+      "class": "group",
+      "id": "57EE93A4-7429-4A5E-B40B-DD963F951E4C"
+    },
+    {
+      "class": "group",
+      "id": "F9D12797-94BB-44EA-B37D-0F11FF8C693C"
+    },
+    {
+      "class": "group",
+      "id": "196232BF-C0C3-4234-8D88-E76598A2033C"
+    },
+    {
+      "class": "group",
+      "id": "1CF1FD13-327A-480F-B0E4-DB5377698C69"
     },
     {
       "class": "group",
@@ -167,26 +187,6 @@
       "id": "369E3889-1BEF-4A1E-A913-FE1E576981E4"
     },
     {
-      "class": "text",
-      "id": "B103309A-28B5-48BD-A7E2-DC20E9B8BDD6"
-    },
-    {
-      "class": "text",
-      "id": "078DB095-D413-45E9-B75F-33B4A741ECF1"
-    },
-    {
-      "class": "text",
-      "id": "A990C881-B137-4371-A9D4-6E5E45C26946"
-    },
-    {
-      "class": "text",
-      "id": "E545CC57-DD5D-4F3C-A828-4F259E482907"
-    },
-    {
-      "class": "text",
-      "id": "000933D7-5EBC-4C66-A0A6-4EF88F5F52D9"
-    },
-    {
       "class": "shapePath",
       "id": "67E04EC0-72DA-44D3-922C-575B55FD152D"
     },
@@ -197,6 +197,14 @@
     {
       "class": "shapePath",
       "id": "B71B1EDB-D374-4567-B5D6-D78C28DB72AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "BE27449D-A41E-43A5-9814-B680AE307113"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C41F56D-01E8-485F-82D0-C5C414E19D8D"
     },
     {
       "class": "group",
@@ -231,7 +239,7 @@
       "id": "0646430E-3F06-4299-B743-6BCB79D33EE2"
     }
   ],
-  "name": "View Events 2",
+  "name": "View Events",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

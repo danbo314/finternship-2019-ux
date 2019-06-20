@@ -23,17 +23,17 @@
           "kerning": 2.143452,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "maximumLineHeight": 27,
             "minimumLineHeight": 27
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 463,
+        "length": 464,
         "location": 0
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    "string": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,9 +57,9 @@
     "height": 207,
     "width": 1304,
     "x": 291,
-    "y": 255
+    "y": 254
   },
-  "glyphBounds": "{{20, -2}, {1262, 159}}",
+  "glyphBounds": "{{0, -2}, {1283, 159}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "Ut enim ad minim ven",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -101,7 +101,7 @@
         "kerning": 2.143452,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "maximumLineHeight": 27,
           "minimumLineHeight": 27
         },
