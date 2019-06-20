@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "075C4DA1-C72E-4CBE-AF91-47D426AD8A8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 270,
+    "width": 694,
+    "x": 48,
+    "y": 103
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F530DC4-07F4-4BED-A877-B29E1471B931"
+    },
+    {
+      "class": "text",
+      "id": "A653EC73-16E8-4C9D-8922-ACA5146ACBCC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B60A5EE9-36BE-4892-B7A8-298F1F523327"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A5E219A-072A-4543-81E4-D8E1061F3734"
+    }
+  ],
+  "name": "Text Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 529,
+  "changeIdentifier": 874,
   "clippingMaskMode": 0,
   "do_objectID": "82911C81-B125-4148-B0FF-7BDB0CF4ADF6",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 480,
-    "x": 8965,
-    "y": 68
+    "height": 118,
+    "width": 416,
+    "x": 6549,
+    "y": 2180
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,19 +57,19 @@
       "id": "89646D0D-B1D3-49B1-9DB0-B0C913848F8A"
     },
     {
+      "class": "group",
+      "id": "19B0A0AB-3992-467D-96D4-2FFC1CC051AF"
+    },
+    {
       "class": "rectangle",
-      "id": "12896DF1-746A-4637-9F59-2A7D8811B507"
+      "id": "F22EAD69-D602-4CFC-85BC-1B2EB3A1D59C"
     },
     {
       "class": "text",
-      "id": "CC493C00-FD5D-48CD-8C30-09806CA2F023"
-    },
-    {
-      "class": "group",
-      "id": "19B0A0AB-3992-467D-96D4-2FFC1CC051AF"
+      "id": "88077069-8DE7-4CBB-9084-DF09B0B8940D"
     }
   ],
-  "name": "Dropdown Picker with Label",
+  "name": "Web / Input / Selector",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -80,7 +80,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1EA01F1C-7803-429C-B9E7-FC4A15EA1AB5_stringValue"
+      "overrideName": "89646D0D-B1D3-49B1-9DB0-B0C913848F8A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "88077069-8DE7-4CBB-9084-DF09B0B8940D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "88077069-8DE7-4CBB-9084-DF09B0B8940D_stringValue"
     }
   ],
   "resizesContent": false,

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E416EAFE-6D87-4532-B7BF-942341F4E5B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 118,
+    "width": 416,
+    "x": 0,
+    "y": 636
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Event Type",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B664B3E-B23F-4A7F-B63F-024536F17DF7",
+      "overrideName": "89646D0D-B1D3-49B1-9DB0-B0C913848F8A_stringValue",
+      "value": "Type"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E87092B5-229A-425F-8E7B-99EE374D520F",
+      "overrideName": "88077069-8DE7-4CBB-9084-DF09B0B8940D_stringValue",
+      "value": "Event Type 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59882A4D-35F6-42DA-B666-EC69E5222107",
+  "verticalSpacing": 0
+}

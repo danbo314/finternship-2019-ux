@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17D5C0F5-C465-4FC2-A707-CD6550C7C63D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F52159D5-08E8-42F1-8AAB-7818EE5090A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE9F031E-6005-480F-BA91-C6C7130DB66B",
+    "height": 118,
+    "width": 416,
+    "x": 0,
+    "y": 218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "End Date & Time",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E8F9DE9-C3AC-4D0F-8290-D05725EBD099",
+      "overrideName": "E37CD219-8A9B-4114-897E-C7AF6775299B_stringValue",
+      "value": "End Date and Time"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6366B12F-E9AA-4B88-AC24-98A05BDF424E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "581EDA4A-4A74-4458-B5FD-27E6D6F46A80",
+  "verticalSpacing": 0
+}

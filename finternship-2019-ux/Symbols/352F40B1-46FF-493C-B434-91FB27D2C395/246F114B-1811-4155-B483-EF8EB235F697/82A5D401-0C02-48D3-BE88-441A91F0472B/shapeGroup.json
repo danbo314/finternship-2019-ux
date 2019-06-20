@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 34.81955958549221,
-    "x": 0.09022020725388513,
+    "height": 24,
+    "width": 24,
+    "x": 0,
     "y": 0
   },
   "groupLayout": {
@@ -47,7 +47,7 @@
   ],
   "name": "Shape",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -69,9 +69,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4919500076547449,
-          "green": 0.4919500076547449,
-          "red": 0.506057518115942
+          "blue": 0.4,
+          "green": 0.4,
+          "red": 0.4
         },
         "fillType": 0,
         "isEnabled": true,

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B277AFFC-C926-4E17-BA38-BDC581E3BAD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F111509-455F-4ECC-A3A0-FDDE82AFF9E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF75D75B-2CC8-445D-B7C5-2E8F6D0488F2",
+    "height": 80,
+    "width": 543,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F3CE258-BDD1-49D8-A840-C94CAE746792",
+      "overrideName": "8F81476F-FC96-4FD7-A59E-62991A7108A2_stringValue",
+      "value": "Delete Survey"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA327373-49D4-4355-8D9E-C9C9011F42D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4199F45-5EE0-49B6-AA6C-0197D772BB0C",
+  "verticalSpacing": 0
+}

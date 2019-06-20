@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "621890FB-C724-4707-AB0A-6024E97B60FC",
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9647058823529412
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -34,8 +33,8 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "7063343A-DEE1-4326-9E61-B519C384E23B"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,56 +54,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "351F71EF-056B-4CD5-ABF9-890A347C127E"
+    },
+    {
+      "class": "group",
+      "id": "A99D9861-F788-4427-A8DB-C2D2ABE5A42E"
+    },
+    {
+      "class": "group",
+      "id": "AD8EBA01-F0F1-4D72-A040-D1499A2FF038"
+    },
+    {
+      "class": "group",
+      "id": "94DC8EC8-8380-481A-9AB9-EB2436D99F48"
+    },
+    {
       "class": "symbolInstance",
       "id": "C51307AF-081A-4949-B8AE-FA3FC429B7CF"
-    },
-    {
-      "class": "text",
-      "id": "28B30B2E-977A-4EB9-9C21-0559B86323AE"
-    },
-    {
-      "class": "text",
-      "id": "3759651B-C6A0-4524-A1BE-13535DFBDBF2"
-    },
-    {
-      "class": "text",
-      "id": "C8801F13-497D-4241-A90A-82F1A70390D1"
-    },
-    {
-      "class": "text",
-      "id": "5191B817-F71B-4C3C-915E-A86300D15016"
-    },
-    {
-      "class": "text",
-      "id": "0B4AA881-2945-4DA6-A7A4-C33C89DDD940"
-    },
-    {
-      "class": "text",
-      "id": "5E05513A-1EF0-442A-B9A5-AD6B798F246E"
-    },
-    {
-      "class": "shapePath",
-      "id": "D47DCECC-144D-4D94-97BD-08F11DF40350"
-    },
-    {
-      "class": "shapePath",
-      "id": "1089255B-3102-41C4-A3D4-63AB749672C0"
-    },
-    {
-      "class": "shapePath",
-      "id": "B610A7DB-A433-4D4E-9266-6784178DFF2F"
-    },
-    {
-      "class": "group",
-      "id": "458E1C52-4409-436D-BE5D-DECEEF660BCA"
-    },
-    {
-      "class": "group",
-      "id": "048A7409-63CC-4E29-A9C9-D0F35A2BABC8"
-    },
-    {
-      "class": "group",
-      "id": "C130DA6D-35A1-45D2-A9DA-9AE639B970A8"
     }
   ],
   "name": "About",

@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "46B1BEB2-9BFB-4D5B-9145-07084D36C8D8",
     "height": 704,
-    "width": 1024,
-    "x": 448,
+    "width": 1025,
+    "x": 447,
     "y": 188
   },
   "groupLayout": {
@@ -40,16 +40,16 @@
       "id": "F6166AEF-AF55-4623-AC2A-1BE329004C60"
     },
     {
+      "class": "symbolInstance",
+      "id": "A1D6F510-FDDC-4CE3-81D6-EC5D20221CF9"
+    },
+    {
       "class": "group",
       "id": "DE1F89CF-6710-4EAB-8D66-A4B60920E930"
     },
     {
       "class": "group",
       "id": "A4036595-35C4-4C98-85BF-C63011D495CF"
-    },
-    {
-      "class": "group",
-      "id": "E31FAB20-4CE7-4FEE-9DFC-EB3B57A00A10"
     }
   ],
   "name": "Form",

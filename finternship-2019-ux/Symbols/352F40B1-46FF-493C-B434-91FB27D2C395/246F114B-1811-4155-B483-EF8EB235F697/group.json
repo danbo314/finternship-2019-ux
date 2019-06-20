@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 35,
-    "width": 35,
-    "x": 397,
-    "y": 47
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 382,
+    "y": 46
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30351C53-7D65-4769-967E-59413439DB18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9353BE4B-6E80-45F0-9DC9-DF4718BA0A92",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6416342-5E69-4C40-82D9-AB213A97F236",
+    "height": 100,
+    "width": 1103.231038924238,
+    "x": 9.094947017729282e-13,
+    "y": 336
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Description",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84BB0080-93ED-4247-B8B7-A7F4F75DD4B0",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "Guest Speaker John Doe will be presenting to the students"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A54FC349-A32E-495A-916C-DA8E4661E1F4",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
+      "value": "Description"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F8AC248-08AD-4C46-87C5-F40D22CFBDEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
+  "verticalSpacing": 0
+}

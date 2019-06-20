@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBBDABDF-2A67-41E3-83B6-2B9F7956E1F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AF29936-4BDF-4826-9D6C-EE9A49E21626",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "580635D4-6614-49F7-B944-9C5A8A4352DD",
+    "height": 1119,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8D38F6B2-9B84-4CAF-93CA-EF55676598F5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F9D8F398-5472-462B-AD9D-5FBFCE38667A"
+    },
+    {
+      "class": "group",
+      "id": "8A635756-B6DE-422D-8043-C666B10314D3"
+    }
+  ],
+  "name": "Create Event Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6E8BD66-59E6-44B5-B593-67F59566F2E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

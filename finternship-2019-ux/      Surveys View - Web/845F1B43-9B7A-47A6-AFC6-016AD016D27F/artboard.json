@@ -35,7 +35,7 @@
     "do_objectID": "9C199361-28EA-4DC2-8328-BC046FBFDFB6"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -79,13 +79,13 @@
       "id": "F05563B2-A410-49D0-8B74-A5775700BDA6"
     },
     {
-      "class": "group",
-      "id": "45708616-8064-4019-8D95-D1541922CFE5"
+      "class": "symbolInstance",
+      "id": "99B3A474-A478-4DE2-AC8F-6A0B640E4C3B"
     }
   ],
-  "name": "Survey List Copy",
+  "name": "Survey List - Full Page",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

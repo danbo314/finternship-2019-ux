@@ -35,7 +35,7 @@
     "do_objectID": "4F2D2385-7814-4EE4-B39A-DD5F12D1B1B7"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -71,8 +71,8 @@
       "id": "DDEA8D50-0656-4B79-A4D2-19DE390A31D5"
     },
     {
-      "class": "group",
-      "id": "683F9AE1-203E-4089-AD49-058D27A0DBF4"
+      "class": "symbolInstance",
+      "id": "13D05C3F-3278-4AC6-85E7-B4EAC9BEA314"
     }
   ],
   "name": "Survey List",

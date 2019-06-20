@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B92CE6C7-AA8F-48A7-9C73-21A3724CACCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8F15872-74B4-4753-8942-AA37A3C451B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23193634-CAB3-4D04-954B-FD5DCC6CFFA8",
+    "height": 100,
+    "width": 624,
+    "x": -9.094947017729282e-13,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Event Name",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55057B14-8A04-433B-A1A7-91C81B6D378C",
+      "overrideName": "8FDDC26B-A1C6-4500-B3ED-DC334BFB0C90_stringValue",
+      "value": "Event Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "225DC7A0-654D-4157-9174-EE49896742A2",
+      "overrideName": "EA011B31-CAC2-47A6-85C5-CFF5D25A305C_stringValue",
+      "value": "STEM Talk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F835D07-D5E0-4386-8A0D-1A46024B5B43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7FD0D972-C5D1-46FD-9EF5-07ED42CF2E66",
+  "verticalSpacing": 0
+}

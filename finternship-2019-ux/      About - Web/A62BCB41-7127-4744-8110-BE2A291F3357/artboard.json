@@ -35,7 +35,7 @@
     "do_objectID": "6E7C530F-BE4F-40A2-8F6C-016652ED0090"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,56 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "D74ED8C2-382F-49EA-A666-BEC871708069"
-    },
-    {
-      "class": "text",
-      "id": "A6AEBBBB-6866-4818-900B-9C8881D9F38E"
-    },
-    {
-      "class": "text",
-      "id": "F6742D01-D2F0-4C19-8191-8CB434CA919E"
-    },
-    {
-      "class": "text",
-      "id": "F852CA64-CCC9-4B4C-A557-3BA8A4C9C3B5"
-    },
-    {
-      "class": "text",
-      "id": "9F12FF6E-1BF7-4941-9879-FE08A18E4303"
-    },
-    {
-      "class": "text",
-      "id": "7DA72A2F-6A13-4347-9511-159C8F547DE9"
-    },
-    {
-      "class": "text",
-      "id": "D18B0ABE-B17B-4322-AA99-5E72219DEAE5"
-    },
-    {
-      "class": "shapePath",
-      "id": "71EB57C5-435D-4077-9BE5-F1BFD1ABCF38"
-    },
-    {
-      "class": "shapePath",
-      "id": "639671C2-2F59-465C-B3B0-6000D5A02270"
-    },
-    {
-      "class": "shapePath",
-      "id": "5D44D4FC-6DDD-4700-8180-A9771F625A24"
-    },
-    {
       "class": "group",
-      "id": "DFCFB45E-CFA3-4A39-AB68-04C78C8F9AEA"
-    },
-    {
-      "class": "group",
-      "id": "BFA67FAA-FBD7-428A-A006-E9D2ED1F213F"
-    },
-    {
-      "class": "group",
-      "id": "FFA1F321-6B64-4D21-B787-C4E3986137D8"
+      "id": "77A3D3A6-46AF-43EE-88A1-46168ABA37D6"
     },
     {
       "class": "rectangle",
@@ -113,30 +65,6 @@
     {
       "class": "group",
       "id": "4F9896F9-D79D-4869-A7FE-37C2B347E300"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2A26DA99-99C3-421C-B5E4-57C289EAF2BA"
-    },
-    {
-      "class": "group",
-      "id": "925B26AE-4B71-4189-B2A7-7F5459EBF953"
-    },
-    {
-      "class": "rectangle",
-      "id": "0F530DC4-07F4-4BED-A877-B29E1471B931"
-    },
-    {
-      "class": "text",
-      "id": "A653EC73-16E8-4C9D-8922-ACA5146ACBCC"
-    },
-    {
-      "class": "shapePath",
-      "id": "B60A5EE9-36BE-4892-B7A8-298F1F523327"
-    },
-    {
-      "class": "shapePath",
-      "id": "9A5E219A-072A-4543-81E4-D8E1061F3734"
     }
   ],
   "name": "About - Editing - v3",

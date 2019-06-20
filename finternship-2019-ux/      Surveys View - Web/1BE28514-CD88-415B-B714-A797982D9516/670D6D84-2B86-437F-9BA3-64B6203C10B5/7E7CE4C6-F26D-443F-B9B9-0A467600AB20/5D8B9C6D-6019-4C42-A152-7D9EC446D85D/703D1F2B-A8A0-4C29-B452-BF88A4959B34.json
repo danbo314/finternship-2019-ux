@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 26
+              "size": 20
             }
           },
-          "kerning": 2.143452458333332,
+          "kerning": 1.648809583333331,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 27,
+            "minimumLineHeight": 27
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -38,23 +38,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7647058823529411,
-            "green": 0.4470588235294117,
-            "red": 0.2627450980392157
+            "blue": 0.6666666666666666,
+            "green": 0.3490196078431372,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gibson-SemiBold",
-              "size": 26
+              "size": 20
             }
           },
-          "kerning": 2.143452458333332,
+          "kerning": 1.648809583333331,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 27,
+            "minimumLineHeight": 27
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -75,15 +75,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 26
+              "size": 20
             }
           },
-          "kerning": 2.143452458333332,
+          "kerning": 1.648809583333331,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 27,
+            "minimumLineHeight": 27
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -112,12 +112,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6AB91564-A334-4841-9AE7-D3B7AF049F27",
-    "height": 96,
-    "width": 499,
+    "height": 81,
+    "width": 446.9999999999999,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{19, 10}, {460, 88}}",
+  "glyphBounds": "{{1, 9}, {443, 73}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,6 +131,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "508F72CF-2AF4-4130-9CBC-AD488B3F4A71",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -140,7 +141,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8E3392D5-E2C0-4F07-9E23-24F59E8DCAA4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -153,15 +153,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 26
+            "size": 20
           }
         },
-        "kerning": 2.143452458333332,
+        "kerning": 1.648809583333331,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 27,
+          "minimumLineHeight": 27
         },
         "textStyleVerticalAlignmentKey": 1
       },

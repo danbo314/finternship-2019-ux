@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96C812B5-F134-4918-A961-FA1053CBAB6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D69B8A2A-BB46-4FA2-AC94-5F512810D02B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4676ACA2-6403-4F90-974D-A2A0176E281A",
+    "height": 1141,
+    "width": 1200,
+    "x": 360,
+    "y": -23
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "928184AB-C63C-4BF7-A3B8-6C45284C9894"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B39303F5-932E-4B80-8170-155119F7395E"
+    },
+    {
+      "class": "text",
+      "id": "8EAB19F9-BE2B-4A4D-BCCD-17B10FDAC463"
+    },
+    {
+      "class": "group",
+      "id": "0314D676-7D3E-403C-91DD-4FBDC6914A63"
+    },
+    {
+      "class": "group",
+      "id": "72CF746E-CCF4-4AE7-A86F-A097F0AC7A0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9A49295-4724-451B-8054-D7F30BA0E0F4"
+    }
+  ],
+  "name": "Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "706C2F37-71B9-4D80-94B1-FAA41B3F3353",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

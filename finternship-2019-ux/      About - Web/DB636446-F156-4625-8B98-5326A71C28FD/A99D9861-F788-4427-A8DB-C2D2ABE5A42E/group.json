@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A99D9861-F788-4427-A8DB-C2D2ABE5A42E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 291,
+    "width": 1306,
+    "x": 308,
+    "y": 601
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AA4EED3B-2D63-4912-BC59-D73897FF88FE"
+    },
+    {
+      "class": "text",
+      "id": "3C36EB99-3114-40C7-A1CB-6EF812354035"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C0A29FC-0BFA-4798-97F5-6A39943B9CEC"
+    },
+    {
+      "class": "group",
+      "id": "EC4717F4-C6B8-4956-91FD-68DC1210198E"
+    }
+  ],
+  "name": "What We Do",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

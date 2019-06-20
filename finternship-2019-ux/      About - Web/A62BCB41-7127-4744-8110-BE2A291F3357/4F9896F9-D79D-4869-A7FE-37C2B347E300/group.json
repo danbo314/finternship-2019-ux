@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "106A86C4-EE75-46EA-ABF5-0BA49E5C3678",
-    "height": 622,
-    "width": 924,
-    "x": 498,
-    "y": 206
+    "height": 485,
+    "width": 790,
+    "x": 565,
+    "y": 298
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -40,8 +40,16 @@
       "id": "A2B7F3F0-55A2-4CEB-905E-C9D32E5EC3B4"
     },
     {
+      "class": "symbolInstance",
+      "id": "E1033FA0-6D49-448E-B569-E79BBE457205"
+    },
+    {
       "class": "group",
-      "id": "B95E16FD-44ED-4525-8D42-BBBCE0043665"
+      "id": "075C4DA1-C72E-4CBE-AF91-47D426AD8A8A"
+    },
+    {
+      "class": "group",
+      "id": "391AF0DF-E9C1-4A3C-98BD-29877E1D9BA4"
     }
   ],
   "name": "Form",

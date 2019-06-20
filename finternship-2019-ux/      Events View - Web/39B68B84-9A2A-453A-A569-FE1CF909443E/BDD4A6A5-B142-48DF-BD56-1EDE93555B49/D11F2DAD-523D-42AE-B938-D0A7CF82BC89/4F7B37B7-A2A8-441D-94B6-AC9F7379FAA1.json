@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F7B37B7-A2A8-441D-94B6-AC9F7379FAA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78847C78-0E93-41EF-BA93-E50AD2ECBDB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5633A5EC-B943-43E9-9827-29932B92E176",
+    "height": 100,
+    "width": 1103.231038924238,
+    "x": -9.094947017729282e-13,
+    "y": 336
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Location",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2433F697-5D9A-4543-958A-59A135A475AB",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "Lumity"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAEF31EC-0B1B-4FE8-A7F6-FA484DF75FAA",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
+      "value": "Location"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02E2A6ED-D8DA-4595-92F1-93D374011007",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
+  "verticalSpacing": 0
+}

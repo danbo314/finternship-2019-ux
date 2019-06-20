@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C330A4AC-647F-4F93-95D0-E7F38C8B29D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BF19353-D923-4880-BCAE-B6D787AFF98D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D9E0F46-08B8-4A7F-A39E-0B803F445626",
+    "height": 118,
+    "width": 416,
+    "x": 0,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Start Date & Time",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E8F9DE9-C3AC-4D0F-8290-D05725EBD099",
+      "overrideName": "E37CD219-8A9B-4114-897E-C7AF6775299B_stringValue",
+      "value": "Start Date and Time"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "610D48F4-52D0-406C-92E1-9A61833E0E0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "581EDA4A-4A74-4458-B5FD-27E6D6F46A80",
+  "verticalSpacing": 0
+}
