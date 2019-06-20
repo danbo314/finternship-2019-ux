@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 387,
+    "height": 176,
     "width": 1306,
     "x": 308,
-    "y": 182
+    "y": 393
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -43,10 +43,6 @@
     {
       "class": "shapePath",
       "id": "7CA7FED2-4B1C-43CA-8B79-3819756D3A85"
-    },
-    {
-      "class": "group",
-      "id": "6BA503EB-F3C6-463A-94DE-D908399DDA41"
     }
   ],
   "name": "Who We Are",

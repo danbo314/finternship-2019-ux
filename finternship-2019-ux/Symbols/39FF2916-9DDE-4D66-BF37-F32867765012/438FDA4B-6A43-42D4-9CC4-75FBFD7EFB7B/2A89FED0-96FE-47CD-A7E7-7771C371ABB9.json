@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E3599458-6D94-4382-9922-01B1C891F0FD",
-    "height": 9.999999999999957,
+    "height": 9.99999999999996,
     "width": 5.999999999999829,
-    "x": 971.298881670895,
-    "y": 76.80288110167433
+    "x": 947.2988816709063,
+    "y": 76.802881101679
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -38,22 +38,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-1.1267009570585458, 1.2015032532028274}",
+      "curveFrom": "{-1.1267009570585451, 1.2015032532028993}",
       "curveMode": 1,
-      "curveTo": "{-1.1267009570585458, 1.2015032532028274}",
+      "curveTo": "{-1.1267009570585451, 1.2015032532028993}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0.99999999999997069}"
+      "point": "{0, 1.0000000000000426}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-1.1267009570585458, 1.2015032532028274}",
+      "curveFrom": "{-1.1267009570585451, 1.2015032532028993}",
       "curveMode": 1,
-      "curveTo": "{-1.1267009570585458, 1.2015032532028274}",
+      "curveTo": "{-1.1267009570585451, 1.2015032532028993}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, -2.9309887850104133e-14}"
+      "point": "{1, 4.2632564145606011e-14}"
     }
   ],
   "resizingConstraint": 36,
