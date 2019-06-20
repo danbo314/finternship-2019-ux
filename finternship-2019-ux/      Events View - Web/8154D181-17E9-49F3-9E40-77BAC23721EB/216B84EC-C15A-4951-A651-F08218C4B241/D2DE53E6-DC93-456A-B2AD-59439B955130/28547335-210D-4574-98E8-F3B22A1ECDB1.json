@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28547335-210D-4574-98E8-F3B22A1ECDB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F1535B6-3C6D-45D5-8BDC-C11841E72744",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75128E44-24B7-4800-899F-F9944A11DDD8",
+    "height": 80,
+    "width": 535,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F3CE258-BDD1-49D8-A840-C94CAE746792",
+      "overrideName": "8F81476F-FC96-4FD7-A59E-62991A7108A2_stringValue",
+      "value": "Delete Event"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B5C7F67-A526-4799-9375-6972C76C66CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4199F45-5EE0-49B6-AA6C-0197D772BB0C",
+  "verticalSpacing": 0
+}

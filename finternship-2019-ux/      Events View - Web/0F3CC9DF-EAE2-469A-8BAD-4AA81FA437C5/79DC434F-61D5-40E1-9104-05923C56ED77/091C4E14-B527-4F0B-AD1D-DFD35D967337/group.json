@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "091C4E14-B527-4F0B-AD1D-DFD35D967337",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AEE399C-E77B-4382-AAED-391D563E5576",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5A4AF157-3682-4980-BF20-9780630F958D",
+    "height": 28,
+    "width": 23.8,
+    "x": 1478,
+    "y": 214.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C4F4DC94-0ACA-4A59-A628-97D6A7156112"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B16AC16B-BAA7-43D0-A463-F2D5A070B3D0"
+    }
+  ],
+  "name": "md/trash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB47D210-FBD6-4C7D-A42A-53ABCFCB30D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

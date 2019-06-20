@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1A8D818-1BF0-498A-B2F3-F146A44FF588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 1104,
+    "x": 0,
+    "y": 320
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Web / Input / Textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0E05A18-A206-45F7-9F39-BD54C12999ED",
+      "overrideName": "975B997D-B822-49CD-B47A-18A91989A3A9_stringValue",
+      "value": "Description"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CBDE368-2480-4885-9794-4A400AF3917B",
+      "overrideName": "17CF3473-0F20-4089-A7B1-7713ABE8EAD9_stringValue",
+      "value": "Write a description for your event..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE3BA6C7-FF01-44BB-BB97-B63804598B91",
+  "verticalSpacing": 0
+}

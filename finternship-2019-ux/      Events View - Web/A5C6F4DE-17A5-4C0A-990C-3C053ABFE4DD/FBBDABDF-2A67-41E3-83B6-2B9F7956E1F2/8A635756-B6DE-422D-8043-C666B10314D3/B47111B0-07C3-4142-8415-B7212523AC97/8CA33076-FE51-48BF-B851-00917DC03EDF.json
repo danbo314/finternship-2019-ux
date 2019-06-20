@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CA33076-FE51-48BF-B851-00917DC03EDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA947DB5-C242-4CF8-9434-853B79E02B51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA540F24-5598-4184-972D-2B05EB4AEEF0",
+    "height": 166,
+    "width": 971,
+    "x": 0,
+    "y": 318
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Web / Input / Textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0E05A18-A206-45F7-9F39-BD54C12999ED",
+      "overrideName": "975B997D-B822-49CD-B47A-18A91989A3A9_stringValue",
+      "value": "Description"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CBDE368-2480-4885-9794-4A400AF3917B",
+      "overrideName": "17CF3473-0F20-4089-A7B1-7713ABE8EAD9_stringValue",
+      "value": "Write a description for your event..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FD7B1B1-7C6F-4034-A1C9-27564E0FD553",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE3BA6C7-FF01-44BB-BB97-B63804598B91",
+  "verticalSpacing": 0
+}

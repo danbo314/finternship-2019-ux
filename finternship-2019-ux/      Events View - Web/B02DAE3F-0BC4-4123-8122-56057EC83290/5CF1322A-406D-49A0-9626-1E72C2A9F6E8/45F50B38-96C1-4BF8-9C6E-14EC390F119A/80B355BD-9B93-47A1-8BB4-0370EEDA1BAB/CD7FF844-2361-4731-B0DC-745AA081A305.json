@@ -87,11 +87,11 @@
           },
           "textStyleVerticalAlignmentKey": 1
         },
-        "length": 46,
+        "length": 45,
         "location": 33
       }
     ],
-    "string": "You are about to delete STEM Talk. Are you sure you want to delete this survey?"
+    "string": "You are about to delete STEM Talk. Are you sure you want to delete this event?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -117,7 +117,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{5, 9}, {420, 73}}",
+  "glyphBounds": "{{5, 9}, {420, 70}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "508F72CF-2AF4-4130-9CBC-AD488B3F4A71",
+  "sharedStyleID": "83A5C6E3-68AF-4413-B882-D374573621D1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -141,7 +141,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "20AF8DEE-DFDA-4568-9956-B9270209B4A1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

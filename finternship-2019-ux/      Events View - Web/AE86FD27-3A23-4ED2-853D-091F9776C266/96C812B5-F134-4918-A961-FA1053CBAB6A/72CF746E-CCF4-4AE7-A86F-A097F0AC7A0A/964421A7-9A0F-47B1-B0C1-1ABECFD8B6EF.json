@@ -19,8 +19,8 @@
     "do_objectID": "7CD35E92-76DA-4536-86EB-3BC1B10109C6",
     "height": 118,
     "width": 416,
-    "x": 0,
-    "y": 118
+    "x": 440,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9E8F9DE9-C3AC-4D0F-8290-D05725EBD099",
-      "overrideName": "E37CD219-8A9B-4114-897E-C7AF6775299B_stringValue",
+      "do_objectID": "A882ECD3-DDDA-4924-9D6E-30B104172C7E",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
       "value": "End Date and Time"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE5E2DC8-0911-4134-B924-CE6B8D604545",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "01/01/2019 12:00AM"
     }
   ],
   "resizingConstraint": 63,
@@ -53,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "581EDA4A-4A74-4458-B5FD-27E6D6F46A80",
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
   "verticalSpacing": 0
 }

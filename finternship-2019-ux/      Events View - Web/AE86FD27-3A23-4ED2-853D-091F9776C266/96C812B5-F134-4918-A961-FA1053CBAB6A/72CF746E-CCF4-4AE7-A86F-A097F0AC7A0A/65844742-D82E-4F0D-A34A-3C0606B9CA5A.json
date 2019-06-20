@@ -35,9 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9E8F9DE9-C3AC-4D0F-8290-D05725EBD099",
-      "overrideName": "E37CD219-8A9B-4114-897E-C7AF6775299B_stringValue",
+      "do_objectID": "4FA7CE16-F47E-4053-9BEC-32E07B803682",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
       "value": "Start Date and Time"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79182B27-2297-4759-9575-7D4BBD459821",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "01/01/2019 12:00AM"
     }
   ],
   "resizingConstraint": 63,
@@ -53,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "581EDA4A-4A74-4458-B5FD-27E6D6F46A80",
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
   "verticalSpacing": 0
 }
