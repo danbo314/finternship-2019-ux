@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "Create Survey"
+    "string": "Delete Survey"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "constrainProportions": false,
     "do_objectID": "08E79560-3687-4718-B12B-2236D71D79B0",
     "height": 36,
-    "width": 193,
-    "x": 33,
-    "y": 31
+    "width": 192,
+    "x": 30,
+    "y": 22
   },
-  "glyphBounds": "{{0, 9}, {193, 27}}",
+  "glyphBounds": "{{1, 9}, {191, 27}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Create Survey",
+  "name": "Delete Survey",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

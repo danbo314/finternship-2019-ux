@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FAA954DD-F0D9-420E-AE39-AB579F7117AF",
-    "height": 49,
+    "height": 57,
     "width": 924,
     "x": 0,
-    "y": 7
+    "y": 19
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -42,6 +42,10 @@
     {
       "class": "text",
       "id": "B7F26542-CCD1-4536-89B3-46653E7EC0CC"
+    },
+    {
+      "class": "group",
+      "id": "07FE7C9E-DA8C-4347-8A26-E07157B0B51C"
     }
   ],
   "name": "Header",

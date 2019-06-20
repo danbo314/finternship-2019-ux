@@ -27,8 +27,8 @@
     "do_objectID": "FB04B028-A53E-41B1-BBEC-1384A331E828",
     "height": 1080,
     "width": 1920,
-    "x": 5100,
-    "y": 2005
+    "x": 9140,
+    "y": -541
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -115,6 +115,14 @@
       "id": "4F9896F9-D79D-4869-A7FE-37C2B347E300"
     },
     {
+      "class": "symbolInstance",
+      "id": "2A26DA99-99C3-421C-B5E4-57C289EAF2BA"
+    },
+    {
+      "class": "group",
+      "id": "925B26AE-4B71-4189-B2A7-7F5459EBF953"
+    },
+    {
       "class": "rectangle",
       "id": "0F530DC4-07F4-4BED-A877-B29E1471B931"
     },
@@ -123,12 +131,12 @@
       "id": "A653EC73-16E8-4C9D-8922-ACA5146ACBCC"
     },
     {
-      "class": "symbolInstance",
-      "id": "D41796CF-386D-43F5-BB70-09F60C003A6B"
+      "class": "shapePath",
+      "id": "B60A5EE9-36BE-4892-B7A8-298F1F523327"
     },
     {
-      "class": "symbolInstance",
-      "id": "BAB47128-FC99-45BA-9AB2-D2F8A6CE330F"
+      "class": "shapePath",
+      "id": "9A5E219A-072A-4543-81E4-D8E1061F3734"
     }
   ],
   "name": "About - Editing - v3",
