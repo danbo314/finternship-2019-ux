@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EBBA7CE-80F5-4EF6-AA16-F10C42EB627C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "410C8E0D-374D-47DE-8186-4194DBCF8F13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07E6C29B-7F2F-4D7E-A34E-376A2FAFD0F4",
+    "height": 29,
+    "width": 181,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "533C31BF-599D-4851-B9E0-50B90214F685"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "80EB1070-FFF1-4B8B-A5B0-152166320AE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD084F91-8336-4EA4-9066-ECECA3662B50"
+    }
+  ],
+  "name": "Date Label",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "671BE4E9-19B5-4C71-A6EE-07294296AC09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

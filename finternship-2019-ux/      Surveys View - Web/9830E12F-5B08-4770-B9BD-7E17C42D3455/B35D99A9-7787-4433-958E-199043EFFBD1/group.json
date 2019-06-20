@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B35D99A9-7787-4433-958E-199043EFFBD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20D52B3F-5370-45F4-ADBF-461861D2F4FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0214995C-C07F-4C65-82B9-CF296978141A",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "36C773F4-7AA1-4AB6-BB18-E9C127B9B187"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "62BCF482-21C3-4280-990A-E2255C737C98"
+    },
+    {
+      "class": "group",
+      "id": "5FC909A1-3BB0-4C70-867F-6C5E2D1C48C0"
+    }
+  ],
+  "name": "Edit Survey Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8ACA46B-6F2B-4B58-B0B9-0F8612D281A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

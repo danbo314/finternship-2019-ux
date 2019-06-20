@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "EC97D3FD-3872-4D66-9286-858E47ED9F69",
+    "green": 0.9607843137254902,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEE80267-B907-475C-BA1A-61F32B6FC72C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60AFDD85-D1BA-4F20-A56F-414EA7B8BA01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAD359AA-861C-411B-8B2E-8E4604B2BAA6",
+    "height": 1080,
+    "width": 1920,
+    "x": -394,
+    "y": -91
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3764C054-9515-4F81-BC37-396AF7FB37C8"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82770B9E-B94B-4352-ABE2-4E49882F4992",
+    "guides": [
+      212,
+      1691
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A1878D12-ABA6-497B-A3C6-1AB598F7CB83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "203B6415-7D00-4CFD-A32C-18C36E7EF0D7"
+    },
+    {
+      "class": "text",
+      "id": "3087B63A-E0C8-4088-B4AC-F259D3EE6839"
+    },
+    {
+      "class": "group",
+      "id": "C73E0039-576C-4F7A-ACFF-BE5DC4EB9AAA"
+    },
+    {
+      "class": "group",
+      "id": "D49E7F08-70CC-4FAD-8B5C-DC409D71B6A4"
+    }
+  ],
+  "name": "Create Survey - Full Page",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "567C565D-7E99-4F71-9D09-B2E0A72AA1B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4A20C461-1F7F-4BBE-AE02-C93EED7C60AF",
+    "guides": [
+    ]
+  }
+}

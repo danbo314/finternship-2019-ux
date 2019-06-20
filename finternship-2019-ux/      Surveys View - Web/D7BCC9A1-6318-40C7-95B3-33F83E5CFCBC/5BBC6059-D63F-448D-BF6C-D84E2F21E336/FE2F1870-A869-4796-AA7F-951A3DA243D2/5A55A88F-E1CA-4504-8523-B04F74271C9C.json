@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A55A88F-E1CA-4504-8523-B04F74271C9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82657C9F-FAF1-42B7-BAE6-FFEF3CA2B210",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "548BDFBF-254E-4147-AF56-EBFF24017BAF",
+    "height": 88,
+    "width": 1087.264367816092,
+    "x": -2.273736754432321e-13,
+    "y": 104
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Float Label Edited - Web",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "524BF6F9-7708-46A0-B98D-A10E95B75496",
+      "overrideName": "EA011B31-CAC2-47A6-85C5-CFF5D25A305C_stringValue",
+      "value": "What did you like about the event?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "809E4700-5BEE-49BB-B072-D6D05E3277E2",
+      "overrideName": "8FDDC26B-A1C6-4500-B3ED-DC334BFB0C90_stringValue",
+      "value": "Question 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22756FB1-CB12-429B-BC55-6072806E0292",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7FD0D972-C5D1-46FD-9EF5-07ED42CF2E66",
+  "verticalSpacing": 0
+}

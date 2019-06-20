@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "670D6D84-2B86-437F-9BA3-64B6203C10B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85504D02-CF61-4497-8008-C688EC0CA5E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AA73028-5FDE-4732-B7DF-A4C0847E95B1",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "24A95219-17FA-4DB5-BD7F-AB07DA0B4D51"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FB94F4BB-D667-4A9A-AC85-17F1D81E440F"
+    },
+    {
+      "class": "group",
+      "id": "7E7CE4C6-F26D-443F-B9B9-0A467600AB20"
+    }
+  ],
+  "name": "Delete Modal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48366FF0-4FE3-42A6-BE53-741B2149D432",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
