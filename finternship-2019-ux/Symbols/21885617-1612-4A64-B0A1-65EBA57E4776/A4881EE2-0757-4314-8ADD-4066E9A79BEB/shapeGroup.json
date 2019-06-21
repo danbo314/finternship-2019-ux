@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3403A9A3-2087-45E8-AEE7-F4D9A8D5527C",
+  "do_objectID": "A4881EE2-0757-4314-8ADD-4066E9A79BEB",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0325877C-05E2-4044-AECA-F9A0E9429854",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 30,
-    "width": 25.00000000000001,
-    "x": 3,
+    "do_objectID": "A03AA363-D0C2-4655-B9A0-5D64DD56840B",
+    "height": 60,
+    "width": 60,
+    "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0BEFD181-9C4A-4190-8AC3-A4E9EBFB1E3B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,11 +37,11 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "088CE8F0-4551-4207-B341-F459154E2281"
+      "id": "EFA10690-9092-435A-8C43-62808CDF5AC3"
     },
     {
       "class": "shapePath",
-      "id": "52DD95DF-80F4-4A34-B4CB-A1831088C315"
+      "id": "9D60C4CB-AF6E-4710-B207-FAF8235E57A1"
     }
   ],
   "name": "Shape",
@@ -46,11 +49,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5C514FB1-3D7D-40D5-8ADE-C45F963384BD",
+  "sharedStyleID": "B80A72AB-893D-414E-B7AD-219C3013AF2E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6FB0C838-8500-4EFF-B25B-D95E9B2281CB",
+    "do_objectID": "77417E80-9F6B-45DF-B859-5C6C52C22981",
     "endMarkerType": 0,
     "fills": [
       {
@@ -58,9 +61,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1137254901960784,
-          "green": 0.596078431372549,
-          "red": 0.9725490196078431
+          "blue": 0.407843137254902,
+          "green": 0.8,
+          "red": 0.6
         },
         "fillType": 0,
         "isEnabled": true,

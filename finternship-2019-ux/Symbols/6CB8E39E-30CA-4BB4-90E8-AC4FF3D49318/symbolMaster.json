@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 362,
+  "changeIdentifier": 397,
   "clippingMaskMode": 0,
   "do_objectID": "6CB8E39E-30CA-4BB4-90E8-AC4FF3D49318",
   "exportOptions": {
@@ -55,11 +55,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "A1ECE191-C1B2-4C46-B1BD-ABCF8880FE70"
+      "class": "rectangle",
+      "id": "1D46E858-94FD-44DE-8526-77F23067ADC3"
+    },
+    {
+      "class": "text",
+      "id": "594D5F39-5703-49CB-AE69-13232CD8EDF9"
     }
   ],
   "name": "Buttons / Mobile Orange Button Disabled",
@@ -71,7 +75,7 @@
       "overrideName": "594D5F39-5703-49CB-AE69-13232CD8EDF9_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

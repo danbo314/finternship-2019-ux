@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 66,
+  "changeIdentifier": 96,
   "clippingMaskMode": 0,
   "do_objectID": "6D622CA7-A53C-4786-9DE7-9FDC62E73A2F",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "EDA813C2-4F31-474C-B0DB-D4647445625E"
+      "class": "rectangle",
+      "id": "AD8EEEE5-CFC4-4B01-924F-50DFFA175975"
+    },
+    {
+      "class": "text",
+      "id": "03AEC82D-CB6A-4A87-87B4-9F91F0382512"
     }
   ],
   "name": "Buttons / Mobile Grey Button",
@@ -66,7 +70,7 @@
       "overrideName": "03AEC82D-CB6A-4A87-87B4-9F91F0382512_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

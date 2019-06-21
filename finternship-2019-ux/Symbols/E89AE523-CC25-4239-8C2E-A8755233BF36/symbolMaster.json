@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 117,
+  "changeIdentifier": 144,
   "clippingMaskMode": 0,
   "do_objectID": "E89AE523-CC25-4239-8C2E-A8755233BF36",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "AED4B3DE-21FC-4099-B037-15E1E4E5EDDC"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,11 +55,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "F34B7AF6-0C49-42DB-B477-4E64524A4896"
+      "class": "rectangle",
+      "id": "1CA8DC87-A8A9-40A6-9F70-64AADD96F7E5"
+    },
+    {
+      "class": "text",
+      "id": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6"
     }
   ],
   "name": "Buttons / Mobile Blue Button",
@@ -69,9 +73,19 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1CA8DC87-A8A9-40A6-9F70-64AADD96F7E5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_textStyle"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

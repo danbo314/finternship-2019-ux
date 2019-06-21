@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 159,
+  "changeIdentifier": 183,
   "clippingMaskMode": 0,
   "do_objectID": "9DD031F3-185C-4752-A07C-203F697B87C9",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "3C06C330-FA44-4563-8BD6-D1452F1ADE1F"
+      "class": "rectangle",
+      "id": "60EA9A95-22E8-420C-ADCC-65FFCC435CD6"
+    },
+    {
+      "class": "text",
+      "id": "FAEB8162-9DBB-4025-B652-C21BFFBEE553"
     }
   ],
   "name": "Buttons / Mobile Green Button",
@@ -66,7 +70,7 @@
       "overrideName": "FAEB8162-9DBB-4025-B652-C21BFFBEE553_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

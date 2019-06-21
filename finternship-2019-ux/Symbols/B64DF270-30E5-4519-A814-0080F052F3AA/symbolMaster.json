@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
   "do_objectID": "B64DF270-30E5-4519-A814-0080F052F3AA",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -60,6 +60,11 @@
   "name": "Icons / Delete",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3403A9A3-2087-45E8-AEE7-F4D9A8D5527C_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

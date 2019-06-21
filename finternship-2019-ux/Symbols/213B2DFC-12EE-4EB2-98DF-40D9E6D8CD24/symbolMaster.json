@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 237,
+  "changeIdentifier": 267,
   "clippingMaskMode": 0,
   "do_objectID": "213B2DFC-12EE-4EB2-98DF-40D9E6D8CD24",
   "exportOptions": {
@@ -55,11 +55,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C68EE88F-E6EE-458E-82C0-43D8A60D7AF6"
+      "class": "rectangle",
+      "id": "00EC2CE8-8D97-44E2-8603-A4F9FEF81D48"
+    },
+    {
+      "class": "text",
+      "id": "C7F95A84-C553-47C0-8EE1-5047F6BF593F"
     }
   ],
   "name": "Buttons / Mobile Blue Button - Disabled",
@@ -71,7 +75,7 @@
       "overrideName": "C7F95A84-C553-47C0-8EE1-5047F6BF593F_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

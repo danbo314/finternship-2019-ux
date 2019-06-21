@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 239,
+  "changeIdentifier": 271,
   "clippingMaskMode": 0,
   "do_objectID": "0F51DF1F-79C7-48B6-8A4B-053C32A56BED",
   "exportOptions": {
@@ -55,11 +55,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "4DAAC032-479A-412D-8A54-46E0C01911AE"
+      "class": "rectangle",
+      "id": "1A60D462-2429-45B3-BAAB-3B5A2142C2FF"
+    },
+    {
+      "class": "text",
+      "id": "4F7BB0B6-5745-4131-96C7-1D5B44E9A44D"
     }
   ],
   "name": "Buttons / Web Orange Button",
@@ -71,7 +75,7 @@
       "overrideName": "4F7BB0B6-5745-4131-96C7-1D5B44E9A44D_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

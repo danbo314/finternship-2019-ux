@@ -81,25 +81,10 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "BD592F44-C25C-405F-98E1-96718375F3F8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "76AB7192-1777-4AE3-A7EB-8E4EEDC7EBFC",
     "endMarkerType": 0,
     "fills": [
@@ -107,7 +92,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.05,
+          "alpha": 0.1,
           "blue": 0.6666666666666666,
           "green": 0.3490196078431372,
           "red": 0

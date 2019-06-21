@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 285,
+  "changeIdentifier": 311,
   "clippingMaskMode": 0,
   "do_objectID": "4C4A3E81-E0C0-45DD-B18E-E9240C390DB5",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "E4AA58B9-8744-463C-B5D9-2D79C62E69E4"
+      "class": "rectangle",
+      "id": "CA5A2FD3-2DB7-498A-B8DB-002557700935"
+    },
+    {
+      "class": "text",
+      "id": "C94B0631-605A-4A60-919F-E91158333C1E"
     }
   ],
   "name": "Buttons / Mobile Orange Button",
@@ -63,10 +67,15 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "CA5A2FD3-2DB7-498A-B8DB-002557700935_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "C94B0631-605A-4A60-919F-E91158333C1E_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

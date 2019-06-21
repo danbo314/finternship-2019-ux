@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 106,
+  "changeIdentifier": 274,
   "clippingMaskMode": 0,
   "do_objectID": "62609AF2-5855-4017-A977-AFA0A82B05DB",
   "exportOptions": {
@@ -55,11 +55,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "5E7CF882-3AF4-4D88-9FA3-EAFE97B52B69"
+      "class": "rectangle",
+      "id": "61735E3B-273A-4B32-A5EB-30E94A8CABAF"
+    },
+    {
+      "class": "text",
+      "id": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB"
     }
   ],
   "name": "Buttons / Web Blue Button",
@@ -68,10 +72,15 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "61735E3B-273A-4B32-A5EB-30E94A8CABAF_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "E704CC4F-A1FC-4789-B06F-1BF61C22AEAB_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 71,
+  "changeIdentifier": 98,
   "clippingMaskMode": 0,
   "do_objectID": "B5633784-0329-4C64-AEB3-BBCA7A8DA314",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "2A390BAD-686C-4752-A464-C39C26E0900D"
+      "class": "rectangle",
+      "id": "E29811CA-B3F7-4E3D-94AD-213550EECCC7"
+    },
+    {
+      "class": "text",
+      "id": "6336C518-54EF-4955-9229-352799C8F9C2"
     }
   ],
   "name": "Buttons / Web Green Button",
@@ -63,10 +67,15 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "E29811CA-B3F7-4E3D-94AD-213550EECCC7_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "6336C518-54EF-4955-9229-352799C8F9C2_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
