@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B1E46C5-45FC-4504-AE3B-341B5B383CFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 260,
+    "x": 1660,
+    "y": 122
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "809A3B5A-43B8-4EFF-AE6B-7106026C13F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "0893CE31-AE21-45D3-AB65-006C6874B0E6"
+    },
+    {
+      "class": "triangle",
+      "id": "55CCA688-616D-46E0-8F63-C44E04B32BB3"
+    },
+    {
+      "class": "triangle",
+      "id": "68330CE9-C06D-46AB-B840-983E8C29BCD2"
+    },
+    {
+      "class": "text",
+      "id": "EE54CE8B-B5C3-4773-8982-6562EAC9416F"
+    },
+    {
+      "class": "text",
+      "id": "F53DC730-C995-44CD-85C2-99CD01525A46"
+    }
+  ],
+  "name": "Tool Bar Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

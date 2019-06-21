@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A895EB4-24D6-476C-8501-7A34A4D558E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C3D7210-424D-49CD-8087-3E35FAF90137",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29771961-5D2C-4177-B0AC-57D7DCD077A8",
+    "height": 647,
+    "width": 1579,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EE6AF0E4-71AB-46AF-B861-E23A87A5E4CA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3E33C2BA-A286-4C84-9AB0-0F3489DC8FFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "A68C6822-9E5A-42F5-AE6A-A176C2EC6402"
+    },
+    {
+      "class": "shapePath",
+      "id": "C4C099FF-C65A-4668-B998-C1392809B2BD"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D7071BF-239C-4056-AD95-7390BDCE25F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D939B93-AECB-487F-952C-0DA42F71FFF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "34C08F15-B22D-4E5D-A8B7-4B7F72F92A89"
+    },
+    {
+      "class": "shapePath",
+      "id": "935F9BA6-B3D4-4FFC-ACB3-85D27B0BA2AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "4991A680-E74C-4483-B323-2CCE660BEBEE"
+    }
+  ],
+  "name": "Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E36C2B38-947F-45D9-A66A-B3ACA84B3113",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
