@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "779E5622-85A2-455D-97B7-53AA9A4EC3AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26BDCE44-CC0A-4FD1-881B-F43E5602F804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28192ED6-DD23-4ECE-9C8E-D15E1414751B",
+    "height": 100,
+    "width": 349,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Email",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "642005D1-356C-4D06-8FFB-179045ACD063",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "jane.doe@mail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E493BA0F-89C8-4D69-A6E1-AC1FC7DDA7C8",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
+      "value": "Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "998E99DE-9700-43D9-89CB-589C94C87C35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
+  "verticalSpacing": 0
+}

@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -61,6 +61,10 @@
     {
       "class": "group",
       "id": "FA7CCFDD-E7B9-4136-AD37-A2957C3D4B05"
+    },
+    {
+      "class": "group",
+      "id": "2E9F423C-3881-4F40-B105-2B7AA5C71045"
     }
   ],
   "name": "View Event",

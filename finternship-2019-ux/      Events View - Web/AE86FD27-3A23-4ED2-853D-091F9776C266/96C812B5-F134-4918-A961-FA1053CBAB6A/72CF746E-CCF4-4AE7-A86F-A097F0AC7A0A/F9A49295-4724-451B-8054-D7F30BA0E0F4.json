@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9A49295-4724-451B-8054-D7F30BA0E0F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "074FAD4D-23F0-4BEB-ADFB-B4D78CB6AE16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15C85D78-43ED-4960-BFE9-C0256DB11106",
+    "height": 100,
+    "width": 440,
+    "x": 9.094947017729282e-13,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Event Name",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F1C16CD-933A-4347-AAE9-36015CCE4F31",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "STEM Talk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD508F93-5FD6-43B2-9DED-A5488D067B64",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
+      "value": "Event Name"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE614903-130B-4A6C-B5A2-9B4C8C306E9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
+  "verticalSpacing": 0
+}

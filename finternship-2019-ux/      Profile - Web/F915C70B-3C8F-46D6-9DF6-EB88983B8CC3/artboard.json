@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EE35B573-13E6-4E67-8EE5-830D1A42C6D8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F915C70B-3C8F-46D6-9DF6-EB88983B8CC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DC8CA63-E38D-4003-A376-0B21B0671954",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7F0388B-DF49-4E62-B5BF-F8AD820C9CB1",
+    "height": 1080,
+    "width": 1920,
+    "x": 1060,
+    "y": -540
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "773DF85A-1493-4895-AA5F-47A978CD2539"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "560712F4-284B-4616-B216-1BAB69127D47",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D2821BB-9B1E-4FD1-8CE4-87470FBEF349"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECADECCE-806D-406F-9FC0-99F8DAE151C2"
+    },
+    {
+      "class": "group",
+      "id": "A461356F-5DA1-4554-B5BE-81EE58E3D9E3"
+    },
+    {
+      "class": "group",
+      "id": "69C0CDE3-BFD8-48B3-A29D-02E079B9E9FA"
+    },
+    {
+      "class": "text",
+      "id": "464C92A1-3D32-40F4-8659-6FB6A4E0C92C"
+    },
+    {
+      "class": "group",
+      "id": "F6DF3DC6-3792-40D7-85B2-DFD372B3C075"
+    },
+    {
+      "class": "oval",
+      "id": "FA083712-F837-49D2-8E04-83C3B50A1794"
+    },
+    {
+      "class": "group",
+      "id": "14E15CAA-0815-458C-B057-E79AF9065C02"
+    }
+  ],
+  "name": "Profile Photo",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7017A8B-AD6B-449F-BA57-24ECF3B22BA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F4604A0-E081-4B6A-9A8B-45A75219E71E",
+    "guides": [
+    ]
+  }
+}

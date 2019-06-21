@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "81D4BA02-82CE-44B7-BD46-A32B1F9C8574",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7F037D1-4F23-4B4C-B878-AE0809126ACF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE772C37-D49E-463A-BCE6-0D4B421DCC32",
+    "height": 63,
+    "width": 125,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Orange Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD444BAC-DBBB-4996-8418-D54691C2D148",
+      "overrideName": "FAEB8162-9DBB-4025-B652-C21BFFBEE553_stringValue",
+      "value": "Edit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD6DB27E-1743-4362-969F-9BA99001E6F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9CEAD07B-CD70-4C3B-9203-3FF4DA6BCFBF",
+  "verticalSpacing": 0
+}

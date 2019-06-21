@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7272285-B418-4F25-978C-D8D7BDF185BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42AC20B9-5EFC-43D2-A74F-E47FBEFA6EAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "860E3CAB-5FEC-4F7A-973B-F40BC2BB471C",
+    "height": 100,
+    "width": 349,
+    "x": 0,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Account Status",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2F66793-C268-4176-A428-EF957B46B04D",
+      "overrideName": "3719BFDC-1DA4-47E0-93F9-14E83C8876AD_stringValue",
+      "value": "Account Status"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E1CF5510-9595-4188-94F1-CBEE75434F3D",
+      "overrideName": "7D46F827-5E94-469A-83DB-C5BBD58D3B34_stringValue",
+      "value": "Admin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95E56430-1947-4EA1-9EED-6BB098935104",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5D980EF9-72F6-4BCB-8D2F-BC853EFDD5E6",
+  "verticalSpacing": 0
+}

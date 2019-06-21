@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B3CC25E3-A68B-4126-BF2C-D30F2FE7D12F",
-    "height": 654,
+    "height": 735,
     "width": 1104,
     "x": 48,
-    "y": 369
+    "y": 295
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -62,6 +62,10 @@
     {
       "class": "symbolInstance",
       "id": "964421A7-9A0F-47B1-B0C1-1ABECFD8B6EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9A49295-4724-451B-8054-D7F30BA0E0F4"
     }
   ],
   "name": "Body",

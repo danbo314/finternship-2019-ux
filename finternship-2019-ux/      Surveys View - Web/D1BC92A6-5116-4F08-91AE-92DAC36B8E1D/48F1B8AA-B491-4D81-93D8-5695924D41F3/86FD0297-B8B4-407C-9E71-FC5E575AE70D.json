@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86FD0297-B8B4-407C-9E71-FC5E575AE70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5174D878-7D0A-407F-BE59-FD0AE30971FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C11B175-634A-4DD7-962C-97F10B2A6C93",
+    "height": 63,
+    "width": 125,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Grey Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B0DDF3D-0285-4706-920A-13CA55FFCAC9",
+      "overrideName": "C94B0631-605A-4A60-919F-E91158333C1E_stringValue",
+      "value": "Delete"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9965128-A521-42A6-8A0E-D3D16EAA93D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D8E8205-1FA6-4741-A474-DF2C0AD9FB8D",
+  "verticalSpacing": 0
+}
