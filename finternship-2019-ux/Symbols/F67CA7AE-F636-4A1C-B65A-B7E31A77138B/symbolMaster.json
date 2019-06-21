@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 865,
+  "changeIdentifier": 914,
   "clippingMaskMode": 0,
   "do_objectID": "F67CA7AE-F636-4A1C-B65A-B7E31A77138B",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "8CAFB801-3E85-4ECB-8DF8-BC25C986FD3E",
     "height": 70,
     "width": 268,
-    "x": 5509,
-    "y": 230
+    "x": 3543,
+    "y": 155
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -71,16 +71,31 @@
     },
     {
       "class": "text",
-      "id": "894BF2D5-FCDB-404A-B835-0DBCA20313CB"
+      "id": "F7241994-7FD0-4CA1-8629-772747B32B01"
     }
   ],
-  "name": "Float Label Error Message Input - Mobile",
+  "name": "Forms / Mobile / Input / Default Error Message",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "894BF2D5-FCDB-404A-B835-0DBCA20313CB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "E7A68DB9-08AC-45BA-8D64-5F63CDBDFF64_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F03A341C-A1CE-4D13-BB5F-636294C4388D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E7A68DB9-08AC-45BA-8D64-5F63CDBDFF64_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

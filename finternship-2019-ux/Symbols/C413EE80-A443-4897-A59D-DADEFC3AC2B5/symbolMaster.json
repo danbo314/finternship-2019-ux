@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 86,
+  "changeIdentifier": 91,
   "clippingMaskMode": 0,
   "do_objectID": "C413EE80-A443-4897-A59D-DADEFC3AC2B5",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 210,
     "width": 369,
-    "x": 4188,
-    "y": 1311
+    "x": 3024,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "B9D534ED-36A2-45EF-BCD2-A4A74CC5293B"
     }
   ],
-  "name": "Password Requirements",
-  "nameIsFixed": false,
+  "name": "Forms / Field Requirements / Password Requirements",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

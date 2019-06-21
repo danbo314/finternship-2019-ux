@@ -35,7 +35,7 @@
     "do_objectID": "104D25F6-D193-4E48-ACA1-3D22567B910E"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,12 +69,12 @@
       "id": "7D000762-ADAC-475C-A7EF-A246C0C2F027"
     },
     {
-      "class": "group",
-      "id": "E9643962-4962-48B6-A808-ABA76CF850BE"
+      "class": "symbolInstance",
+      "id": "3BE62D3B-99ED-431A-AB7D-C5C0CBBA6A68"
     },
     {
       "class": "symbolInstance",
-      "id": "3BE62D3B-99ED-431A-AB7D-C5C0CBBA6A68"
+      "id": "86EB7878-FE7C-45A8-98AF-B299FCB7A540"
     }
   ],
   "name": "View Event - Full Page",

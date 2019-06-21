@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 946,
+  "changeIdentifier": 981,
   "clippingMaskMode": 0,
   "do_objectID": "AC301C72-61A9-497B-8354-DA921678CF08",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "4073E233-9E75-4A51-A493-8BA93589201C",
     "height": 70,
     "width": 268,
-    "x": 6545,
-    "y": 68
+    "x": 3543,
+    "y": 1130
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -70,15 +70,15 @@
       "id": "FD7531B2-2FE9-447E-999C-8DB8018B629E"
     },
     {
-      "class": "text",
-      "id": "5B27FD1B-2A8C-48AF-9962-CC15B43C235F"
-    },
-    {
       "class": "group",
       "id": "AE998391-1E60-4673-B3C8-2A09D95B4A86"
+    },
+    {
+      "class": "text",
+      "id": "B7CB75CC-8942-4C7C-B231-3F7B793C287D"
     }
   ],
-  "name": "Float Label Error Message Hide Sensitive Input - Mobile",
+  "name": "Forms / Mobile / Input / Error Message Hide Sensitive Input",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -89,7 +89,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5B27FD1B-2A8C-48AF-9962-CC15B43C235F_stringValue"
+      "overrideName": "DCC6BB74-57B8-402F-B13A-603800F6CA3E_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7CB75CC-8942-4C7C-B231-3F7B793C287D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7CB75CC-8942-4C7C-B231-3F7B793C287D_stringValue"
     }
   ],
   "resizesContent": false,

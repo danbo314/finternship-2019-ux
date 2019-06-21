@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "98B082CA-692C-421E-944D-42CBAAEA1F5E",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 120,
     "width": 481,
-    "x": 4768,
-    "y": -94
+    "x": 5700,
+    "y": 2642
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -69,8 +69,8 @@
       "id": "D222BD7A-181A-47FF-967B-69107EC72771"
     }
   ],
-  "name": "Float Label Hide Sensitive Input",
-  "nameIsFixed": false,
+  "name": "Forms / Web / Registration / Hide Sensitive Input",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

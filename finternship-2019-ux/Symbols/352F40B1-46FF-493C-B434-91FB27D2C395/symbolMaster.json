@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3713,
+  "changeIdentifier": 3732,
   "clippingMaskMode": 0,
   "do_objectID": "352F40B1-46FF-493C-B434-91FB27D2C395",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 118,
     "width": 416,
-    "x": 6549,
-    "y": 1962
+    "x": 3961,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -69,7 +69,7 @@
       "id": "1E22D8E0-19ED-4B69-95EF-4591EA11A92E"
     }
   ],
-  "name": "Web / Input / Date & Time Picker",
+  "name": "Forms / Web / Date & Time Picker",
   "nameIsFixed": true,
   "overrideProperties": [
     {

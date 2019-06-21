@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 274,
+  "changeIdentifier": 293,
   "clippingMaskMode": 0,
   "do_objectID": "8A1B4317-0472-4745-8650-41F9E81F0780",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 480,
-    "x": 6549,
-    "y": 1562
+    "x": 5070,
+    "y": 200
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -61,7 +61,7 @@
       "id": "7D46F827-5E94-469A-83DB-C5BBD58D3B34"
     }
   ],
-  "name": "Web / Input / Static",
+  "name": "Forms / Web / Input / Static",
   "nameIsFixed": true,
   "overrideProperties": [
     {

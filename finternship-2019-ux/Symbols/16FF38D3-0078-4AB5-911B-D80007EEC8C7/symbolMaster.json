@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 177,
+  "changeIdentifier": 182,
   "clippingMaskMode": 0,
   "do_objectID": "16FF38D3-0078-4AB5-911B-D80007EEC8C7",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 523,
-    "y": 884
+    "x": 0,
+    "y": 1180
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -61,15 +61,15 @@
       "id": "DB2F8570-A16F-421B-BC75-6BA3FC1FCBCF"
     },
     {
-      "class": "symbolInstance",
-      "id": "B5ED5C22-BF89-42E1-831A-ECA544EBA62E"
+      "class": "group",
+      "id": "CD831072-C42E-416C-8DB3-54BA05FF6A26"
     },
     {
       "class": "rectangle",
       "id": "B0462C60-8B2F-4D0C-B7D4-5C574E066158"
     }
   ],
-  "name": "Web Artboard",
+  "name": "Backgrounds / Logo",
   "nameIsFixed": true,
   "overrideProperties": [
     {

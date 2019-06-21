@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 874,
+  "changeIdentifier": 893,
   "clippingMaskMode": 0,
   "do_objectID": "82911C81-B125-4148-B0FF-7BDB0CF4ADF6",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 118,
     "width": 416,
-    "x": 6549,
-    "y": 2180
+    "x": 3961,
+    "y": 218
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -69,7 +69,7 @@
       "id": "88077069-8DE7-4CBB-9084-DF09B0B8940D"
     }
   ],
-  "name": "Web / Input / Selector",
+  "name": "Forms / Web / Selector",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 56,
+  "changeIdentifier": 62,
   "clippingMaskMode": 0,
   "do_objectID": "91A6A004-94F6-4425-A3C3-265EA19FC962",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 1024,
-    "x": 11085,
-    "y": -94
+    "x": 6339,
+    "y": 376
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -65,8 +65,8 @@
       "id": "DABF6D93-E92F-486D-81B0-B053AF7E1EF7"
     }
   ],
-  "name": "Web / Modal Header",
-  "nameIsFixed": false,
+  "name": "Headers / Web Modal",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 9,
   "clippingMaskMode": 0,
   "do_objectID": "19172448-F373-4EAE-B2DD-A827336D7AB7",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 10953,
-    "y": -94
+    "x": 8409,
+    "y": 340
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "537F5F2D-AEA1-44B8-8E73-FB9743C1C9AB"
     }
   ],
-  "name": "Web / Icon / X",
-  "nameIsFixed": false,
+  "name": "Icons / Close",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

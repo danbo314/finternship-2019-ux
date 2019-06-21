@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Medium",
-              "size": 20
+              "size": 16
             }
           },
-          "kerning": 1.648809583333331,
+          "kerning": 1.319047666666664,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9D615B6E-CE37-41E8-BBFD-67353AAF4507",
-    "height": 20,
-    "width": 64,
+    "height": 16,
+    "width": 51,
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{1, 1}, {60, 16}}",
+  "glyphBounds": "{{1, 1}, {48, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,7 +81,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E959F09A-2B3E-46D4-B39D-BB01D6E36ECA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,10 +93,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Medium",
-            "size": 20
+            "size": 16
           }
         },
-        "kerning": 1.648809583333331,
+        "kerning": 1.319047666666664,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

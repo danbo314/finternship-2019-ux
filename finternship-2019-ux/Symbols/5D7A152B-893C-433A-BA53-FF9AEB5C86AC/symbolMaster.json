@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 315,
+  "changeIdentifier": 324,
   "clippingMaskMode": 0,
   "do_objectID": "5D7A152B-893C-433A-BA53-FF9AEB5C86AC",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "7108AA52-B143-4CA0-AA86-DD85AAC7361F",
     "height": 120,
     "width": 489,
-    "x": 5960,
-    "y": 970
+    "x": 5700,
+    "y": 1762
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -74,14 +74,9 @@
       "id": "4D395482-7322-4DFE-9C29-164E1332F3DD"
     }
   ],
-  "name": "Float Label Error Message Input show icon - no error",
+  "name": "Forms / Web / Registration / Error Message Input show icon - no error",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "61014878-A0CE-466B-A056-1FDEA627D61F_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

@@ -44,28 +44,6 @@
     "do_objectID": "850E84E9-491C-4D44-90CD-8B7B26C486D1",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 8,
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.6470588235294118,
-          "green": 0.6470588235294118,
-          "red": 0.6470588235294118
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 0.5,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

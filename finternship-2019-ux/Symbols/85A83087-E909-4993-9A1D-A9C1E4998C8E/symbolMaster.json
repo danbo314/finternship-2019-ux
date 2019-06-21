@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 316,
+  "changeIdentifier": 324,
   "clippingMaskMode": 0,
   "do_objectID": "85A83087-E909-4993-9A1D-A9C1E4998C8E",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "E928D838-2FF5-4769-9BBE-8B64032242C1",
     "height": 120,
     "width": 489,
-    "x": 7129,
-    "y": 1142
+    "x": 5700,
+    "y": 1542
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -78,7 +78,7 @@
       "id": "734F3528-ED09-4A0A-8810-AFA6B33CF388"
     }
   ],
-  "name": "Float Label Error Message Input Email",
+  "name": "Forms / Web / Registration / Error Message Input Email",
   "nameIsFixed": true,
   "overrideProperties": [
     {

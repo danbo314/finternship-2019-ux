@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 61,
+  "changeIdentifier": 66,
   "clippingMaskMode": 0,
   "do_objectID": "6D622CA7-A53C-4786-9DE7-9FDC62E73A2F",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 63,
     "width": 210,
-    "x": 3798,
-    "y": 1357
+    "x": 2070,
+    "y": 815
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "EDA813C2-4F31-474C-B0DB-D4647445625E"
     }
   ],
-  "name": "Mobile Grey Button",
-  "nameIsFixed": false,
+  "name": "Buttons / Mobile Grey Button",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

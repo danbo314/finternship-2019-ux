@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 924,
+  "changeIdentifier": 944,
   "clippingMaskMode": 0,
   "do_objectID": "637D5577-0D2D-4DCF-A375-E42FF4EFB5A1",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "6416FCA2-505C-4822-9CA0-36B7C459D4F4",
     "height": 70,
     "width": 268,
-    "x": 6177,
-    "y": 68
+    "x": 3543,
+    "y": 1300
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -71,12 +71,22 @@
     },
     {
       "class": "text",
-      "id": "59E718C1-F772-462F-9C66-07B179593655"
+      "id": "B744504B-D4BA-479A-AAE6-52B9C62EEC22"
     }
   ],
-  "name": "Float Label Error Message Sensitive Input - Mobile",
+  "name": "Forms / Mobile / Input / Error Message Sensitive Input",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B744504B-D4BA-479A-AAE6-52B9C62EEC22_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8762F98E-B741-4430-9058-164C9069593E_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -85,7 +95,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "59E718C1-F772-462F-9C66-07B179593655_stringValue"
+      "overrideName": "B744504B-D4BA-479A-AAE6-52B9C62EEC22_stringValue"
     }
   ],
   "resizesContent": false,

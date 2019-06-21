@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5E7B2565-FE31-44DD-922B-3A9CDBED05C2",
-    "height": 1132,
+    "height": 1080,
     "width": 1920,
     "x": 0,
     "y": 0
@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -54,9 +54,13 @@
     {
       "class": "group",
       "id": "0BED83CF-094F-40EB-9232-EF698649FFD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8645ABC8-6B12-4AC8-8655-C3C8E20A0939"
     }
   ],
-  "name": "Form",
+  "name": "Background",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

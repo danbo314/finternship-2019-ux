@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 854,
+  "changeIdentifier": 877,
   "clippingMaskMode": 0,
   "do_objectID": "6D583CD6-6083-48D3-B845-BFDBA543EA7E",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "B43F94E6-FA46-4100-ACAE-AADD69B5B169",
     "height": 70,
     "width": 268,
-    "x": 6913,
-    "y": 68
+    "x": 3543,
+    "y": 1470
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -70,17 +70,27 @@
       "id": "61C8F2AB-63BF-4AF9-AA51-62E814A2CD47"
     },
     {
-      "class": "text",
-      "id": "6F2DF722-E7D7-455E-86C8-58FFA106AEC2"
-    },
-    {
       "class": "group",
       "id": "CA142F4D-1A85-4781-8689-2628E6E9EE91"
+    },
+    {
+      "class": "text",
+      "id": "A2FE36BC-3781-4154-B76F-A4254A26056B"
     }
   ],
-  "name": "Float Label Error Message Show Sensitive Input - Mobile",
+  "name": "Forms / Mobile / Input / Error Message Show Sensitive Input",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A2FE36BC-3781-4154-B76F-A4254A26056B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E858B4B-7370-4C30-9407-7DC4C72798C5_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -89,12 +99,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "79A3805C-83F5-4798-88DF-A627014EBF35_stringValue"
+      "overrideName": "79A3805C-83F5-4798-88DF-A627014EBF35_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6F2DF722-E7D7-455E-86C8-58FFA106AEC2_stringValue"
+      "overrideName": "A2FE36BC-3781-4154-B76F-A4254A26056B_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "79A3805C-83F5-4798-88DF-A627014EBF35_stringValue"
     }
   ],
   "resizesContent": false,

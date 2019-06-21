@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 494,
+  "changeIdentifier": 566,
   "clippingMaskMode": 0,
   "do_objectID": "C9073292-06BC-49CE-A958-E7FEBB0BF6C5",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "9DC0448B-B159-4DCF-B0B6-EDE1CA9BD7B6",
     "height": 70,
     "width": 268,
-    "x": 8017,
-    "y": 68
+    "x": 3543,
+    "y": 960
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -67,20 +67,30 @@
     },
     {
       "class": "text",
-      "id": "D0BE4980-7071-42F4-99A2-BF8353373961"
+      "id": "4355F6B4-F3FF-4346-A029-7A82FA970C6B"
     },
     {
       "class": "text",
-      "id": "4355F6B4-F3FF-4346-A029-7A82FA970C6B"
+      "id": "31D85D10-4625-4469-9AD3-07DFBC36AF48"
     }
   ],
-  "name": "Float Label Error Message Email Blank - Mobile",
+  "name": "Forms / Mobile / Input / Error Message Email Blank",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D0BE4980-7071-42F4-99A2-BF8353373961_stringValue"
+      "overrideName": "31D85D10-4625-4469-9AD3-07DFBC36AF48_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5FCA0D8C-0035-441D-B599-5709FCDF565A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31D85D10-4625-4469-9AD3-07DFBC36AF48_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

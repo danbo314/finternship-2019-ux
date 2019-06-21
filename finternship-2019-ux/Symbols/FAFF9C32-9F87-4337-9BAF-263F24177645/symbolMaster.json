@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 25,
   "clippingMaskMode": 0,
   "do_objectID": "FAFF9C32-9F87-4337-9BAF-263F24177645",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 44,
     "width": 998,
-    "x": 9855,
-    "y": -94
+    "x": 9382,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -65,9 +65,19 @@
       "id": "C6F1C088-D964-4192-AB8F-673693B1B3BB"
     }
   ],
-  "name": "Web / Search Box",
-  "nameIsFixed": false,
+  "name": "Search Box",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6F1C088-D964-4192-AB8F-673693B1B3BB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6F1C088-D964-4192-AB8F-673693B1B3BB_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

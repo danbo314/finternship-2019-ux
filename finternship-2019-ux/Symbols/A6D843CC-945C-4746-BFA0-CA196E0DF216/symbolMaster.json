@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1174,
+  "changeIdentifier": 1185,
   "clippingMaskMode": 0,
   "do_objectID": "A6D843CC-945C-4746-BFA0-CA196E0DF216",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "01C2E6AC-C1F2-48F1-AF59-4E2C68546BED",
     "height": 55,
     "width": 268,
-    "x": 7649,
-    "y": 68
+    "x": 3543,
+    "y": 635
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -70,9 +70,14 @@
       "id": "C3E8F527-03AB-40FE-AD9F-D323A739A563"
     }
   ],
-  "name": "Float Label Email Undited - Mobile",
+  "name": "Forms / Mobile / Input / Email Unedited",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "360013F4-4CCD-4506-910C-1C57E5A9CD93_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

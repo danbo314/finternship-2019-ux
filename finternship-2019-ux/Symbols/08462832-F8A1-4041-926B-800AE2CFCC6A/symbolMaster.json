@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 33,
+  "changeIdentifier": 39,
   "clippingMaskMode": 0,
   "do_objectID": "08462832-F8A1-4041-926B-800AE2CFCC6A",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 50,
     "width": 375,
-    "x": 1973,
-    "y": 651
+    "x": 10530,
+    "y": 150
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -85,8 +85,8 @@
       "id": "35FA566F-7C1E-4B4A-A002-2F98B2DEFDC9"
     }
   ],
-  "name": "Tab Bar - Mobile (Events Selected)",
-  "nameIsFixed": false,
+  "name": "Tab Bar / Events Selected",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

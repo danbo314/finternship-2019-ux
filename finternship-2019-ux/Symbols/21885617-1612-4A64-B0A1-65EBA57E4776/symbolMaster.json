@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 9,
   "clippingMaskMode": 0,
   "do_objectID": "21885617-1612-4A64-B0A1-65EBA57E4776",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 60,
-    "x": 5349,
-    "y": -94
+    "x": 8409,
+    "y": 180
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "0A1FFFEE-8627-4220-98DF-06F4F98F2169"
     }
   ],
-  "name": "Green Check",
-  "nameIsFixed": false,
+  "name": "Icons / Check",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,
