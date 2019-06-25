@@ -1,0 +1,135 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 120,
+  "clippingMaskMode": 0,
+  "do_objectID": "B51A0617-738B-495B-90AE-78BE04088F20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 375,
+    "x": 11005,
+    "y": 150
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "37E7FD0D-9DE5-49CF-A251-8EEC117F39A7"
+    },
+    {
+      "class": "text",
+      "id": "AFF4F7C0-6B48-415C-8520-02F2E9321D84"
+    },
+    {
+      "class": "text",
+      "id": "914366FB-06B0-4270-957C-E5C5DB0BF7B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32D76A1C-BB16-4891-8271-6839371865AB"
+    },
+    {
+      "class": "group",
+      "id": "03330F98-3CE3-441F-A1F3-D754EEBCD8BC"
+    },
+    {
+      "class": "text",
+      "id": "4BE2552C-A407-41D6-9599-211815D19824"
+    },
+    {
+      "class": "group",
+      "id": "A91531C1-81C9-4BB8-A381-30BCDE1B0566"
+    },
+    {
+      "class": "group",
+      "id": "F25D6535-B603-482E-BE3B-BF2F9B795CF2"
+    },
+    {
+      "class": "oval",
+      "id": "381C30D5-B84D-47CF-86D8-77FD32C0656B"
+    }
+  ],
+  "name": "Tab Bar / Surveys with Badge",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BE2552C-A407-41D6-9599-211815D19824_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "914366FB-06B0-4270-957C-E5C5DB0BF7B8_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "32D76A1C-BB16-4891-8271-6839371865AB_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AFF4F7C0-6B48-415C-8520-02F2E9321D84_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B89BE39-805A-4604-ADA7-D6CB5F597367",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

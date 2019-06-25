@@ -1,0 +1,135 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 440,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D4C4CFA-E75B-43A3-AA1B-E9F3C656FDD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 375,
+    "x": 11005,
+    "y": 300
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E44C57AD-D90A-4C79-8C99-7B47AD5D1269"
+    },
+    {
+      "class": "text",
+      "id": "2A864D52-195E-4515-8E92-2B7B28383966"
+    },
+    {
+      "class": "text",
+      "id": "9ECD1B3A-BBB4-4882-BF1E-09125708D52D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "138C6EC0-AC67-47CF-BE65-041AF82E96D8"
+    },
+    {
+      "class": "group",
+      "id": "D7961EBF-1F2A-4C33-8A71-C3B0ABB0E24B"
+    },
+    {
+      "class": "text",
+      "id": "0DD17022-4388-45A7-9B6D-6C6668E3704D"
+    },
+    {
+      "class": "group",
+      "id": "1A6C9465-7D93-410D-83E9-ADA88FFCB2DA"
+    },
+    {
+      "class": "group",
+      "id": "22886F14-E2C0-4831-AE9A-9E100FD899A6"
+    },
+    {
+      "class": "oval",
+      "id": "4CEC3A32-FFAE-4ADC-93FF-81DCCD2746CC"
+    }
+  ],
+  "name": "Tab Bar / Events with Badge",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0DD17022-4388-45A7-9B6D-6C6668E3704D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9ECD1B3A-BBB4-4882-BF1E-09125708D52D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "138C6EC0-AC67-47CF-BE65-041AF82E96D8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2A864D52-195E-4515-8E92-2B7B28383966_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D24B61EA-D80A-4CC0-BF07-78564D3F69F9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
