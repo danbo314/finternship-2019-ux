@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C7BD11EF-9015-40BB-8946-DDB723013A37",
+  "do_objectID": "AA515E55-3B93-4C3A-A91A-2B33F3509C19",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "503327BB-C5C7-4A97-AFDF-440CF6FD3F8F",
+    "do_objectID": "2F095794-EEDD-45C6-95C9-42E309E3C881",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3F0B0D29-D720-4069-8765-5B91E2C54DB4",
-    "height": 49,
-    "width": 375,
-    "x": 0,
-    "y": 763
+    "do_objectID": "D45480FE-C3C0-4907-8F3A-DF9A7A8628D3",
+    "height": 55,
+    "width": 268,
+    "x": 54,
+    "y": 363
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,10 +29,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Tab Bar / Events Selected",
+  "layerListExpandedType": 2,
+  "name": "Float Label Edited - Mobile",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B9FA6A0-ADE8-4F89-9172-963B1808AB3D",
+      "overrideName": "64BD4826-FF43-4D29-B214-8F0D10776769_stringValue",
+      "value": "Event Code"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3417E168-55C5-48DB-A9D3-B60C574F34C8",
+    "do_objectID": "2F99CFC4-3284-4C24-9964-19D92679C1BA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EB9848F6-7E70-40C6-BF76-C7A033E820B5",
+  "symbolID": "5AC11B80-40CF-40C2-A5C6-FE43FC7BD626",
   "verticalSpacing": 0
 }
