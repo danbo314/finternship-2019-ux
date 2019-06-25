@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "404DC4BD-790F-41BA-890D-BFB81D8894BE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7140FD3A-1A10-4CCF-A1A0-9DBB8DC7D083",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9C35E70-7F7E-4628-9AEC-0BF3EF126FF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BAE52C6-BF8A-485D-8108-DCB62BE0E97C",
+    "height": 812,
+    "width": 375,
+    "x": -426,
+    "y": -408
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C1DB157B-E2FB-41E1-A313-718D65AE3628"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B86402BC-FC9E-47B2-A513-D291C4FD024D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9B3F7308-5D6C-4873-8C36-1D65872933F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0855DC42-914B-44CF-A15F-3B2C55F74C2E"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D65D235-73D8-4943-A576-0F0E543D7DB1"
+    },
+    {
+      "class": "group",
+      "id": "362FAB52-EEFB-4FF7-8E1F-5AAF17A0EB60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4351C94A-A201-4455-BCC6-9B3D2ED60587"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B697B3C0-8406-43A6-A13B-DE4AF6596478"
+    },
+    {
+      "class": "shapePath",
+      "id": "07047E96-ACE4-4323-B967-D42E2DCCA3D5"
+    },
+    {
+      "class": "text",
+      "id": "CD2ECB36-5A8C-479E-BB3A-A8F066416B10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36EA1A7F-4735-4913-8344-8EB7112A01C7"
+    }
+  ],
+  "name": "Check-In - v1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "564866B8-41BA-4855-B2EA-EF3C06483590",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BCCECA4A-C105-44A2-B022-D0DBD88D1DAC",
+    "guides": [
+    ]
+  }
+}
