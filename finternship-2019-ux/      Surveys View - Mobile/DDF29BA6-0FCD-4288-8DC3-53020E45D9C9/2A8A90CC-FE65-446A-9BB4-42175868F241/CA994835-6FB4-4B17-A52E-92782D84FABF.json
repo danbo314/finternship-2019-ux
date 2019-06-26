@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA994835-6FB4-4B17-A52E-92782D84FABF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7BEFC453-ED55-466F-B6E3-D711DFF8459E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "754C9B89-3269-44E1-AA45-8490B9C41132",
+    "height": 52,
+    "width": 52,
+    "x": 16,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Calendar / June",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFCAB9C0-26C8-42C7-9E08-6815B4D91124",
+      "overrideName": "E8EA84B9-0339-4F45-9B29-E9113D7E1028_layerStyle",
+      "value": "CB0065B7-8AF5-4324-BADF-B0451ABEDFCA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "614C47B7-DF84-484D-AD76-1D19BF763792",
+      "overrideName": "5F64BB23-C482-4EAE-8011-0A4CBF1CE2AC_layerStyle",
+      "value": "CB0065B7-8AF5-4324-BADF-B0451ABEDFCA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71D5A631-7415-4803-8917-CE3738D6F101",
+      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_textStyle",
+      "value": "3B1B2DDE-357E-427C-91ED-622D8B139901"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2D829A7-1176-46F9-B795-65F707679FE3",
+      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_stringValue",
+      "value": "23"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB1C1AA1-F912-4CD8-AEA6-7BED5BB49047",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A099E7F0-9CCE-441B-8323-9ED27CE565F2",
+  "verticalSpacing": 0
+}

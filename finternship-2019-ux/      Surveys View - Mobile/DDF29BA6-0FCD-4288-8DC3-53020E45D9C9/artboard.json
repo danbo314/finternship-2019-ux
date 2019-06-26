@@ -1,0 +1,145 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "6BED2B70-1AA3-4F6A-8A97-E0B1681ADD5E",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DDF29BA6-0FCD-4288-8DC3-53020E45D9C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68D7CCCD-24D4-4D62-8C0D-96F35670976D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50DF0A93-DC91-4C4B-994E-584DD0B47CE7",
+    "height": 812,
+    "width": 375,
+    "x": -1,
+    "y": 504
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C6842E22-5F29-47E2-AB80-BF56FADD41BA"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9A4CCC0-6D65-437B-AA3B-0E67E3876379",
+    "guides": [
+      16,
+      375,
+      359,
+      0
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BF08FB2D-6556-4FE2-8F77-987DFD50E39D"
+    },
+    {
+      "class": "text",
+      "id": "FDAF872E-29D6-40D2-A5C0-065F6E1E10FF"
+    },
+    {
+      "class": "group",
+      "id": "2A8A90CC-FE65-446A-9BB4-42175868F241"
+    },
+    {
+      "class": "text",
+      "id": "91F70FD4-2782-434E-97CA-D276F30463EF"
+    },
+    {
+      "class": "group",
+      "id": "F37D0E1E-8230-454A-8191-AC1E1A03FFCF"
+    },
+    {
+      "class": "group",
+      "id": "C357F669-5F41-4E22-9362-7B084ADDA863"
+    },
+    {
+      "class": "group",
+      "id": "14B1D37F-6D45-45D4-A91C-2E6A246E5089"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F9412A6-4EEA-489E-873B-9F1B8DCD471D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4379A047-65B5-4FB6-9EFD-A2ECE3DD8FD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53B6787A-A214-4215-8A12-FD994653D726"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "572626D1-A0DE-4EE3-A487-26A303CC2618"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31D4E17F-5E3A-4D64-B3AC-5F287EEEB994"
+    }
+  ],
+  "name": "Survey List - No Stripes",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49AC0218-FC11-4AB2-960A-E74B9EAC26CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "56959083-673C-4F14-8F35-A5FB9B0E1055",
+    "guides": [
+      812,
+      778,
+      0,
+      44,
+      104,
+      729
+    ]
+  }
+}
