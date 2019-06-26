@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.9607843137254902,
-    "do_objectID": "90BE235D-4281-4923-A572-D799DF27A5DA",
+    "do_objectID": "171C5A0B-723F-40A6-9A2E-DF1645B240F7",
     "green": 0.9607843137254902,
     "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "45B70D34-D8DB-4F1B-BCBE-B6FC647FE1DF",
+  "do_objectID": "153E42EB-EA1D-4461-A9A8-C9DFF1C8B207",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4C84CF59-9E03-4DA3-8228-DFF0E6BCCE8C",
+    "do_objectID": "0D40C828-1A96-45B7-9A5D-3AC334BD5541",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "17F7E008-8317-4AB8-9679-3677269B3A89",
+    "do_objectID": "76FDAAFB-E30B-46BC-ACDF-21E236C41EF3",
     "height": 812,
     "width": 375,
     "x": 2374,
-    "y": -408
+    "y": 504
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "ED722E78-09D1-4BE9-B885-E9FBD9AABF6C"
+    "do_objectID": "9DBCF9F8-BFFE-4B0D-9723-20BBC8C9CCF2"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "DAC56468-047C-40BE-9C43-99F0F912FA04",
+    "do_objectID": "0660E283-141F-4BB9-A2AB-5823A69F44D6",
     "guides": [
       16,
       375,
@@ -60,42 +60,42 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "6B5A571F-1040-43AB-ABB9-3E5BE801FE4A"
+      "id": "8B9D709D-056C-4A06-AB5E-9E458F34134A"
     },
     {
       "class": "text",
-      "id": "301C07CF-408D-48AA-9939-D7A6F15D2B39"
+      "id": "1B7203B1-9E40-4097-8FA7-4FA64E696214"
     },
     {
       "class": "group",
-      "id": "0F2AD589-EE91-4A6F-8672-E14E76E28EFE"
+      "id": "05C1C15F-D22D-4E56-A808-F887B111BC2C"
     },
     {
       "class": "symbolInstance",
-      "id": "0984FF83-05A2-447D-A52C-CC6A24A90946"
+      "id": "83D0CE42-0BF6-4714-8F92-8B859767F740"
     },
     {
       "class": "rectangle",
-      "id": "17E11352-E1A0-44C6-995A-5235FC927141"
+      "id": "AF497241-FC16-48C5-9326-993A67794FBD"
     },
     {
       "class": "symbolInstance",
-      "id": "6F9B2A09-6668-4BFA-848D-4B90DCC67B0B"
+      "id": "7C9DD828-BE4C-4090-94D9-81541DF321C4"
     },
     {
       "class": "symbolInstance",
-      "id": "279660F4-40A8-4064-888E-C6278DAE2051"
+      "id": "F3941425-9857-49D3-ACF0-60E43B294BBC"
     },
     {
       "class": "symbolInstance",
-      "id": "B4635FF7-D042-4909-8D75-680F6D41079C"
+      "id": "6E3AD1F6-5B38-43F6-9EA9-938C10E78E00"
     },
     {
       "class": "group",
-      "id": "C4D31E69-960B-4118-9681-98EFB8038138"
+      "id": "11809F6D-2291-44E3-8D1D-1933B90F69BA"
     }
   ],
-  "name": "Survey View - Submit",
+  "name": "Survey View - Submit Disabled",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -111,7 +111,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "313F432B-3995-49AA-A8CB-947486BDCEEE",
+    "do_objectID": "D496287A-FE38-46D9-A098-980728BA0710",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -120,7 +120,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "5A7D990D-59D8-4796-8F05-500B53956D6F",
+    "do_objectID": "C5C3E6D2-F1AF-4670-86BC-41F5A0F4BEE6",
     "guides": [
       812,
       778,
