@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B603EB6-F760-4107-B5D8-8856FBBD55AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51294A4D-E002-4EA0-885B-6D92F6FE2A97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A653A020-C9C7-496E-81F7-8DD74709B433",
+    "height": 52,
+    "width": 52,
+    "x": 39,
+    "y": 170
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Calendar / June",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFCAB9C0-26C8-42C7-9E08-6815B4D91124",
+      "overrideName": "E8EA84B9-0339-4F45-9B29-E9113D7E1028_layerStyle",
+      "value": "CB0065B7-8AF5-4324-BADF-B0451ABEDFCA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2D829A7-1176-46F9-B795-65F707679FE3",
+      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_stringValue",
+      "value": "23"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45DC9C11-43A1-4753-95EB-3B29EA982356",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A099E7F0-9CCE-441B-8323-9ED27CE565F2",
+  "verticalSpacing": 0
+}

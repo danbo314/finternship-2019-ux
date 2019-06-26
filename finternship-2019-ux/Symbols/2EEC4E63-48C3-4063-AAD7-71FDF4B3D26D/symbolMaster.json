@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 18,
+  "changeIdentifier": 481,
   "clippingMaskMode": 0,
   "do_objectID": "2EEC4E63-48C3-4063-AAD7-71FDF4B3D26D",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
+    "height": 60,
     "width": 375,
     "x": 6339,
     "y": 188
@@ -32,8 +32,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -59,10 +59,6 @@
     {
       "class": "group",
       "id": "6B8620CB-9554-4BD8-B01B-7C80728397B3"
-    },
-    {
-      "class": "text",
-      "id": "97B68B26-A173-4298-8E7A-EB9207E1F56D"
     },
     {
       "class": "group",
@@ -76,11 +72,6 @@
   "name": "Headers / Mobile (With Back Button)",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "97B68B26-A173-4298-8E7A-EB9207E1F56D_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

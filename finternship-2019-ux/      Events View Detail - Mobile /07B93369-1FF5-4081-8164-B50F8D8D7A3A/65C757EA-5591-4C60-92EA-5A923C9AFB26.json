@@ -9,33 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9951879528985508,
-            "green": 0.9910628444562374,
-            "red": 0.9875647524971556
+            "blue": 0.6666666666666666,
+            "green": 0.3490196078431372,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue",
-              "size": 14
+              "name": "Gotham-Medium",
+              "size": 20
             }
           },
+          "kerning": 1.648809583333331,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 1
         },
-        "length": 8,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Jane Doe"
+    "string": "Career Visit Day"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FC377C30-5501-4933-AA98-7584607662BC",
+  "do_objectID": "65C757EA-5591-4C60-92EA-5A923C9AFB26",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 90,
-    "x": 258,
-    "y": 36
+    "height": 49,
+    "width": 194,
+    "x": 110,
+    "y": 155
   },
-  "glyphBounds": "{{15, 3}, {60, 11}}",
+  "glyphBounds": "{{1, 1}, {186, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Jane Doe",
+  "name": "Career Visit Day",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,24 +73,6 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.5294117647058824,
-          "green": 0.5294117647058824,
-          "red": 0.5294117647058824
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
@@ -98,26 +81,27 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9951879528985508,
-          "green": 0.9910628444562374,
-          "red": 0.9875647524971556
+          "blue": 0.6666666666666666,
+          "green": 0.3490196078431372,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue",
-            "size": 14
+            "name": "Gotham-Medium",
+            "size": 20
           }
         },
+        "kerning": 1.648809583333331,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }
