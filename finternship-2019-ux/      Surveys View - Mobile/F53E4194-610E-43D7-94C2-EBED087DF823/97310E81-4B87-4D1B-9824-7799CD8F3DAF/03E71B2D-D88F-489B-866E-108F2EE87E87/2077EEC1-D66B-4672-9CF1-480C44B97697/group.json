@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2077EEC1-D66B-4672-9CF1-480C44B97697",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1D101B9-7785-4436-AE69-537BB7357F26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F062BC71-B618-4381-8872-82B9F652189F",
+    "height": 42,
+    "width": 42,
+    "x": 0,
+    "y": 108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "680C98FA-EE60-4DAF-853B-07AA7C028D62"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C94EB124-1C40-4D77-9582-AE9B9D398C42"
+    },
+    {
+      "class": "group",
+      "id": "99BC9C31-E106-4EF9-AFEC-279818D17119"
+    }
+  ],
+  "name": "Shift",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97559D9F-2496-4B09-B8B6-47C30FE9B3B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

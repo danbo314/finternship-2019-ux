@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "do_objectID": "915383CC-BE36-42C9-86CE-CBDDC7DF443E",
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCE2AF42-3AAE-438F-ADB1-7AF8C2BF6224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "176838D5-D8A0-40E9-8628-9590F510055F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DC15B2D-C27B-49D0-AE41-DF16720F61ED",
+    "height": 812,
+    "width": 375,
+    "x": -188,
+    "y": -407
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CEB87716-B6BF-44B2-9E62-6D9CEC61AAFC"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "19262492-BBBF-4598-A932-19884A7BA3B7",
+    "guides": [
+      16,
+      375,
+      359,
+      0
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "29E635C2-5E14-48A2-B0B9-A44C5E4AB2C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB2C441-5B5C-40B1-8037-1E7EFE3779FC"
+    },
+    {
+      "class": "group",
+      "id": "622EA792-FBF6-497D-AFC8-25F18D6D316F"
+    },
+    {
+      "class": "group",
+      "id": "83780D45-572C-47B9-AD64-3E91E5EB33F7"
+    },
+    {
+      "class": "group",
+      "id": "CE5F79B6-7C4B-4244-AC13-D02344DB161D"
+    },
+    {
+      "class": "shapePath",
+      "id": "675E2A2F-C429-4507-8B4B-A613566F71D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3252B5D2-6E94-422C-9A35-1BE31BA261C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "45601B5F-1782-46AD-B753-77D2096DECDE"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "C42E5DCD-0C86-45FE-A127-104D16EB4327"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "FB3AAC7D-0B09-46FE-9908-FDFEFB870E94"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "23AEF751-1C74-4ECB-B33F-B737BFBD0C40"
+    }
+  ],
+  "name": "Check In - Slide Up Card Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09B287FF-3ED6-4B7A-8F94-6C8E50A27F9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11DF236F-487A-4156-B9C8-550BE301BD37",
+    "guides": [
+      812,
+      778,
+      0,
+      44,
+      104,
+      729
+    ]
+  }
+}

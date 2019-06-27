@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "067499FC-AE60-4CDB-9A34-1293703A9188",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E224FBC6-5ED3-4E61-9DC5-F16CB87C8775",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "394D4C73-7B83-485D-9235-7D8C6D974A4C",
+    "height": 306,
+    "width": 271,
+    "x": 52,
+    "y": 253
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D147596F-9B1E-41C7-B10A-BEB329BCC523"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F9B72AB1-12E3-41B6-9B85-CAAD55F90BBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBFF5FD8-5EE1-4FDF-B6C0-1ED1C430EA63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6A44DB5-9633-46ED-B21B-7A0E332696F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC8222F2-364F-4026-9B4E-9AF96763200C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23EA6796-0B0F-45D5-B078-02DEBBCF883A"
+    },
+    {
+      "class": "text",
+      "id": "684ABE1D-6256-4710-A87C-AF2D28E00DA4"
+    }
+  ],
+  "name": "Question Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "724C521F-10F2-4215-90B0-687A066EFF62",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.375,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "93977794-74B6-4C2A-9632-4849893E34E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

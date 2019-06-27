@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "516ED226-D799-4CD2-A5AF-868CC10C3DFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DD7C4F7-DD64-4814-B21D-1551D7211D84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AFAA7BB-B8F7-4DFB-8FE4-82AD1143FB4F",
+    "height": 16.91176470588235,
+    "width": 79.32359364409976,
+    "x": 11.98523985239853,
+    "y": 102.2222222222222
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Mobile / Multiple Choice - Unselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB05157A-FD5F-47DA-AC39-EB19E66944D1",
+      "overrideName": "C3959284-3AF1-43F5-8445-9BEB5D42D2B0_stringValue",
+      "value": "STEM Talks"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.703125,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7E891DBD-AA5A-41F5-8C54-70344BDFBD4E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.03125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DB4E8387-BE6C-4D19-8FAF-99A238CC3ABF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3F16A354-5A08-4286-8F0A-CE6AFD56D41F",
+  "verticalSpacing": 0
+}

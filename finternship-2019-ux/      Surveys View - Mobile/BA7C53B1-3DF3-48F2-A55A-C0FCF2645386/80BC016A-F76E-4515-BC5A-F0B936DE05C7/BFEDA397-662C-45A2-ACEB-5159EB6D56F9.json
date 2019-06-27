@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFEDA397-662C-45A2-ACEB-5159EB6D56F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1A84976-037E-417F-9BD6-C82C39E6905C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77110369-56F6-419E-8A8F-10474A574116",
+    "height": 16.91176470588235,
+    "width": 79.32359364409976,
+    "x": 11.98523985239853,
+    "y": 131.1601307189542
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Mobile / Multiple Choice - Unselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6E3FDE3-4110-4142-AA5E-59CBE09BF890",
+      "overrideName": "C3959284-3AF1-43F5-8445-9BEB5D42D2B0_stringValue",
+      "value": "Real World Projects"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.703125,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F2C99203-AFB7-4997-A830-36B5DA3A00DC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.03125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "805557D4-4066-444D-A058-464BC94D8110",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3F16A354-5A08-4286-8F0A-CE6AFD56D41F",
+  "verticalSpacing": 0
+}

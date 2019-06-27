@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9444FB9-874F-49B5-939E-2C977501B14E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD2C422B-18CE-44B3-B468-9140B281CAD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E02E983-AAF6-4394-ADB6-60F91396879C",
+    "height": 23,
+    "width": 311,
+    "x": 16,
+    "y": 131
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6C1C45C5-3E19-4810-BEDF-41CE4C4069CC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8F6FA8BE-F000-442F-A7C4-44D265437B00"
+    },
+    {
+      "class": "oval",
+      "id": "0F62B278-66D4-4AE7-8956-8D9FB0E259C0"
+    }
+  ],
+  "name": "Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECF8F290-3009-487A-BEC6-CF8D43D3D365",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

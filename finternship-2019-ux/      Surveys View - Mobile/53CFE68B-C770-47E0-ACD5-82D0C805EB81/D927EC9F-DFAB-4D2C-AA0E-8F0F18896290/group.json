@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D927EC9F-DFAB-4D2C-AA0E-8F0F18896290",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E07911F-8568-4832-B796-C6BAB04900D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77C1E8BE-C0C2-48C8-AAEC-365AE32E1D36",
+    "height": 37,
+    "width": 375,
+    "x": 0,
+    "y": 692
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DC4C321B-7E1B-479C-8CB4-981B9031B9B3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "643035E1-1633-4BC3-94C6-C642D8A768DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "72E831CF-8BE4-48DA-B6EA-6217CD835F2F"
+    },
+    {
+      "class": "text",
+      "id": "FA2641C4-8114-498D-938C-D879DB4FC685"
+    }
+  ],
+  "name": "Progress bar Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31F91672-7014-41FF-BC77-B3DD8BED71F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

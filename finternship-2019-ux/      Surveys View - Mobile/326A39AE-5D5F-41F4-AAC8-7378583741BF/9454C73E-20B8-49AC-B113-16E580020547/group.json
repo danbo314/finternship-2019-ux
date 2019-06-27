@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9454C73E-20B8-49AC-B113-16E580020547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8668AEA8-CD48-4502-8031-478DD6973961",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17F66E1E-885C-4129-9CBF-C5D78EBD84D8",
+    "height": 230,
+    "width": 203,
+    "x": 339,
+    "y": 291
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1150E6AD-5192-4889-8B03-EF971BC6DBC5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B126CE28-F85E-4FB3-BAC2-6FFA9287B9DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3A51FB8-28CA-4577-9617-882598EF26A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "282E5CAB-7258-4BF6-9AC6-955964DE07B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EA9DEE2-234D-4BBB-A69F-DE3C6DDDB920"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "516ED226-D799-4CD2-A5AF-868CC10C3DFF"
+    },
+    {
+      "class": "text",
+      "id": "AEE122D6-09F6-4CE3-A26B-B9EBA706BB5E"
+    }
+  ],
+  "name": "Question Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "03FC211E-5DE3-45DF-9631-22603E2A44EB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.03125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E4DF39A3-7CCC-4CED-9231-A986FA26C8F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

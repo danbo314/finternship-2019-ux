@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5B820EB-3F8A-41D3-8E59-3EAAF56AADA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E00A01F-5C4A-4753-B6FF-30E0D4E7C009",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AB26D5D-68ED-472F-B1DA-26CCCA8443E3",
+    "height": 63,
+    "width": 341,
+    "x": 17,
+    "y": 183
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Mobile Green Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E332D21-AC1B-4581-9D23-31E0FFEDC4E9",
+      "overrideName": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C_stringValue",
+      "value": "Check In"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "177E5197-43CC-4BBB-AC0D-774972B9C856",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F65D8F3-632E-448A-9220-1A8A363D3DF8",
+  "verticalSpacing": 0
+}

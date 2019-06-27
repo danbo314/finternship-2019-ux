@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "03E71B2D-D88F-489B-866E-108F2EE87E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAB3C7EB-FCFC-49DA-B770-88DE3692C95E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC9D19C9-28B5-4DE3-803E-E3B1BEBBE525",
+    "height": 256,
+    "width": 369,
+    "x": 3,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B79C4ACE-46AE-4631-9DEF-49A057A3489A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26DF92F4-D20E-4102-A5B6-D8DE63FCA24E"
+    },
+    {
+      "class": "group",
+      "id": "5C4C6233-E3E0-4330-8F3E-3AA942DA3459"
+    },
+    {
+      "class": "group",
+      "id": "F38711CC-3001-4B34-8946-6B8371DAA31E"
+    },
+    {
+      "class": "group",
+      "id": "9721DD78-4D59-4308-8F5C-5002AAB4163E"
+    },
+    {
+      "class": "group",
+      "id": "3110E726-28B4-4A72-8231-E5ACCC4D05EE"
+    },
+    {
+      "class": "group",
+      "id": "ED7DEDDB-D587-46C3-A494-712A53D6FD26"
+    },
+    {
+      "class": "group",
+      "id": "CBC7DE66-93C8-47AF-92E5-205FEDC1FBF8"
+    },
+    {
+      "class": "group",
+      "id": "7EED8B9D-86A0-4528-AB93-97174B66C154"
+    },
+    {
+      "class": "group",
+      "id": "2077EEC1-D66B-4672-9CF1-480C44B97697"
+    },
+    {
+      "class": "group",
+      "id": "9499ECEA-95CB-475B-B119-714F9E62E925"
+    }
+  ],
+  "name": "Keyboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD5B44EF-EDFA-4ABD-B528-2011C6C80DA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
