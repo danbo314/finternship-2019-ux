@@ -55,14 +55,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C7BDF988-0352-41D9-A1DD-3AFB328725CA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "035A3496-6A34-482A-99F5-C3122B616B0A"
-    },
-    {
       "class": "rectangle",
       "id": "FC3177C4-4534-44D3-8051-2D1F78C2BD12"
     },
@@ -73,10 +65,6 @@
     {
       "class": "group",
       "id": "4F17E273-1FF7-456B-8A21-4CB06F0000FF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B4614A09-20D3-46D7-A654-0B419310B941"
     },
     {
       "class": "symbolInstance",
@@ -91,12 +79,24 @@
       "id": "92C4561C-4603-40A7-A7F8-40F1C87843D4"
     },
     {
-      "class": "symbolInstance",
-      "id": "D778BBD0-4F48-44EE-9BEA-54EE1F212FBA"
-    },
-    {
       "class": "text",
       "id": "134BB488-9BC7-4880-A47C-ED7E1DC5662A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B193EB7B-EDA0-4C70-9403-2A4A84EDCA98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4614A09-20D3-46D7-A654-0B419310B941"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82923359-3817-4894-9AB5-7D2203524084"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FD81AE6-6109-47A8-A8B7-9807C7A98BCB"
     }
   ],
   "name": "Check-In - v4 with code",

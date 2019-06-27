@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gibson-SemiBold",
-              "size": 20
+              "size": 30
             }
           },
-          "kerning": 1.648809583333332,
+          "kerning": 2.473214374999998,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -38,11 +38,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "732AE625-A682-4E45-883E-44A55A8B788A",
+  "do_objectID": "78ADB004-EE82-4EAD-ACA6-6FB7ECF07533",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "19B82365-5C1E-4C14-9EBA-2D31CC087D03",
+    "do_objectID": "63C8C83A-BD0B-439A-95FD-E14B4998747A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "704BB74A-00C4-4959-9988-B5038EEEC1C6",
-    "height": 100,
-    "width": 268,
-    "x": 54,
-    "y": 244
+    "do_objectID": "14A69A8F-E1CC-4AE7-AA15-41345F231848",
+    "height": 84,
+    "width": 291,
+    "x": 42,
+    "y": 197
   },
-  "glyphBounds": "{{20, 2}, {227, 35}}",
+  "glyphBounds": "{{4, 3}, {281, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,31 +76,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1FB1EEC5-AA7B-4432-9840-63E5FCF82154",
+    "do_objectID": "665D1726-EFEA-4419-B907-5C7FBD10BC0C",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.4,
-          "green": 0.4,
-          "red": 0.4
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1FDCA44A-7E68-4347-9E6B-957D682DDB1B",
+      "do_objectID": "A6DD16D2-1A01-41E7-A800-056DE6861655",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -113,15 +95,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gibson-SemiBold",
-            "size": 20
+            "size": 30
           }
         },
-        "kerning": 1.648809583333332,
+        "kerning": 2.473214374999998,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         },
         "textStyleVerticalAlignmentKey": 1
       },

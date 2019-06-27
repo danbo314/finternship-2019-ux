@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "881BB44F-2C03-456C-B49C-43823975AA39",
+  "do_objectID": "2BD0E04A-C8D9-4CF5-866B-64963F762A86",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DB93C3DF-20BA-4B4D-AAC5-EC97C5AD332E",
+    "do_objectID": "A9596923-2D94-489A-97E1-D1205B28CB4C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FCAF1295-B03A-47F5-A171-684960A6BAB5",
-    "height": 812,
+    "do_objectID": "EE319814-AF7E-4DD2-965D-715C3908411A",
+    "height": 83,
     "width": 375,
-    "x": 1,
-    "y": 0
+    "x": 0,
+    "y": 729
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Device Bezels / iPhoneXS - Display Shape",
+  "name": "Tab Bar / Events Selected",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29997A18-31FF-43EB-A6A8-4ED19DD69631",
+      "overrideName": "FA59DC1E-BF4B-4D36-96E6-4B0AC4A9575F_symbolID",
+      "value": "EB9848F6-7E70-40C6-BF76-C7A033E820B5"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B92AF33B-8C8E-45F5-9325-B970DFFF4653",
+    "do_objectID": "4124B47A-B19E-4682-93FC-57061A2D1812",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B408DFA7-2FC5-4CF0-9BD0-1BC4AD254970",
+  "symbolID": "551AD440-19DD-4D9F-9F62-CA402C584312",
   "verticalSpacing": 0
 }

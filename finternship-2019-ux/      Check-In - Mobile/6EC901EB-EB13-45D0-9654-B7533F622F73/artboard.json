@@ -55,14 +55,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "385200BA-6051-46F8-BEFC-09F3A5F51F5B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA9DB57D-4784-4C32-9088-FD3D95769AEA"
-    },
-    {
       "class": "rectangle",
       "id": "8541C013-0D92-432F-8BE0-8BFB6649BCAF"
     },
@@ -80,10 +72,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "0334EF05-8C80-4B9F-8EE0-3A16AF739AED"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F3053FB1-DF6E-40AD-96F3-A76C87A04AD2"
     },
     {
@@ -96,7 +84,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "97A866EC-B1C1-43E3-B2FB-B588B42D689C"
+      "id": "AE1702EA-B99B-4594-B58C-011AF32BD070"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0334EF05-8C80-4B9F-8EE0-3A16AF739AED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E96D2B6A-05BD-4875-B4FF-85D1D869648D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A17BD0C0-9E23-4806-B44D-DEDDA0354F7A"
     }
   ],
   "name": "Check-In - v4",

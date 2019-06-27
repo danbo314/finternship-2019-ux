@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "2CF66412-E728-4153-B54D-F96E35A80D2C",
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -34,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "BC072F88-C26D-48AB-B315-12D23DED2D7D"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -55,24 +54,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "92D1C95A-4AA1-40FD-BF49-2A17630B30A4"
-    },
-    {
       "class": "symbolInstance",
-      "id": "5ACE6975-BE17-4E71-A99D-E5734B6F11D7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F4BC2D3-64AA-4760-8872-8283A569A803"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90997E21-5C47-4A3C-9FB3-66C281572CA5"
-    },
-    {
-      "class": "group",
-      "id": "BCEBEF7C-5836-458C-AD29-53AB5E8F2ACD"
+      "id": "AF1B18F3-A2CF-4C8E-AB70-56D94B2098A8"
     },
     {
       "class": "group",
@@ -87,12 +70,28 @@
       "id": "32D1580B-F31D-480C-B395-6875783E98C7"
     },
     {
-      "class": "group",
-      "id": "0D81AD90-416D-4977-9E20-106CB452B5D0"
+      "class": "symbolInstance",
+      "id": "7C1089F4-D84A-4381-A0F2-C295FEDB7168"
     },
     {
       "class": "symbolInstance",
-      "id": "7C1089F4-D84A-4381-A0F2-C295FEDB7168"
+      "id": "2BD0E04A-C8D9-4CF5-866B-64963F762A86"
+    },
+    {
+      "class": "rectangle",
+      "id": "663A0C3E-4529-4703-B5B2-50C8C098171A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CD49200-FE97-4EFB-A625-BEAF73C75496"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5ACE6975-BE17-4E71-A99D-E5734B6F11D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD61B1AF-B338-47EC-A763-A9951459F2EA"
     }
   ],
   "name": "Check-In - v2 with code",

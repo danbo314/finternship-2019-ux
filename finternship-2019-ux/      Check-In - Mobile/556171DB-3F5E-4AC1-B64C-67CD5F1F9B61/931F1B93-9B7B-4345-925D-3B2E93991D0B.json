@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "881BB44F-2C03-456C-B49C-43823975AA39",
+  "do_objectID": "931F1B93-9B7B-4345-925D-3B2E93991D0B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DB93C3DF-20BA-4B4D-AAC5-EC97C5AD332E",
+    "do_objectID": "057F5E7B-6D52-4856-A2C9-1C0CFEAF7A79",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FCAF1295-B03A-47F5-A171-684960A6BAB5",
-    "height": 812,
+    "do_objectID": "D826389E-1182-4490-B410-F4AE20589CB4",
+    "height": 60,
     "width": 375,
-    "x": 1,
-    "y": 0
+    "x": 0,
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Device Bezels / iPhoneXS - Display Shape",
+  "name": "Headers / Mobile (With Back Button)",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B92AF33B-8C8E-45F5-9325-B970DFFF4653",
+    "do_objectID": "BC8CE085-E4E0-47B1-80BF-AC9E76EE9166",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B408DFA7-2FC5-4CF0-9BD0-1BC4AD254970",
+  "symbolID": "4EF364B3-DBF2-4CDB-B4A5-40FA390E7E0F",
   "verticalSpacing": 0
 }
