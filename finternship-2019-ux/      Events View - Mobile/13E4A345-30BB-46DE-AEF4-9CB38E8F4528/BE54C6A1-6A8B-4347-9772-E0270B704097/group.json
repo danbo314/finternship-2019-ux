@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "14B1D37F-6D45-45D4-A91C-2E6A246E5089",
+  "do_objectID": "BE54C6A1-6A8B-4347-9772-E0270B704097",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "508CCB73-32C4-4AAA-B0E4-DEACD30CC37D",
+    "do_objectID": "DAD2F90F-57E4-4ABD-8899-6FF038306822",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,16 +15,16 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "8C6EEB0F-3EEB-4359-ADA9-6CF093F96701",
-    "height": 84,
-    "width": 343,
-    "x": 16,
-    "y": 535
+    "constrainProportions": true,
+    "do_objectID": "52A019A1-B82F-4424-80DD-5BB23F3D424B",
+    "height": 18,
+    "width": 24,
+    "x": 300,
+    "y": 660
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F0D0D9D3-A70B-4434-8335-A1A3FF61A869"
+    "do_objectID": "B9D76B5A-6C99-48EB-BE3B-4A05CF28A2FF"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,30 +33,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "7ACD13BC-0502-4C89-825C-202C26D7CCF1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "87F610A5-5F49-473A-AE63-2BABD2EE8B30"
-    },
-    {
-      "class": "text",
-      "id": "99850225-D2CA-4710-AE2C-528C17122F46"
+      "class": "shapePath",
+      "id": "9ACFB18B-1D92-4592-8122-9367B6A7F582"
     }
   ],
-  "name": "Cell 3 Copy",
-  "nameIsFixed": true,
+  "name": "ios-checkmark",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "882D5048-A318-47DA-AA49-54646E7EE9AA",
+    "do_objectID": "3AEA5271-54AB-44F8-8CF3-0FCBCBD90E5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

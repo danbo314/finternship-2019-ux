@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6EB57ABF-E906-4ACF-89A2-987C395C11C3",
+  "do_objectID": "A47E5B0B-1A71-471B-B990-0C8117A4984B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
-    "width": 375,
-    "x": 0,
-    "y": 195
+    "height": 52,
+    "width": 52,
+    "x": 31,
+    "y": 196
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgrounds / Mobile Stripes",
+  "name": "Icons / Calendar / No Month",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C08749CB-75AD-45FF-9BEC-5C9365C5B9D3",
+      "overrideName": "2A744DE3-D233-4039-9AAF-7F12ECCF1913_layerStyle",
+      "value": "CB0065B7-8AF5-4324-BADF-B0451ABEDFCA"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D9CB3B-179F-4C01-99EC-42C0AD0E50B6",
+  "symbolID": "8AD364BE-AAEF-4AFA-8829-F739AE3FC251",
   "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6EB57ABF-E906-4ACF-89A2-987C395C11C3",
+  "do_objectID": "DF307E0D-ED9E-4F0E-9DC2-37466FC6EDFF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "358E0BE2-8F7E-4082-8B34-AB694A00D73E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
+    "do_objectID": "D1F9EE57-6B4C-48F0-BBAE-61CCBA7B2609",
+    "height": 44,
     "width": 375,
     "x": 0,
-    "y": 195
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgrounds / Mobile Stripes",
+  "name": "Bars / Status Bar / iPhone / Light",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5D4F3793-55D1-41DC-B474-90FADA68FE2D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D9CB3B-179F-4C01-99EC-42C0AD0E50B6",
+  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
   "verticalSpacing": 0
 }

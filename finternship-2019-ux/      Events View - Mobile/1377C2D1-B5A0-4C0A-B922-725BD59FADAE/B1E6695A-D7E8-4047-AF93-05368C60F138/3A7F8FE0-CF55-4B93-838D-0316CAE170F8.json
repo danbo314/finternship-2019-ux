@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B603EB6-F760-4107-B5D8-8856FBBD55AA",
+  "do_objectID": "3A7F8FE0-CF55-4B93-838D-0316CAE170F8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "51294A4D-E002-4EA0-885B-6D92F6FE2A97",
+    "do_objectID": "70D34ADC-1D1E-46C3-B008-0B5A744A80F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "A653A020-C9C7-496E-81F7-8DD74709B433",
+    "constrainProportions": true,
+    "do_objectID": "6CE2CD59-0856-4126-A197-BFC32C211903",
     "height": 52,
     "width": 52,
-    "x": 39,
-    "y": 170
+    "x": 15,
+    "y": 16
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "Icons / Calendar / June",
   "nameIsFixed": false,
   "overrideValues": [
@@ -47,15 +47,15 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3449CF73-D1FC-4BE6-B48E-22C1C41FA227",
-      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_textStyle",
-      "value": "32BE07A5-D27C-438E-8FE8-FB424930FA77"
+      "do_objectID": "8C9A26A7-B24C-493B-91A5-927AE1E0FAA6",
+      "overrideName": "5F64BB23-C482-4EAE-8011-0A4CBF1CE2AC_layerStyle",
+      "value": "86EF025F-DB6C-4C80-ACA6-7104D5507C59"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C1A7C382-3AB8-47A8-A8B5-37F63A2EBDB3",
-      "overrideName": "5F64BB23-C482-4EAE-8011-0A4CBF1CE2AC_layerStyle",
-      "value": "86EF025F-DB6C-4C80-ACA6-7104D5507C59"
+      "do_objectID": "254E4F06-C745-48DD-A6CE-251D59534AB1",
+      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_textStyle",
+      "value": "32BE07A5-D27C-438E-8FE8-FB424930FA77"
     }
   ],
   "resizingConstraint": 63,
@@ -65,7 +65,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "45DC9C11-43A1-4753-95EB-3B29EA982356",
+    "do_objectID": "F08FCD7D-10B7-4DEF-A0DF-CFB6FF348D2B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

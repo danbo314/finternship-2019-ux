@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6EB57ABF-E906-4ACF-89A2-987C395C11C3",
+  "do_objectID": "08CB2189-6BFF-4F83-8931-11564F7D24CE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FC2BF526-10C8-4776-ABBB-64F20AD99854",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,20 +16,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
+    "do_objectID": "96ABD586-0F58-4E6A-92DC-05BD90C2284F",
+    "height": 812,
     "width": 375,
     "x": 0,
-    "y": 195
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgrounds / Mobile Stripes",
+  "name": "Device Bezels / iPhoneXS - Display Shape",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "965EB42E-ED4E-4361-95DB-C4843D84F9E2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D9CB3B-179F-4C01-99EC-42C0AD0E50B6",
+  "symbolID": "B408DFA7-2FC5-4CF0-9BD0-1BC4AD254970",
   "verticalSpacing": 0
 }

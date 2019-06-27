@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6EB57ABF-E906-4ACF-89A2-987C395C11C3",
+  "do_objectID": "61760E87-82E2-42B0-95F3-78E6430008AF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "90952263-1E8B-4B20-B792-85846288E9E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
+    "do_objectID": "32837BF4-B09C-4197-A37D-5C2755B007ED",
+    "height": 60,
     "width": 375,
     "x": 0,
-    "y": 195
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgrounds / Mobile Stripes",
+  "name": "Headers / Mobile (No Back Button)",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BD1BFD81-067C-4062-942A-412420E87DAF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D9CB3B-179F-4C01-99EC-42C0AD0E50B6",
+  "symbolID": "37917E80-0202-46A5-B366-344473429E7D",
   "verticalSpacing": 0
 }

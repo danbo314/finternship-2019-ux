@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 112,
+  "clippingMaskMode": 0,
+  "do_objectID": "61B4D463-D152-44B3-81C1-F8D7E340B973",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 375,
+    "x": 0,
+    "y": 3536
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "934769BB-C370-4DAD-9AD5-213742527A37"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8F7DF6F-9E4F-40B7-9346-83293DC77093"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D382C96-4989-4AA5-B9B6-62D567C17421"
+    }
+  ],
+  "name": "Tab Bar / iPhone X",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421/22DBBBE7-2068-4D23-B46A-2D0C0B3947C6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421/FB5F0B27-F71E-4C39-89A7-A7EF3787EBB7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421/3633A14C-BC0C-4E3F-BC07-76C76E700013_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421/A94166BF-AD27-42A3-B68E-06C9DB97CA7F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D2F32DE0-699F-44AA-8693-7D4170A1590F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

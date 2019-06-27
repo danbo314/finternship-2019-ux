@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B603EB6-F760-4107-B5D8-8856FBBD55AA",
+  "do_objectID": "929D3C04-6EC1-48A3-AB2E-A66778CCE033",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "51294A4D-E002-4EA0-885B-6D92F6FE2A97",
+    "do_objectID": "54D2A52A-7FA9-43CD-8CE9-D06723A00B0F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A653A020-C9C7-496E-81F7-8DD74709B433",
+    "do_objectID": "A330B0B5-6794-40A7-8EF3-CB3585E32947",
     "height": 52,
     "width": 52,
-    "x": 39,
-    "y": 170
+    "x": 15,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "Icons / Calendar / June",
   "nameIsFixed": false,
   "overrideValues": [
@@ -41,21 +41,21 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "F2D829A7-1176-46F9-B795-65F707679FE3",
-      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_stringValue",
-      "value": "23"
+      "do_objectID": "02F4AF0D-C00A-4CA8-93EB-A3E071287797",
+      "overrideName": "68E25206-88ED-415A-97B9-3DBF5577DE70_stringValue",
+      "value": "3"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3449CF73-D1FC-4BE6-B48E-22C1C41FA227",
-      "overrideName": "8FC207C7-46C6-4FEA-95F5-28108295F13A_textStyle",
-      "value": "32BE07A5-D27C-438E-8FE8-FB424930FA77"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C1A7C382-3AB8-47A8-A8B5-37F63A2EBDB3",
-      "overrideName": "5F64BB23-C482-4EAE-8011-0A4CBF1CE2AC_layerStyle",
+      "do_objectID": "6394B40A-113A-438B-93B9-BB6445F8F30D",
+      "overrideName": "1A164EBA-4E76-4EC6-BDA4-CE7806D18EF0_layerStyle",
       "value": "86EF025F-DB6C-4C80-ACA6-7104D5507C59"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4886E304-B8E3-4E9D-B53B-D1274AD7D9EA",
+      "overrideName": "68E25206-88ED-415A-97B9-3DBF5577DE70_textStyle",
+      "value": "32BE07A5-D27C-438E-8FE8-FB424930FA77"
     }
   ],
   "resizingConstraint": 63,
@@ -65,12 +65,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "45DC9C11-43A1-4753-95EB-3B29EA982356",
+    "do_objectID": "D85C8A8B-D6A6-4A4C-9157-F0CA4EBE330C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A099E7F0-9CCE-441B-8323-9ED27CE565F2",
+  "symbolID": "2F8FF5F7-972F-4E6D-9258-4985884EF4D5",
   "verticalSpacing": 0
 }

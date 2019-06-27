@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6EB57ABF-E906-4ACF-89A2-987C395C11C3",
+  "do_objectID": "A0C9A607-CD8A-4BBF-B7F8-F3736D3C7CBE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4021B6D4-E1E6-413E-9FD1-5791BE43E122",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 421,
+    "do_objectID": "36C9787F-F415-4DE0-953D-8A6B6539FEF9",
+    "height": 83,
     "width": 375,
     "x": 0,
-    "y": 195
+    "y": 729
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgrounds / Mobile Stripes",
+  "name": "Tab Bar / Events Selected",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29997A18-31FF-43EB-A6A8-4ED19DD69631",
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421_symbolID",
+      "value": "EB9848F6-7E70-40C6-BF76-C7A033E820B5"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AE483347-6331-49EF-8A8E-924D1DEBC567",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6D9CB3B-179F-4C01-99EC-42C0AD0E50B6",
+  "symbolID": "D2F32DE0-699F-44AA-8693-7D4170A1590F",
   "verticalSpacing": 0
 }
