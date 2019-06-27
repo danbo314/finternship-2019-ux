@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "B413E33E-45F4-4699-B49A-724528A13448",
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -34,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "C14F7EB7-DCA8-4862-AF36-B2328E10B747"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -55,14 +54,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4D2F554F-BA3D-48F9-B396-BFC976F99581"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "27D9B80E-F271-4407-A0E6-F43C4745DFB9"
-    },
-    {
       "class": "rectangle",
       "id": "511EBED6-9E99-4AA8-AE59-4D19436A3B3A"
     },
@@ -72,15 +63,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EDBA39A4-3DB2-479D-9336-2F88314359F9"
-    },
-    {
-      "class": "symbolInstance",
       "id": "8B52C61E-3BFE-4309-9D8C-CD3EAA53C659"
-    },
-    {
-      "class": "text",
-      "id": "8EDA8766-478E-4DEE-A4E2-2F77133976D1"
     },
     {
       "class": "text",
@@ -88,7 +71,27 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CB6DB572-FEA3-4C79-B46A-B498DC4838CB"
+      "id": "1B4FBB84-BB10-46F5-A78C-376A44FD4A13"
+    },
+    {
+      "class": "rectangle",
+      "id": "3FB86253-A1C5-4E8E-9530-2BDC40785A50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "125C0564-EC29-42D3-A9ED-A4D4D7DDD209"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDBA39A4-3DB2-479D-9336-2F88314359F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E654990-EDA9-4A28-BB1C-EF2739D40BD4"
+    },
+    {
+      "class": "text",
+      "id": "78ADB004-EE82-4EAD-ACA6-6FB7ECF07533"
     }
   ],
   "name": "Check-In - v1 with code",
