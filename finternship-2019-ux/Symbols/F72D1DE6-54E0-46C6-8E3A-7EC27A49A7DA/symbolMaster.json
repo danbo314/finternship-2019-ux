@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 118,
+  "changeIdentifier": 122,
   "clippingMaskMode": 0,
   "do_objectID": "F72D1DE6-54E0-46C6-8E3A-7EC27A49A7DA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -33,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +74,7 @@
       "id": "9F35513F-9389-4A2D-81C4-9455F5811163"
     }
   ],
-  "name": "Backgrounds / Mobile Stripes 50",
+  "name": "Backgrounds / Mobile Dark Stripes",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

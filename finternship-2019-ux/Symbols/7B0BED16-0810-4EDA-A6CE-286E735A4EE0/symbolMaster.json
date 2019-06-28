@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 109,
+  "changeIdentifier": 115,
   "clippingMaskMode": 0,
   "do_objectID": "7B0BED16-0810-4EDA-A6CE-286E735A4EE0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -65,8 +74,8 @@
       "id": "B21FA66D-3A29-4EE2-90D5-24FCF640D530"
     }
   ],
-  "name": "Backgrounds / Mobile Stripes",
-  "nameIsFixed": false,
+  "name": "Backgrounds / Mobile Default Stripes",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

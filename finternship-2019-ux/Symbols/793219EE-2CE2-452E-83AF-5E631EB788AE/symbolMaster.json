@@ -9,12 +9,21 @@
     "red": 0.9607843137254902
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2743,
+  "changeIdentifier": 3255,
   "clippingMaskMode": 0,
   "do_objectID": "793219EE-2CE2-452E-83AF-5E631EB788AE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -32,7 +41,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -50,18 +59,26 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "236CFEDF-B825-454B-A49D-DDD83F1E5E0C"
     },
     {
-      "class": "group",
-      "id": "FFC5BF86-8454-469D-B350-3A40E2FEFE05"
+      "class": "shapePath",
+      "id": "832912A0-2553-40DE-876C-ECE638A971EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED6ECF6E-2CDB-4877-91D6-D20247450D58"
+    },
+    {
+      "class": "shapePath",
+      "id": "4243F66F-33CB-4F18-A336-924FE75A454E"
     }
   ],
-  "name": "Backgrounds / Default",
+  "name": "Backgrounds / Web Default Stripes",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

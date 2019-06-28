@@ -7,6 +7,15 @@
     "_class": "exportOptions",
     "do_objectID": "2300F0A6-5DAB-4E77-AE9E-92BD7571710A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,7 +24,7 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "ADD6E809-151D-4195-A488-3BB6D23A82C6",
     "height": 311,
     "width": 593,

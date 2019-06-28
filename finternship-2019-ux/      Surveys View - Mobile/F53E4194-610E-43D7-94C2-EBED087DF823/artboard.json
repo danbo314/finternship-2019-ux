@@ -35,7 +35,7 @@
     "do_objectID": "475BB61C-3103-431F-97B9-5623C3511C81"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -89,6 +89,14 @@
     {
       "class": "group",
       "id": "7A891CFC-C7DC-4056-90AD-1B6546227D0E"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "F94CB8F8-ED3D-4BFA-9AD0-E9A0EFD08800"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "1FAC04E2-9476-4519-9797-249B46913833"
     }
   ],
   "name": "Survey View - Progress Bar w/ Keyboard",

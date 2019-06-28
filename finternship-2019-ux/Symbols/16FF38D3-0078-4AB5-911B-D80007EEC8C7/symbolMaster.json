@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 182,
+  "changeIdentifier": 789,
   "clippingMaskMode": 0,
   "do_objectID": "16FF38D3-0078-4AB5-911B-D80007EEC8C7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -50,33 +59,28 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "8959E657-C484-49AB-9FAD-095ABEE0C23A"
-    },
-    {
-      "class": "rectangle",
-      "id": "DB2F8570-A16F-421B-BC75-6BA3FC1FCBCF"
-    },
     {
       "class": "group",
       "id": "CD831072-C42E-416C-8DB3-54BA05FF6A26"
     },
     {
-      "class": "rectangle",
-      "id": "B0462C60-8B2F-4D0C-B7D4-5C574E066158"
+      "class": "shapePath",
+      "id": "81508A52-2ED9-4E21-B823-BB09887685DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C17A429C-9506-4D92-96FD-22DF40BBE23A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5DC0B967-4892-4ACB-868F-BE2C591BCE8F"
     }
   ],
-  "name": "Backgrounds / Logo",
+  "name": "Backgrounds / Web Large Stripes",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B5ED5C22-BF89-42E1-831A-ECA544EBA62E_symbolID"
-    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

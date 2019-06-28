@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -101,6 +101,14 @@
     {
       "class": "group",
       "id": "AF257A4C-898E-4A36-AF33-C28231B130BE"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "77711B87-5090-4933-8AB5-E6ACB062893F"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7176C61F-5B93-41F1-9007-6DC789CF12F0"
     }
   ],
   "name": "Survey View - Faces w/ Progress Bar",
