@@ -52,15 +52,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "8CE2B9CA-D3A8-4B80-8ED5-2288A2357F36"
     },
     {
+      "class": "symbolInstance",
+      "id": "D7C212A3-A104-4A09-A08D-B4F5F8FB96CE"
+    },
+    {
       "class": "group",
-      "id": "CC54359D-AFB3-43C9-85C8-59AFA004AFD2"
+      "id": "72465D37-858B-430B-844A-8590E8BBFF64"
     },
     {
       "class": "group",

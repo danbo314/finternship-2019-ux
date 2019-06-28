@@ -52,23 +52,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "group",
-      "id": "1313B673-0046-4DBC-8C1E-35FAF52D9B7F"
-    },
     {
       "class": "symbolInstance",
       "id": "59E40934-73D3-4320-82CC-FCB7AF7A49C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8D65B3E-78EF-48BB-8319-3DB347722D97"
     },
     {
       "class": "text",
       "id": "9E320A9B-5AA5-4F7D-8991-BBD437BC2EBE"
     },
     {
-      "class": "group",
-      "id": "B007FFD7-21DA-4E8E-9A3A-2012C57E37A8"
+      "class": "rectangle",
+      "id": "D6A238A3-DC48-4D42-A804-E89517B5DE23"
     },
     {
       "class": "symbolInstance",
