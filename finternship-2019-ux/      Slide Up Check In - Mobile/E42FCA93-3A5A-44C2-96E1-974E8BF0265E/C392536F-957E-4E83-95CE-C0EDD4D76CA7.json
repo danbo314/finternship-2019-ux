@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A0C9A607-CD8A-4BBF-B7F8-F3736D3C7CBE",
+  "do_objectID": "C392536F-957E-4E83-95CE-C0EDD4D76CA7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4021B6D4-E1E6-413E-9FD1-5791BE43E122",
+    "do_objectID": "75E44611-64E5-4677-BC1B-60E1F93F15AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "36C9787F-F415-4DE0-953D-8A6B6539FEF9",
-    "height": 83,
-    "width": 375,
-    "x": 0,
-    "y": 729
+    "do_objectID": "D58A351C-160A-4F26-A84D-7764EF363368",
+    "height": 63,
+    "width": 341,
+    "x": 17,
+    "y": 183
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tab Bar / Events Selected",
+  "name": "Buttons / Mobile Green Button",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "29997A18-31FF-43EB-A6A8-4ED19DD69631",
-      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421_symbolID",
-      "value": "EB9848F6-7E70-40C6-BF76-C7A033E820B5"
+      "do_objectID": "655FEC10-F8E8-4382-B5FF-54567FEB4FAB",
+      "overrideName": "DD6B0D61-6920-48C6-90F0-18BCABA95AA6_stringValue",
+      "value": "Check In"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AE483347-6331-49EF-8A8E-924D1DEBC567",
+    "do_objectID": "22D8A9A1-7B3B-4000-9971-D03EA5B5FA05",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D2F32DE0-699F-44AA-8693-7D4170A1590F",
+  "symbolID": "B9670944-3B73-4166-A981-05D4DB4F334E",
   "verticalSpacing": 0
 }
