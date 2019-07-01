@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "55C01E55-D13B-4FF1-A272-2A719A277A75",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "height": 60,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 37
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,8 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
+  "layerListExpandedType": 0,
+  "name": "Headers / Mobile (With Back Button)",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
+  "symbolID": "4EF364B3-DBF2-4CDB-B4A5-40FA390E7E0F",
   "verticalSpacing": 0
 }

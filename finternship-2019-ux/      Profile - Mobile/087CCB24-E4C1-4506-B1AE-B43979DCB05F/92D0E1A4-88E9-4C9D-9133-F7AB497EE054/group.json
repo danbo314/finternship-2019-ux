@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "92D0E1A4-88E9-4C9D-9133-F7AB497EE054",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "904AB7F8-F32A-438C-B6C3-8EFBB52C56A3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,35 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "F749D7B3-371C-4545-8139-78CB193B94EA",
+    "height": 491,
+    "width": 330,
+    "x": 22,
+    "y": 210
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D9077861-67D7-424C-86FF-EFE88D5E3A14"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "50735E50-5EBD-4C3B-B6CD-16393562DCFB"
+    }
   ],
+  "name": "Top Bar - Mobile (With Back Button)",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "DF27BB5F-D321-4FEF-8291-7F80950A96D7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
-  "verticalSpacing": 0
+  }
 }

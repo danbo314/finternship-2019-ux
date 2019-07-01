@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "1DC9B18F-B102-4B48-8673-63D48EDC6489",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "79EE506B-5014-45F9-B259-031293B2BB9A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,7 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "do_objectID": "5BEA2097-8346-4ECD-9CFA-D0360A12E1CF",
+    "height": 812,
     "width": 375,
     "x": 0,
     "y": 0
@@ -25,10 +27,10 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
+  "layerListExpandedType": 0,
+  "name": "Device Bezels / iPhoneXS - Display Shape",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "037D2A89-D307-4919-9A1E-008382B5EC39",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
+  "symbolID": "B408DFA7-2FC5-4CF0-9BD0-1BC4AD254970",
   "verticalSpacing": 0
 }

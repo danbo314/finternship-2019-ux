@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "78833F1F-EA83-45B5-8D21-CAB140FDB93D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 182,
+    "width": 182,
+    "x": 96,
+    "y": 119
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F07E3449-B95B-4EA0-97E5-6C8786A1CE7B"
+    },
+    {
+      "class": "oval",
+      "id": "94EA480F-1AA0-4B51-AB21-975339C80400"
+    },
+    {
+      "class": "group",
+      "id": "B23A7D8C-D68B-4803-9A6A-75E0C998AA5F"
+    }
   ],
+  "name": "Profile Picture",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,7 +57,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
-  "verticalSpacing": 0
+  }
 }

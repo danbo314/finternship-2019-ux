@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4ABD261-270A-4A32-98AA-BF6188A17339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "909BF3DB-7627-4C82-A667-94E821E60818",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3837520B-36FB-49AE-982B-2FFF6AB1BB88",
+    "height": 63,
+    "width": 210,
+    "x": 82,
+    "y": 595
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Mobile Green Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7740F727-7013-4D14-BF8A-AFEB3AD7993B",
+      "overrideName": "F3FCB033-DB2B-4F94-BCDC-B3B8C0693D4C_stringValue",
+      "value": "Sign Out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E5E4B87-AC0D-439B-BAA6-5C6B8D4DED6B",
+      "overrideName": "9DB289E2-A971-4BDB-92EA-D51A3AB7A5E1_layerStyle",
+      "value": "5C514FB1-3D7D-40D5-8ADE-C45F963384BD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D8DC6B48-9342-4B9E-A5A7-14D77657C41C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F65D8F3-632E-448A-9220-1A8A363D3DF8",
+  "verticalSpacing": 0
+}

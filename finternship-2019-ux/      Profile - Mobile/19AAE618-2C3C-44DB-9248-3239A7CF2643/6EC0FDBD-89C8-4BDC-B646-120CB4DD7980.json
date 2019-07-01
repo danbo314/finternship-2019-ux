@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "6EC0FDBD-89C8-4BDC-B646-120CB4DD7980",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 63,
+    "width": 210,
+    "x": 82,
+    "y": 639
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,10 +27,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
+  "layerListExpandedType": 0,
+  "name": "Buttons / Mobile Green Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBC4345E-D128-48C8-8065-ABF33D1427A7",
+      "overrideName": "C94B0631-605A-4A60-919F-E91158333C1E_stringValue",
+      "value": "Sign Out"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
+  "symbolID": "3D8E8205-1FA6-4741-A474-DF2C0AD9FB8D",
   "verticalSpacing": 0
 }

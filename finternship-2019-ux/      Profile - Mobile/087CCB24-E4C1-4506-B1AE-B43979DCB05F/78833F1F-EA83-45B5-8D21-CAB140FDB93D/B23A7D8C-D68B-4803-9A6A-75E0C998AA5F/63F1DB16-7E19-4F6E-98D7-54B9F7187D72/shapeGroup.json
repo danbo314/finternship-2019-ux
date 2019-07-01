@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0F2A8480-D193-48C3-914A-FE89D1552D67",
+  "do_objectID": "63F1DB16-7E19-4F6E-98D7-54B9F7187D72",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 182,
-    "width": 182,
-    "x": 96,
-    "y": 119
+    "height": 50,
+    "width": 58.33333333333334,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "88DD1E19-2510-4888-9ABE-C45655AAE45B"
+      "class": "shapePath",
+      "id": "C18998A9-C40C-4D54-8BF7-D59617262A58"
     },
     {
-      "class": "bitmap",
-      "id": "D815517E-3C76-407B-911F-3DAC1DB9DA25"
+      "class": "shapePath",
+      "id": "9AF9F3D5-2F3E-4430-A046-D1EF8DC22517"
     }
   ],
-  "name": "photo",
-  "nameIsFixed": true,
+  "name": "Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -50,8 +50,27 @@
   "style": {
     "_class": "style",
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
-  }
+    "windingRule": 0
+  },
+  "windingRule": 0
 }

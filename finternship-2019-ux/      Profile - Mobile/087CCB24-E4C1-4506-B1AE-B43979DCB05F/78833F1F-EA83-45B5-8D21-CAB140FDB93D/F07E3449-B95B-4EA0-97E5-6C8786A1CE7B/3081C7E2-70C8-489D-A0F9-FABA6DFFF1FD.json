@@ -1,10 +1,12 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "3081C7E2-70C8-489D-A0F9-FABA6DFFF1FD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0E928EC7-E76C-45EE-9FB4-87EC55842742",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -12,38 +14,41 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 44,
-    "width": 375,
+    "constrainProportions": true,
+    "do_objectID": "F26F2066-C2E4-45BD-AE14-96758A9FC1EC",
+    "height": 242,
+    "width": 182,
     "x": 0,
-    "y": 0
+    "y": -4
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/01858ab4e083f10b1670251973c476b4e6d5e479.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2F2A20EA-2404-45D4-8F10-A4FBF9CB0709",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
-  "verticalSpacing": 0
+  }
 }

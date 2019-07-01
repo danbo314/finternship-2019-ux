@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "232A16E4-751D-4418-833B-B1711AC12CE5",
+    "do_objectID": "B68FA45A-F1D7-4F69-8556-3C0DA6478535",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "19AAE618-2C3C-44DB-9248-3239A7CF2643",
+  "do_objectID": "087CCB24-E4C1-4506-B1AE-B43979DCB05F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9E359622-3463-4F13-9ADD-ADA962882D4B",
+    "do_objectID": "FD0C060E-B4F7-46B9-BE88-CF7F48130DE0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4C4C5C42-8D62-472B-86A3-1C994D0946D5",
+    "do_objectID": "31D6862C-20E2-4284-8C3F-1606535B132D",
     "height": 812,
     "width": 375,
-    "x": -426,
+    "x": 49,
     "y": -408
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "82EFF104-752A-4A85-8F91-831FCF8368B5"
+    "do_objectID": "4DA36E59-E6B6-45A3-BC06-AE1D15D8D4D7"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A0C7CC7D-DDED-4D0D-91AB-8707250C173F",
+    "do_objectID": "0E16D710-2198-43FA-80D6-E2353C9B555D",
     "guides": [
     ]
   },
@@ -56,42 +56,38 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "2CE98BDD-D974-42B6-B144-4F08878948F1"
+      "id": "3FEAE4D3-BC59-4CD7-AE9D-7DAFB0DA3B35"
     },
     {
       "class": "group",
-      "id": "6830EFAE-5DDD-4F43-A1AC-E8EF90B82BD4"
+      "id": "92D0E1A4-88E9-4C9D-9133-F7AB497EE054"
     },
     {
       "class": "symbolInstance",
-      "id": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563"
+      "id": "5B9FD609-1770-417F-AF52-36A9E6BF6B80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A037A72-A271-46EE-8065-EF0A38C7BBA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0B0C34F-305E-4DF3-8910-15C936C13051"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF564460-0F9F-42B3-98C3-24794962A1BF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DC9B18F-B102-4B48-8673-63D48EDC6489"
     },
     {
       "class": "group",
-      "id": "0F2A8480-D193-48C3-914A-FE89D1552D67"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "703EE764-405A-4CF9-9FE0-57FD3392CEC4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8E6B6A18-5A55-44DD-B85D-812ADC8057DB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "55C01E55-D13B-4FF1-A272-2A719A277A75"
-    },
-    {
-      "class": "text",
-      "id": "8A1C4ACD-27EE-43C1-A403-409B14DF0949"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6EC0FDBD-89C8-4BDC-B646-120CB4DD7980"
+      "id": "78833F1F-EA83-45B5-8D21-CAB140FDB93D"
     }
   ],
-  "name": "Mobile Profile",
+  "name": "Mobile Profile Camera",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -107,7 +103,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "D33B6D62-ACD1-4B0D-8CEC-AD0BD9824A3C",
+    "do_objectID": "A1F5C3BA-DFC5-45D6-B0A1-2E52A112A10D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -116,7 +112,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B29E8847-CF94-4129-8266-35CE29104648",
+    "do_objectID": "3370D5EC-91D8-48B0-9C8A-B4B95506E15F",
     "guides": [
     ]
   }

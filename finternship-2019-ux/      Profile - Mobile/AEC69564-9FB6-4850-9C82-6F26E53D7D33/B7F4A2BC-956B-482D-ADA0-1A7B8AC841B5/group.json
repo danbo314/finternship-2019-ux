@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6830EFAE-5DDD-4F43-A1AC-E8EF90B82BD4",
+  "do_objectID": "B7F4A2BC-956B-482D-ADA0-1A7B8AC841B5",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2EE82751-9D76-4A1B-B794-2DB074BF76A9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 718,
-    "width": 330,
-    "x": 22,
-    "y": 210
+    "do_objectID": "2F15B717-E721-42E4-B9E4-8E73E30FA8E4",
+    "height": 245,
+    "width": 375,
+    "x": 0,
+    "y": 161
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3174FC3E-6621-488D-9CEF-F00C80C17E20"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,7 +37,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C4CD2B31-6EB9-42B0-B4C7-8E9028291694"
+      "id": "F96C0B11-5F5C-4F7C-A013-6087B322A3E0"
     }
   ],
   "name": "Top Bar - Mobile (With Back Button)",
@@ -45,8 +48,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "91198EC9-1591-41F0-B570-443FAD4B7E13",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1090C1E5-7CF6-49B0-BEB0-710DD6F48563",
+  "do_objectID": "CF564460-0F9F-42B3-98C3-24794962A1BF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "98CB380A-F62B-4ED7-9C04-E0B7AD389B92",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "do_objectID": "939606E2-B1BF-4AAA-BBA5-9F13E44F6392",
+    "height": 83,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 729
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,10 +29,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Bars / Status Bar / iPhone / Light",
+  "layerListExpandedType": 0,
+  "name": "Tab Bar / Events Selected",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29997A18-31FF-43EB-A6A8-4ED19DD69631",
+      "overrideName": "9D382C96-4989-4AA5-B9B6-62D567C17421_symbolID",
+      "value": "AA734C94-65E6-4470-9DF9-8680A0A258DE"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6C855E35-1764-4E9B-8D0E-9DD2D7343F86",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E18D9C5-DEB6-4A10-85DE-B00990097836",
+  "symbolID": "D2F32DE0-699F-44AA-8693-7D4170A1590F",
   "verticalSpacing": 0
 }
