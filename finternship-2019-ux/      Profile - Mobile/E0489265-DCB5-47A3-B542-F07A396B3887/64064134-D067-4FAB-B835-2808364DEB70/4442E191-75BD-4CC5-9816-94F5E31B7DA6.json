@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4442E191-75BD-4CC5-9816-94F5E31B7DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BE2734B-3848-4D1F-B24D-50BDBE3CFD07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25BD5563-F902-4941-A4DC-C1B43ADB84FF",
+    "height": 55,
+    "width": 298,
+    "x": 16,
+    "y": 198
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Mobile / Input / Default Edited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2D15180-E9E7-4B9A-B395-8CBE69E8D5AD",
+      "overrideName": "95A8FCC5-CA44-4205-ADB2-BAD40876C0F1_stringValue",
+      "value": "01234567"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04CD3918-C602-4316-A19F-DD82F67CCB08",
+      "overrideName": "198E73C4-D93A-4283-BE91-3819EE4B3F35_stringValue",
+      "value": "Student ID"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89CA606C-3018-4DA8-8809-D85C8F8F5F2F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CCC880F-823F-41CB-84FE-2FECAAEB6A24",
+  "verticalSpacing": 0
+}

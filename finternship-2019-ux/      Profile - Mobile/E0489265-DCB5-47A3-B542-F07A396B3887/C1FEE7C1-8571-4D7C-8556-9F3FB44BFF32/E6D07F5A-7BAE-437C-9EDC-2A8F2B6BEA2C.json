@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6D07F5A-7BAE-437C-9EDC-2A8F2B6BEA2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96C3961E-8550-45A5-BF00-B732B335C342",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "847CA8B3-BDAD-4740-9290-363FBB52A24A",
+    "height": 60,
+    "width": 375,
+    "x": 1,
+    "y": 37
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headers / Mobile (With Back Button)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AFE5119-2FD5-4519-9169-33D34E35124C",
+      "overrideName": "E359F896-C2E3-41E3-87F3-88C7C1B79924/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
+      "value": "Save"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAC6927D-8C5E-4B85-AA3F-09847D16B731",
+      "overrideName": "27C9A2D4-C9C1-4C20-A9AE-D38A73B37541/A0DCB727-B361-426C-AA3B-645979832755_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A06C88B4-D066-4C51-8C75-A3B223B298FF",
+      "overrideName": "27C9A2D4-C9C1-4C20-A9AE-D38A73B37541/47EFC234-458A-4B23-A46A-665A7F40B9ED_layerStyle",
+      "value": "86EF025F-DB6C-4C80-ACA6-7104D5507C59"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00022DA1-4C4A-4838-8916-69F09682099F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "20999052-6AC1-4840-8BED-E86A23804E28",
+  "verticalSpacing": 0
+}

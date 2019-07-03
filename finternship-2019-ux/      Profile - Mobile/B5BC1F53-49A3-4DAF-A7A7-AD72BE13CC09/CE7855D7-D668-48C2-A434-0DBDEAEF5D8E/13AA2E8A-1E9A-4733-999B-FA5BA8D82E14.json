@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13AA2E8A-1E9A-4733-999B-FA5BA8D82E14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 298,
+    "x": 16,
+    "y": 198
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms / Mobile / Input / Default Edited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9BEA77A-B514-4FE5-B5BF-305EB7FE6DBF",
+      "overrideName": "C4FA4A42-EF64-4F26-8949-6DD3FFF39ED5_stringValue",
+      "value": "Student ID"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B10F9B78-25DD-4CF7-8090-07D5B91ED54C",
+      "overrideName": "37FA6AF6-DC97-455A-B4C8-D0C9DD65555E_stringValue",
+      "value": "01234567"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48291FAA-0DDE-4A60-B97B-FF189983D93D",
+  "verticalSpacing": 0
+}

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Light",
+              "name": "Gotham-Light",
               "size": 25
             }
           },
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4AAB2532-85DA-47D7-A62B-B9D4AAF11BA6",
-    "height": 30,
-    "width": 14,
-    "x": 8.999999999999847,
-    "y": 2.999999999999961
+    "height": 25,
+    "width": 17,
+    "x": 7.499999999999847,
+    "y": 6.999999999999961
   },
-  "glyphBounds": "{{0, 11}, {13, 18}}",
+  "glyphBounds": "{{1, 6}, {14, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -101,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Light",
+            "name": "Gotham-Light",
             "size": 25
           }
         },

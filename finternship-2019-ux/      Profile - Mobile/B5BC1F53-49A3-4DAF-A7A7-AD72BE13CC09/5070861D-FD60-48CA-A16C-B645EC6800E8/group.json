@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5070861D-FD60-48CA-A16C-B645EC6800E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C459CA84-F022-4D5D-9D73-A7EF9FC0B691",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EA114CA-C2A3-4AFF-A2A3-954693569FD7",
+    "height": 422,
+    "width": 330,
+    "x": 22,
+    "y": 491
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "481EE06D-4C21-4677-B927-84030DDF3D59"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5F121AE-4032-4A7D-9ADD-CAA0DE4236C0"
+    },
+    {
+      "class": "text",
+      "id": "504A1BA0-1EC6-47C7-805B-F19A571F9B45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9183CDF4-3701-433B-BCC9-AC348E6AC7F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CF2BFE3-32EF-46FA-9E86-E079CFC23676"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B59783B7-C44F-4491-899C-9BE75F60332A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6EC7635-7A31-4826-B927-B7192072D1DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B81AA24-5982-439C-B2B2-DB26EC5DC16D"
+    }
+  ],
+  "name": "Education Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFC93D34-1816-4BD0-9EB9-4D339472AF18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

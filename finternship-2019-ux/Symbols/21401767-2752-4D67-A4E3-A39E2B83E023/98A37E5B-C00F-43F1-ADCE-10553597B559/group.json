@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98A37E5B-C00F-43F1-ADCE-10553597B559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F552CD3D-BFB2-4DA4-9F0A-C347880C9260",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B48F87C9-3A26-45E7-8C7C-25F319B0E75F",
+    "height": 32,
+    "width": 32,
+    "x": 321,
+    "y": 14
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "478077CE-D00C-41E4-9542-F3918C35B431"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DF9BC1B-1E4B-4900-865C-10A198B26EEE"
+    }
+  ],
+  "name": "md/contact",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "405BD9A6-97F2-4D9A-B132-0B04532EBD89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A0E4BC57-7FB5-4D94-B7DA-7363294F343D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0489265-DCB5-47A3-B542-F07A396B3887",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFDBE2C2-E23C-4DE5-B6A7-A68CEF28E943",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C84F32CC-A537-42E9-8B5B-18044160309C",
+    "height": 1020,
+    "width": 375,
+    "x": 49,
+    "y": -1651
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "133A025D-FD19-4776-BDF6-35413A702393"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "07B8481E-5F64-496B-ABF9-83BE2241DE13",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F6162038-6147-4BBF-8D61-3D0B79A942B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0C7C433-A323-432B-94A1-F16A84C35793"
+    },
+    {
+      "class": "group",
+      "id": "64064134-D067-4FAB-B835-2808364DEB70"
+    },
+    {
+      "class": "group",
+      "id": "E1848689-B03F-4ED5-AD2D-425FF18D486F"
+    },
+    {
+      "class": "group",
+      "id": "C1FEE7C1-8571-4D7C-8556-9F3FB44BFF32"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "C4977649-84EA-412C-9975-3B8E127CBBD5"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "F1694760-C616-4B4C-A833-9BF8ED185062"
+    }
+  ],
+  "name": "Mobile Profile - Edit",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CE84EE3-1138-4CAA-82A0-9103CD57210F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7CF4CDD6-1D36-4809-9C68-F0AC799F775B",
+    "guides": [
+    ]
+  }
+}

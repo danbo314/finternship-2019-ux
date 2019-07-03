@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C83FE737-E8C6-435A-BEE9-9F9AB8D189FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C738C15F-EDA2-43EF-AEE8-903D139AD241",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F25D1475-17BC-48CD-A14C-149A7CA80424",
+    "height": 17,
+    "width": 10,
+    "x": 13,
+    "y": 22
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CA092867-D7D3-41F9-B631-08971FD7F0B1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "96AA7DED-F0B4-4230-887F-9CD488DD3645"
+    }
+  ],
+  "name": "_ionicons_svg_ios-arrow-back",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9A679C8F-D775-417F-8B8F-CA3CC61AFD68",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "59E60C71-B580-48EC-A7B8-61E06B918B47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

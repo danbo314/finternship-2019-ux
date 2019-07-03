@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FE93396-2B81-4297-8B7E-5FAB34873B10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F62E2BCD-2A24-46B2-AD62-049108A53A1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3E578B2-0505-449D-A9FF-C71DEBE94A72",
+    "height": 63,
+    "width": 210,
+    "x": 81,
+    "y": 937
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Mobile Green Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBC4345E-D128-48C8-8065-ABF33D1427A7",
+      "overrideName": "C94B0631-605A-4A60-919F-E91158333C1E_stringValue",
+      "value": "Sign Out"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C93A2D4-D3F4-4C68-B0A9-D89C909B1364",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D8E8205-1FA6-4741-A474-DF2C0AD9FB8D",
+  "verticalSpacing": 0
+}

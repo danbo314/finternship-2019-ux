@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3C1A37CC-A051-4118-96D4-64314E3D4BAA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 713,
+  "clippingMaskMode": 0,
+  "do_objectID": "21401767-2752-4D67-A4E3-A39E2B83E023",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7977F0C-75A1-4DFA-9E4C-258B75087840",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E2A7558-8113-4216-BD93-8C72A4ED82D5",
+    "height": 60,
+    "width": 375,
+    "x": 6800,
+    "y": 320
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CD120803-6B5A-4740-A0E7-A6896D698430"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F8389DDC-56B0-4A3D-85F1-0E6526C58C8A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DDCEC829-67C9-4BC4-94D6-CE5B53D65C93"
+    },
+    {
+      "class": "group",
+      "id": "98A37E5B-C00F-43F1-ADCE-10553597B559"
+    },
+    {
+      "class": "group",
+      "id": "C83FE737-E8C6-435A-BEE9-9F9AB8D189FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27903336-FE82-4156-AA63-353BB7FD5F52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B02BAF8-A07A-4CDA-9187-80D8ED1D6CE3"
+    }
+  ],
+  "name": "Headers / Mobile (With Back & Action Button)",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "27903336-FE82-4156-AA63-353BB7FD5F52_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "96AA7DED-F0B4-4230-887F-9CD488DD3645_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5B02BAF8-A07A-4CDA-9187-80D8ED1D6CE3_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E853E93B-5D9E-48A1-9A2D-1ED65BEFB9BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "16A1EF7C-C2AD-4242-9BDE-607541F4FE4D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9FE0346F-A0E1-4BCB-9C58-4E8621E62DD9",
+    "guides": [
+    ]
+  }
+}
