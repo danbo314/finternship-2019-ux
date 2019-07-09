@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0,
+    "do_objectID": "91F49005-11E4-40D9-9D3E-0A9E821ECEF9",
     "green": 0,
     "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F053AE22-011E-418E-A88E-95BCC8F6A54E",
+  "do_objectID": "570D7BDB-1C04-4391-B6FC-8B999E5B36A0",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "34966B78-C885-4175-8A1A-461FFCDEE046",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,13 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "DD70C8F5-E4DB-4449-9268-70A640706B31",
     "height": 137,
     "width": 137,
-    "x": -1164,
+    "x": -927,
     "y": -164
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "229B1CC0-409E-4E0A-8B08-E3F71BCDCEB9"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -36,6 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "861B6BC9-A8E7-4954-A03E-4BF9CEB1D046",
     "guides": [
     ]
   },
@@ -51,14 +56,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C9AC95B5-B40B-433C-BEFE-B253A3E59B67"
+      "id": "960BFA9E-D7A9-4A83-85E0-F19C66BCD298"
     },
     {
       "class": "symbolInstance",
-      "id": "B1DE10DB-AB4A-4651-9601-A88D8116A328"
+      "id": "5836A495-914A-4C3E-AE99-11538DB925AB"
     }
   ],
-  "name": "App Icon v1",
+  "name": "App Icon v2",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,6 +72,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "1C13ED04-0440-4E07-BD90-D048616D10A1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -75,6 +81,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "FB042D82-8620-4989-BAC2-727EBDA942F0",
     "guides": [
     ]
   }
