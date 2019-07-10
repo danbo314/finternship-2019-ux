@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0,
-    "do_objectID": "888F4ACA-55D7-4E60-9F7E-E713083038D5",
+    "do_objectID": "E2090273-B641-494D-8089-4191F569B30E",
     "green": 0,
     "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80BF1890-5EC9-487E-B48A-F8297F4F5B9D",
+  "do_objectID": "A678605E-E8D9-480D-A2C2-C47D264BD37D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "06A8CA42-ED8F-4D3A-A580-55DEF540C23A",
+    "do_objectID": "663B7C19-254F-4A29-ADF9-F0EDB686933C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5E15F86C-7423-45EB-83CA-293BA5349C51",
+    "do_objectID": "E69D97A5-F1EC-46D3-A209-5981C29CFED9",
     "height": 137,
     "width": 137,
-    "x": -927,
+    "x": -216,
     "y": -240
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "2B85686E-4A2A-438A-A041-6E01635F70E1"
+    "do_objectID": "85D0ADD7-0251-4BE6-A33E-309E7FD324DA"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -40,8 +40,9 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8DBD0E7D-6C3E-49A7-9A45-ACA63EB57E44",
+    "do_objectID": "2F44D06C-B1AB-4E2E-A0DC-B5C9971F8B39",
     "guides": [
+      68
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -56,18 +57,18 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "121197EB-473F-4BA3-A85E-2D9D18DDE7D7"
+      "id": "791C94AC-48F0-40DF-B040-DAE6A8F734FE"
+    },
+    {
+      "class": "group",
+      "id": "ADA819AF-5D7B-4F7A-8B32-43FF34190C91"
     },
     {
       "class": "text",
-      "id": "C7811CB7-C107-4C27-8C3B-DDD0DD0F17BD"
-    },
-    {
-      "class": "rectangle",
-      "id": "C7414D14-21E1-46B8-9F68-13EEF1FD7B5E"
+      "id": "184F6DC7-5E03-4F81-9AD3-BE55443321DA"
     }
   ],
-  "name": "App Icon v3",
+  "name": "App Icon v6",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -76,7 +77,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "F11C47CF-710E-49BC-B1A9-A21420063999",
+    "do_objectID": "064795CB-8032-4F82-AABB-291292863B7D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,7 +86,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E4F8239C-A061-458E-81EE-FBC2D6078CD2",
+    "do_objectID": "027BA7D0-FC6B-4B10-9A0F-EC6A40A1B58E",
     "guides": [
     ]
   }

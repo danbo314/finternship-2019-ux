@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADA819AF-5D7B-4F7A-8B32-43FF34190C91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00DFDCD5-E816-4859-9D13-8ADAF0F0C2FA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "88EA0756-CCF3-4A7F-A6F7-2320C34C0B74",
+    "height": 117,
+    "width": 116,
+    "x": 11,
+    "y": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A4611666-7A23-4A0C-A205-A6F8B08D4E04"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E8AD7E3B-70CF-48B1-A818-083F0021CE95"
+    },
+    {
+      "class": "shapePath",
+      "id": "190FA888-FB5E-4F8F-9F8C-F9FD481CC941"
+    }
+  ],
+  "name": "lumitylogo largeblue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8931AFE7-D62C-45DD-A71D-EFF4DCBB687F",
+      "opacity": 0.6775948660714286
+    },
+    "do_objectID": "17C3C8CC-67A3-4D8F-8A74-5D0AE11B0313",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
