@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F67456B0-30B7-4F39-B6C6-4F8AAE903BF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5A37AB1-48F3-4696-A197-9BC5CBCCD32A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FE5E4F9-443F-46A1-87DD-CE5D5F4D5C82",
+    "height": 118,
+    "width": 416,
+    "x": 408,
+    "y": 246
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Forms / Web / Selector",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01CBBB36-0907-4BB3-A664-592605B8D14B",
+      "overrideName": "89646D0D-B1D3-49B1-9DB0-B0C913848F8A_stringValue",
+      "value": "Event Type"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF3FCAEC-B796-481B-AD4F-7FAF859214CF",
+      "overrideName": "88077069-8DE7-4CBB-9084-DF09B0B8940D_stringValue",
+      "value": "All"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62C690A9-9B59-4DD7-BBDB-0B1C76D07D9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59882A4D-35F6-42DA-B666-EC69E5222107",
+  "verticalSpacing": 0
+}

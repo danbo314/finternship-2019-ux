@@ -1,0 +1,106 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9611369273569019,
+    "do_objectID": "86CBC274-4A75-48EA-AD3D-F8340D3CB12C",
+    "green": 0.9611369273569019,
+    "red": 0.9656080163043478
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "851CB8FB-1905-4B65-96AF-8EEABBD22CDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63974723-7D37-4404-9943-0F72EEFC705A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88B06751-B633-4B32-9022-F8DF652ED6EF",
+    "height": 1604,
+    "width": 1920,
+    "x": -960,
+    "y": -541
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B7ECF36C-AC9B-487F-9D45-0F8BDF7C0F42"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "200A3559-D1CF-4EC1-B1E5-F8A69E5B05D7",
+    "guides": [
+      212,
+      1691
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B5979A2-0ACA-4DAD-8875-6814E9704580"
+    },
+    {
+      "class": "group",
+      "id": "22CBB965-9E48-495A-A112-4DB049576BDD"
+    },
+    {
+      "class": "text",
+      "id": "5B530D52-C743-4464-8AB0-E0E21417C1AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8F5EDB1-D57F-4B72-AC75-01F326519966"
+    },
+    {
+      "class": "group",
+      "id": "E164E7D3-44E9-4A44-9FD4-0732A5B3CA89"
+    },
+    {
+      "class": "group",
+      "id": "0843C37A-FA08-40C2-993C-BEC2CD777FB4"
+    }
+  ],
+  "name": "Edit Survey - Full Page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3C04CA1-32CA-4A44-B8F1-0989696B87C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4CBA15BA-CCCF-419E-9083-0165012CB417",
+    "guides": [
+    ]
+  }
+}

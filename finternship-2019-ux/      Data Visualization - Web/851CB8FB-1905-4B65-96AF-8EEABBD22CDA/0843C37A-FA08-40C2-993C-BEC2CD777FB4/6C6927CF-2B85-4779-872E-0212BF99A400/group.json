@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C6927CF-2B85-4779-872E-0212BF99A400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 465,
+    "x": 0.80665238122765,
+    "y": 381.5491243424325
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EFA23E24-E1D9-439B-BF86-A9C501658FCD"
+    },
+    {
+      "class": "text",
+      "id": "F16ADE55-3384-4325-A2FE-185961A2FE6D"
+    },
+    {
+      "class": "text",
+      "id": "17718E02-74A8-4B0C-9E0F-DC0B87685DA7"
+    },
+    {
+      "class": "text",
+      "id": "A4CC5C88-B40D-42A2-ABE6-3A75B4F4D2B0"
+    }
+  ],
+  "name": "Dates - Satisfaction",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE142247-FCF4-45A3-9DFD-B351D55942BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 79,
+    "width": 465,
+    "x": 2.66072323520882,
+    "y": 381.5491243424325
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7171A6FB-1B5F-4427-8B0B-FAFFF0B6AED0"
+    },
+    {
+      "class": "text",
+      "id": "88048449-B88B-49EB-A79D-BEF2286B6802"
+    },
+    {
+      "class": "text",
+      "id": "743FDD79-117B-44E9-944D-651045E8CB24"
+    },
+    {
+      "class": "text",
+      "id": "4AC00CE8-1F43-4E07-9C6F-504B74CF684F"
+    }
+  ],
+  "name": "Dates - Attendance",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

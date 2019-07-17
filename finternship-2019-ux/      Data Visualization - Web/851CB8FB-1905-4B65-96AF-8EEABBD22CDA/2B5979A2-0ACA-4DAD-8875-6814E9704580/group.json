@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B5979A2-0ACA-4DAD-8875-6814E9704580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F193D0D9-DCA9-4CBA-BF2D-7BE7D3009D22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0459E010-3BBD-4894-BA8A-8381873E7985",
+    "height": 1604,
+    "width": 1920,
+    "x": -10,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D959F9C5-0A2C-4D4B-8612-2665881A3769"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DBB0AB11-BB26-4081-B02D-BF89E4E7ABD5"
+    },
+    {
+      "class": "rectangle",
+      "id": "70923B35-42B0-4572-A333-F5AB2FAA3D9B"
+    },
+    {
+      "class": "group",
+      "id": "7B0EF6E0-7676-4C34-BDBC-FE3B3D4A32E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F67456B0-30B7-4F39-B6C6-4F8AAE903BF2"
+    },
+    {
+      "class": "text",
+      "id": "2BECA0DB-4246-4610-9F96-C17D657DD4F6"
+    }
+  ],
+  "name": "Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7606C076-FFB2-4B13-B62E-34D076DB3924",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
